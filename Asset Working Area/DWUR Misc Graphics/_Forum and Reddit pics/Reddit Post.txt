@@ -1,0 +1,156 @@
+[img]https://i.imgur.com/3nqiRm3.png[/img]
+
+[size=150]/========== Versions ==========\[/size]
+
+FULL -- DWUR 1.0.0 ---> [url]https://drive.google.com/file/d/1u3bUHPKHD1U7xB0nS0gke_GRpYdw-diT/view?usp=drive_link[/url] (1.1GB)
+
+PARTS (for those having connection issues)--
+DWUR 1.0 PART 1 -- [url]https://drive.google.com/file/d/19YK_99ecVcqV40k8Gb3LaL1RAsBLpW_-/view?usp=drive_link[/url] (256MB)
+DWUR 1.0 PART 2 -- [url]https://drive.google.com/file/d/1sElXGC9iRtQQSM4ryV7366TQ-zUw9WUX/view?usp=drive_link[/url] (256MB)
+DWUR 1.0 PART 3 -- [url]https://drive.google.com/file/d/1QMfGL0VYBNSuFS8ZlbpTFM7WK1l0Ovr8/view?usp=drive_link[/url] (256MB)
+DWUR 1.0 PART 4 -- [url]https://drive.google.com/file/d/1TY5swURvYjjJEJJIRxn0Czp939HPjVcP/view?usp=drive_link[/url] (256MB)
+DWUR 1.0 PART 5 -- https://drive.google.com/file/d/1Jso5IwMX0ypuZNlzy8fOKY3_Z_e9v1bR/view?usp=drive_link (143MB)
+
+v1.0.0 -- 17 February 2024 -- 1354 new ship graphics. 150 new planet landscapes. 31 new message images. 17 refreshed cursors. New engine effects. New beam weapon effects. NEW EVERYTHING!!! (well...not really but it seems like it)
+
+v0.9.8 -- 06 December 2023 -- Fixed race misspellings. Fixed ship scaling. Fixed ship family mix-ups.
+v0.9.7a -- 29 August 2023 -- Updated files for RetreatUE incorporated mod
+v0.9.7 -- 24 August 2023 -- Added balancing tweaks from Xilot
+v0.9.6 -- 16 July 2023 -- Removed some ship sets at artists requests.
+v0.9.5a -- 24 June 2023 -- Adjusting sound effect levels based on feedback.
+v0.9.5 -- 22 June 2023 -- Normalized effect audio levels. Lowered gas giants image resolutions to avoid ring clipping.
+v0.9.4 -- 02 June 2023 -- Reduced image file sizes on many characters and stations.
+v0.9.3 -- 31 May 2023 -- Fixed wrong component pics for research. Fixed Terraforming Facility values.
+v0.9.2 -- 30 May 2023 -- Fixed the planet "bad shadows" issue. Added some additional music tracks.
+v0.9.0 -- 18 May 2023 -- Initial release
+
+[size=150]/========== Introduction ==========\[/size]
+
+With the release of Distant Worlds 2 about two years ago, I thought it was high time to put out a mod compilation for Distant Worlds 1!
+
+Haha, but seriously...
+
+While I do very much enjoy the combat and quality-of-life changes of DW2, Distant Worlds 1 (Distant Worlds Universe) is still more fleshed out IMO, having the benefit of several expansions and years of refined gameplay that has kept me hooked. ...Aaaand it is in greater need of some new shiny graphics. ...AND AND I'm a 2D art hobbyist, so all the 3D modeling of the ships and whatnot of DW2 is just too much for me.
+
+So I present: Distant Worlds Universe Refreshed ... or DWUR if acronyms do it for ya (no kink shame) ... a compilation of original and procured mod content from around the Distant Worlds community (and beyond!).
+
+[i][b]AI Trigger Warning:[/b] I use generative AI for portions of my workflow and to outright create parts of this compilation. I know some folks feel very strongly about AI art, so wanted to put it up front. I’m not an artist. I’m a dad and a spouse with limited time and money to commission the thousands of art assets in this compilation from actual artists for a free mod compilation for a 14-year-old game :) If it makes anyone feel better, it still takes a long damn time to arrive at what you see in the 3000+ images in the compilation.[/i]
+
+[img]https://i.imgur.com/0Nvv6pq.png[/img]
+
+[size=150]/========== DWUR Feature summary ==========\[/size]
+
+*New race and character art for all species (22 original species PLUS the 24 additional ones from Haree78's Distant World Extended Mod)
+*New shipsets (44 playable races, 2 NPC races and 3 Pirate sets)
+*New art for planets (all but gas giants and frozen gas giants...I'm still terrible at those)
+*Scaled down ships and weapon effects for better immersion
+*New space stations for all races
+*Refreshed engine and weapon effects (hand picked and modified from various sources)
+*Refreshed galaxy symbol overlays (decluttered and more specific)
+*Refreshed UI (new role graphics and some old DWU UI mod assets)
+*Refreshed sounds (mix of old/new/tweaked) and music (mainly Stellaris and some Stardrive tracks)
+
+[img]https://i.imgur.com/ebctUsU.png[/img]
+[img]https://i.imgur.com/2fpjQzT.png[/img]
+
+[size=150]/========== Installation Instructions ==========\[/size]
+
+Step 0 (not required but highly recommended): Install the Expansion Mod by Alvek (BaconMod with even more fixes and improvements).
+
+Link to Expansion Mod Forum Post: [url]https://www.matrixgames.com/forums/viewtopic.php?f=10492&t=394715[/url]
+
+[b]Note: Expansion Mod is currently flagging as a false positive a virus for Windows Defender and other AV programs.[/b] Alvek is fighting to prove his modified Distant Worlds 2 exe isn't a virus, but that effort is ongoing. I and other Expansion Mod enjoyers use his .exe every day. But I understand why it would spook many folks. I have not fully tested DWUR WITHOUT the Expansion Mod, so you might run into some quirks. FYI.
+
+Step 1: Download DWUR
+
+Download the DWUR zipped archive from the link at the top of the post. Create a folder called "DWUR" within the CUSTOMIZATION folder in your Distant Worlds Universe install location. Extract the files from the DWUR archive into your created DWUR folder.
+
+Step 2: Start Distant Worlds Universe. Go to "Change Theme" in the main menu. Select and activate the DWUR theme (this might take 20-30 seconds to fully activate.
+
+Step 3: Exit DWU and restart. (Yes, this is necessary). If you don't exit and restart, not all of the theme assets will be loaded. Just a quirk of DWU.
+
+[size=150]/========== (Optional) Xilot Balance Tweaks ==========\[/size]
+
+User Xilot has gone through and adjusted technologies, component values and a host of other things in an attempt to bring more balance to Retreat's excellent mod. Since some enjoy the regular RetreatUE gameplay and some appreciate Xilot's attempts at balancing things out, I'm pointing a link to Xilot's balance changes here so people can choose to incorporate Xilot's changes into DWUR or not.
+
+These should be copied into your DWUR customization folder after installing DWUR per instructions above.
+
+Xilot Balance Tweaks ---> [url]https://drive.google.com/file/d/1r22eUTd3_pPrkT-7VCdssErBQKgzJ1ie/view?usp=drive_link[/url] (37KB)
+
+[size=150]/========== New Race and Ship Sets ==========\[/size]
+
+When making the new species assets, I kept the original images and descriptions in mind, and at times tried to stay true to the original intent of each species, but at times I took some creative liberties to give as many species as much uniqueness and character as possible. Yes, there are straight up space squirrels (Jintus) and space emus (Banoserit), but I'm very happy with the results.
+
+Each ship set has been re-done. Yes this took a long time. Hope you enjoy! Here are a couple of samples:
+
+[img]https://i.imgur.com/50SqXDk.png[/img]
+[img]https://i.imgur.com/h08TmLd.png[/img]
+[img]https://i.imgur.com/pUED8iL.png[/img]
+[img]https://i.imgur.com/xoVdWuE.png[/img]
+[img]https://i.imgur.com/zZn3jPt.png[/img]
+
+[size=150]/========== New Planet Art ==========\[/size]
+
+[img]https://i.imgur.com/sPZlmVn.png[/img]
+
+DWU original and modded planets were…okay…but I wanted to see if I could create my own. I taught myself a bit about Blender and followed some detailed tutorials to dive into planet creation.
+
+[size=150]/========== Scaled Down Ships and Weapon Effects ==========\[/size]
+
+[img]https://i.imgur.com/2CbOcze.png[/img]
+
+Original ships and stations were okay…but you ended up with moon-sized escorts and moon-sized battleships. I put ship scaling into every design template to give a default sizing for each ship class.
+
+Ship class sizes:
+Capital Ships - 0.950
+Carriers - 0.950
+Large Freighter - 0.950
+Medium Freighter - 0.750
+Small Freighter - 0.500
+Cruisers - 0.750
+Construction Ship - 0.750
+Destroyers - 0.650
+Frigates - 0.500
+Escorts - 0.500
+
+[size=150]/========== Refreshed Engine and Weapon Effects ==========\[/size]
+
+[img]https://i.imgur.com/QDaPAIC.png[/img]
+
+Many of these were already modded into DWU by others. I just hand-picked my favorites and included them in DWUR.
+
+[size=150]/========== Refreshed Ship Symbols ==========\[/size]
+
+[img]https://i.imgur.com/Jmyqx8s.png[/img]
+
+Galaxy view in DWU gets cluttered. I edited the ship symbols to be more subdued.
+
+[img]https://i.imgur.com/2l5FpXa.png[/img]
+
+I decided to add special symbols to exploration and construction ships.
+
+As you zoom out, these symbols will help you see where your intrepid explorers and builders are off to. Little easier to distinguish at distance than diamonds vs squares vs circles, IMO.
+
+Similarly, I swapped out the military and fleet icons. Old ones were okay, but again...they've been "refreshed".
+
+[size=150]/========== Refreshed Sounds and Music ==========\[/size]
+
+Most sounds and music were fine. Most notably, I swapped out a lot of weapon effects from some other games (Stellaris...some from vanilla Starsector).
+
+The sound you’ll probably hear the most are the hyperdrive enter/exit sounds. Grabbed some from Stardrive 1.
+
+Music is a collection of tracks from Stellaris and Stardrive. Title track is a StreamBeat by Harris Heller (royalty free) https://open.spotify.com/artist/6GTRLqqiBPUqaOgyxOraHp
+
+[size=150]/========== Credits ==========\[/size]
+
+Thanks to Code Force for the amazing DW series--my absolute favorite Space 4X games.
+
+Thanks to Alvek for the wonderful Expansion Mod!
+
+Incorporated DWU mods:
+-- Retreat1970's RetreatUE Mod
+-- Mordachai's Unleashed Extended Mod
+-- DasTactic's DasChrome Mod
+-- Kebw1144's Stuff&Bits Mod
+-- Haree78's Distant Worlds Extended Mod
+-- Icemania's AI Improvement Mod
