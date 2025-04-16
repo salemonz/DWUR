@@ -1,47 +1,20 @@
-RetreatUE
+Distant Worlds Universe REFRESHED (DWUR)
+Version 1.1.2
 
-All of UE2's credits still apply. If anyone is missed, my apologies.
+/========== About ==========\
+For years I have enjoyed Distant Worlds Universe. This mod compilation is my attempt to give back to the community by combining the best DWU gameplay and visual enhancements into one experience. It features completely redesigned aliens (all 45 races from Haree78's Extended Mod...whew!), all new shipsets, new planet graphics, new/refreshed sounds, new/refreshed UI elements and an integrated variety of the best DWU gameplay mods out there (IMO).
+-- Salemonz
 
-My desire was to make UE2 hard, or at least as hard as I could within the AI's limitations. I feel I have done the best I could.
+/========== Installation ==========\
+1. Download the .zip or .7z archive for DWUR that holds all of the mod's files
+2. Create a directory for the mod within your Distant Worlds: Universe folder's CUSTOMIZATION directory...you can call this whatever you'd like.
+3. Unpack the downloaded DWUR archive into the directory you created in step 2. IF YOU EXPAND FILES DIRECTLY INTO THE CUSTOMIZATION FOLDER, THE GAME WON'T KNOW WHAT TO DO WITH THEM.
+4. Launch the game.
+5. Go to "Change Theme"
+6. Pick the name of the directory you created in step 2 and click Activate Theme.
 
-Changes from UE2:
+(The game might hang for up to a minute while everything loads)
 
-5 new races. I didn't have to add any since I already feel there are too many, but I did it for fun. I stopped at 5 because I hit the shipset limit of 50.
-Abiddon, Amonkrie, and Drushocka. Three races from the Space Empires universe. The Drushocka adds the Silicoid race family. Unfortunately they are the only one.
-Arm and Core. Some of you older players may remember these guys from Total Annihilation (my favorite RTS). The Core has its unique Government The Core Consciousness,
-and a unique leader character. 
-There is more about these races in their help files.
-
-All design templates have been edited for every race. The goal was to streamline builds and make things efficient not wasteful. For example: The Atuuk are railgun.
-They're not Ion, missile, or Gravity. Therefore all Atuuk builds are heavy railgun and ZERO everything else. Think that's weak? Wait until you meet them. Since they're
-only railgun they tend to research railguns pretty fast.
-
-Added two files to the help folder. Adamantium and Uranium. I still need to make a core consciousness help file, but I'm lazy.
-
-All policy files were edited. The biggest changed were: research industry focus, troop loadouts, ship capture settings, population limits for construction etc...
-
-Race files. All race files have a research script for all three branches. They all extend to end game. They all will research certain wonders (depends on race).
-None push for wonders, so it should still be possible for the player to get one or two.
-
-Weapon branch notes: Beam races research to superbeam. Gravity and Area were combined for grav races because of the dependancies. I cut the size of all grav weapons
-by half. I think grav weapons are weak, but I didn't want to alter them much, so I got lazy. Most everyone researches point defense to terminal. The hanger bays were
-changed. Normal bays make 4, 6, 8 fighters per tech level. The racial bays make 6, 8, 10 fighters per tech level. I did this because the AI was not upgrading bays before.
-Now they do. All races research armor to reflective. They all research armor, defense, and special forces. All research Elite Troop Project and fortified bunkers.
-
-Energy branch notes: Extended Keskudon reactor to end game. Extended and altered Dhayut drive to end game, and it's formidable. Extended and altered the Riktoh space
-denial. Changed space contruction sizes to 250, 500, 800, 1200, 1600, and 2000. There was a reason which was certain ship classes (capital, carrier, resupply), if they
-didn't have sufficient space, would use older tech and never upgrade (applies to AI not people). Bumping up the size limit a little seemed to help. Changed sized of engines.
-AI wasn't upgrading from Ion in some cases. All research planetary shield, and remote shielding.
-
-Hitech branch notes: All races with a spy bonus (human, lipid, etc...) research out to stealth and use it. Everyone researches out to fleet target and ecm. Everyone
-researches out to deep space arrays. I wasn't sure if the AI needs to see, but I added it in anyways.
-
-Just a note about research scripting: everyone researches out 30 techs per tree (more or less). They all basically research the same because I wanted everyone to be relatively
-close in tech power (+/- 1 tech level). This leads to competitive games. Races stick to their weapon of choice. If its missiles, its missiles. Remember this only applies to AI behavior.
-You can do whatever in your designs. Games should be challenging. That was the whole purpose. I've seen the Ugnari pummel my fleets with planet busting rail guns before I finished
-the phaser line. It was not good. Luckily the AI doesn't follow up on things too well. I was vulnerable, but they left (thank god). Some of the warrior races research army upgrades
-pretty far. Be wary of invasions. Bring alot more than what you think. Especially since they'll build the elite troop building and fortress.
-
-Added Moo2 and SE5 music. I feel Moo2 music is the best space music ever made, so simple yet haunting.
-
-There's alot more I probably missed. All of this was because of the love I had for UE. Thank you Mordachai.
+7. Exit the game and restart (even though the game loads the files after clicking "Activate Theme", it only partially loads...I don't know why DW:U is like this...I'm not a developer :D You need to exit the game and restart after activating the theme.)
+8. You'll know the mod is fully activated by seeing the custom DWUR background and hearing the music (if you have your music volume turned on)
+9. Enjoy!
