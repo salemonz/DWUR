@@ -301,7 +301,7 @@ COMPONENT IMPROVEMENTS	;14, 6, 15, 275, 6, 660, 1, 480, 0,
 PARENTS			;55, N
 
 PROJECT			;57, Hangar Bay, 1, 25, 		0, 3, 0, 0.0,
-COMPONENTS		;26
+COMPONENTS		;26, 179
 FIGHTERS		;0, 6
 
 PROJECT			;58, Medium Torpedo Bombers, 3, 27, 		0, 7, 0, 5.2,
@@ -313,7 +313,7 @@ FIGHTERS		;9
 PARENTS			;60, Y, 58, Y
 
 PROJECT			;60, Advanced Hangar Bay, 3, 25, 		0, 3, 0, 5.2,
-COMPONENTS		;27
+COMPONENTS		;27, 180
 PARENTS			;57, N
 
 PROJECT			;61, Torpedo Strike Bombers, 5, 27, 		0, 7, 0, 11.2,
@@ -1832,7 +1832,7 @@ COMPONENT IMPROVEMENTS	;74, 1, 175, 0, 0, 0, 0, 0, 0,
 PARENTS			;241, N
 
 PROJECT			;439, Ultimate Hangar Bay, 5, 25, 		0, 3, 0, 11.2,
-COMPONENTS		;166
+COMPONENTS		;166, 181
 PARENTS			;60, N
 
 PROJECT			;440, Quameno Research Labs, 7, 38, 		2, 11, 0, 18.5,
@@ -2309,16 +2309,16 @@ FIGHTERS		;12
 PARENTS			;57, Y
 
 PROJECT			;556, Natural Flight Integration, 1, 24, 		0, 3, 0, 0.0,
-COMPONENTS		;130
+COMPONENTS		;130, 182
 ALLOWED RACES	;Caleph, Yl'ta
 
 PROJECT			;557, Multi Dimension Maintenance, 3, 24, 		0, 3, 0, 5.2,
-COMPONENT IMPROVEMENTS	;130, 3, 80, 8, 0, 0, 0, 0, 0,
+COMPONENT IMPROVEMENTS	;130, 3, 80, 8, 0, 0, 0, 0, 0,			182, 3, 80, 8, 0, 0, 0, 0, 0,
 PARENTS			;556, N
 ALLOWED RACES	;Caleph, Yl'ta
 
 PROJECT			;558, Advanced Natural Flight, 5, 24, 		0, 3, 0, 11.2,
-COMPONENT IMPROVEMENTS	;130, 5, 100, 8, 0, 0, 0, 0, 0,
+COMPONENT IMPROVEMENTS	;130, 5, 100, 8, 0, 0, 0, 0, 0,			182, 5, 100, 8, 0, 0, 0, 0, 0,
 PARENTS			;557, N
 ALLOWED RACES	;Caleph, Yl'ta
 
