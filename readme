@@ -24,9 +24,6 @@ v0.9.0 -- 18 May 2023 -- Initial release
 /========== Known Issues ==========\
 16 April 2025 -- I'm hitting component number limits with the game files. While I now have fighter/bomber combo hangars so the AI doesn't just build fighters only AND I have fighter-only hangars so players can add in those for space superiority (combo hangars force a 50/50 fighter/bomber split) right now I am NOT able to add in bomber-only hangars b/c I've run out of components to use. For now all that is in the game are combo fighter/bomber hangars and fighter-only hangars.
 
-
-
-
 /========== Installation ==========\
 1. Download the .zip or .7z archive for DWUR that holds all of the mod's files
 2. Create a directory for the mod within your Distant Worlds: Universe folder's CUSTOMIZATION directory...you can call this whatever you'd like.
