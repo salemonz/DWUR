@@ -5,6 +5,28 @@ Version 1.1.2
 For years I have enjoyed Distant Worlds Universe. This mod compilation is my attempt to give back to the community by combining the best DWU gameplay and visual enhancements into one experience. It features completely redesigned aliens (all 45 races from Haree78's Extended Mod...whew!), all new shipsets, new planet graphics, new/refreshed sounds, new/refreshed UI elements and an integrated variety of the best DWU gameplay mods out there (IMO).
 -- Salemonz
 
+v1.1.2 -- 16 April 2025 -- Fixed "spinning missile" situation. Added in fighter/bomber combo hangars for the AI.
+v1.1.1 -- 29 March 2025 -- Updated blank pirate policy files that were causing errors with Alvek's Expanded Mod
+v1.1.0 -- 16 April 2024 -- A few UI icon tweaks/replacements.
+v1.0.1 -- 25 February 2024 -- New in-game Race Help files with edited backstories for each race.
+v1.0.0 -- 17 February 2024 -- 1354 new ship graphics. 150 new planet landscapes. 31 new message images. 17 refreshed cursors. New engine effects. New beam weapon effects. NEW EVERYTHING!!! (well...not really but it seems like it)
+v0.9.8 -- 06 December 2023 -- Fixed race misspellings. Fixed ship scaling. Fixed ship family mix-ups.
+v0.9.7a -- 29 August 2023 -- Updated files for RetreatUE incorporated mod.
+v0.9.7 -- 24 August 2023 -- Added balancing tweaks from Xilot
+v0.9.6 -- 16 July 2023 -- Removed some ship sets at artists requests.
+v0.9.5a -- 24 June 2023 -- Adjusting sound effect levels based on feedback.
+v0.9.5 -- 22 June 2023 -- Normalized effect audio levels. Lowered gas giants image resolutions to avoid ring clipping.
+v0.9.4 -- 02 June 2023 -- Reduced image file sizes on many characters and stations.
+v0.9.3 -- 31 May 2023 -- Fixed wrong component pics for research. Fixed Terraforming Facility values.
+v0.9.2 -- 30 May 2023 -- Fixed the planet "bad shadows" issue. Added some additional music tracks.
+v0.9.0 -- 18 May 2023 -- Initial release
+
+/========== Known Issues ==========\
+16 April 2025 -- I'm hitting component number limits with the game files. While I now have fighter/bomber combo hangars so the AI doesn't just build fighters only AND I have fighter-only hangars so players can add in those for space superiority (combo hangars force a 50/50 fighter/bomber split) right now I am NOT able to add in bomber-only hangars b/c I've run out of components to use. For now all that is in the game are combo fighter/bomber hangars and fighter-only hangars.
+
+
+
+
 /========== Installation ==========\
 1. Download the .zip or .7z archive for DWUR that holds all of the mod's files
 2. Create a directory for the mod within your Distant Worlds: Universe folder's CUSTOMIZATION directory...you can call this whatever you'd like.
