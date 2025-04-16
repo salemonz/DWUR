@@ -26,11 +26,10 @@ v0.9.0 -- 18 May 2023 -- Initial release
 
 /========== Installation ==========\
 1. Download the .zip or .7z archive for DWUR that holds all of the mod's files
-2. Create a directory for the mod within your Distant Worlds: Universe folder's CUSTOMIZATION directory...you can call this whatever you'd like.
-3. Unpack the downloaded DWUR archive into the directory you created in step 2. IF YOU EXPAND FILES DIRECTLY INTO THE CUSTOMIZATION FOLDER, THE GAME WON'T KNOW WHAT TO DO WITH THEM.
-4. Launch the game.
-5. Go to "Change Theme"
-6. Pick the name of the directory you created in step 2 and click Activate Theme.
+2. Unpack the downloaded DWUR archive into the CUSTOMIZATION folder of your DWU game directory.
+3. Launch the game.
+4. Go to "Change Theme"
+5. Pick the name of the directory you created in step 2 and click Activate Theme.
 
 (The game might hang for up to a minute while everything loads)
 
