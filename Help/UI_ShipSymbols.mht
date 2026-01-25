@@ -1,9 +1,9 @@
 MIME-Version: 1.0
-Content-Type: multipart/related; boundary="----=_NextPart_01CB8DB5.1149D740"
+Content-Type: multipart/related; boundary="----=_NextPart_01DC8E0E.CA45CA50"
 
-This document is a Single File Web Page, also known as a Web Archive file.  If you are seeing this message, your browser or editor doesn't support Web Archive files.  Please download a browser that supports Web Archive, such as Windows® Internet Explorer®.
+This document is a Single File Web Page, also known as a Web Archive file.  If you are seeing this message, your browser or editor doesn't support Web Archive files.  Please download a browser that supports Web Archive.
 
-------=_NextPart_01CB8DB5.1149D740
+------=_NextPart_01DC8E0E.CA45CA50
 Content-Location: file:///C:/B902C9F3/UI_ShipSymbols.htm
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/html; charset="us-ascii"
@@ -17,8 +17,8 @@ xmlns=3D"http://www.w3.org/TR/REC-html40">
 <head>
 <meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
 <meta name=3DProgId content=3DWord.Document>
-<meta name=3DGenerator content=3D"Microsoft Word 12">
-<meta name=3DOriginator content=3D"Microsoft Word 12">
+<meta name=3DGenerator content=3D"Microsoft Word 15">
+<meta name=3DOriginator content=3D"Microsoft Word 15">
 <link rel=3DFile-List href=3D"UI_ShipSymbols_files/filelist.xml">
 <link rel=3DEdit-Time-Data href=3D"UI_ShipSymbols_files/editdata.mso">
 <!--[if !mso]>
@@ -32,11 +32,11 @@ w\:* {behavior:url(#default#VML);}
  <o:DocumentProperties>
   <o:Author>Elliot</o:Author>
   <o:Template>Normal</o:Template>
-  <o:LastAuthor>Elliot Gibbs</o:LastAuthor>
-  <o:Revision>59</o:Revision>
+  <o:LastAuthor>Joshua Salmons</o:LastAuthor>
+  <o:Revision>60</o:Revision>
   <o:TotalTime>666</o:TotalTime>
   <o:Created>2009-09-09T06:05:00Z</o:Created>
-  <o:LastSaved>2010-11-26T08:58:00Z</o:LastSaved>
+  <o:LastSaved>2026-01-25T21:25:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
   <o:Words>128</o:Words>
   <o:Characters>732</o:Characters>
@@ -44,22 +44,20 @@ w\:* {behavior:url(#default#VML);}
   <o:Lines>6</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
   <o:CharactersWithSpaces>859</o:CharactersWithSpaces>
-  <o:Version>12.00</o:Version>
+  <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
-  <o:PixelsPerInch>120</o:PixelsPerInch>
-  <o:TargetScreenSize>1024x768</o:TargetScreenSize>
  </o:OfficeDocumentSettings>
 </xml><![endif]-->
 <link rel=3DdataStoreItem href=3D"UI_ShipSymbols_files/item0022.xml"
-target=3D"UI_ShipSymbols_files/props0023.xml">
+target=3D"UI_ShipSymbols_files/props023.xml">
 <link rel=3DthemeData href=3D"UI_ShipSymbols_files/themedata.thmx">
 <link rel=3DcolorSchemeMapping href=3D"UI_ShipSymbols_files/colorschememapp=
 ing.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
-  <w:Zoom>140</w:Zoom>
+  <w:View>Print</w:View>
   <w:DisplayBackgroundShape/>
   <w:SpellingState>Clean</w:SpellingState>
   <w:GrammarState>Clean</w:GrammarState>
@@ -105,7 +103,7 @@ ing.xml">
   </m:mathPr></w:WordDocument>
 </xml><![endif]--><!--[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState=3D"false" DefUnhideWhenUsed=3D"false"
-  DefSemiHidden=3D"false" DefQFormat=3D"false" LatentStyleCount=3D"267">
+  DefSemiHidden=3D"false" DefQFormat=3D"false" LatentStyleCount=3D"376">
   <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Normal"/>
   <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"heading 1"/>
   <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
@@ -141,7 +139,139 @@ ue"
   <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Subtitle"/>
   <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Strong"/>
   <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Emphasis"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Normal Table"/>
   <w:LsdException Locked=3D"false" Priority=3D"99" Name=3D"No List"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Simple 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Simple 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Simple 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Classic 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Classic 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Classic 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Classic 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Colorful 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Colorful 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Colorful 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Columns 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Columns 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Columns 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Columns 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Columns 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 6"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 7"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 8"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 6"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 7"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 8"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table 3D effects 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table 3D effects 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table 3D effects 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Contemporary"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Elegant"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Professional"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Subtle 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Subtle 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Web 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Web 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Web 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Theme"/>
   <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
    Name=3D"Placeholder Text"/>
   <w:LsdException Locked=3D"false" Priority=3D"1" QFormat=3D"true" Name=3D"=
@@ -353,6 +483,213 @@ cent 6"/>
    UnhideWhenUsed=3D"true" Name=3D"Bibliography"/>
   <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
    UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"TOC Heading"/>
+  <w:LsdException Locked=3D"false" Priority=3D"41" Name=3D"Plain Table 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"42" Name=3D"Plain Table 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"43" Name=3D"Plain Table 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"44" Name=3D"Plain Table 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"45" Name=3D"Plain Table 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"40" Name=3D"Grid Table Light=
+"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46" Name=3D"Grid Table 1 Lig=
+ht"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51" Name=3D"Grid Table 6 Col=
+orful"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52" Name=3D"Grid Table 7 Col=
+orful"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"Grid Table 1 Light Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2 Acc=
+ent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3 Acc=
+ent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4 Acc=
+ent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"Grid Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"Grid Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"Grid Table 1 Light Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2 Acc=
+ent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3 Acc=
+ent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4 Acc=
+ent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"Grid Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"Grid Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"Grid Table 1 Light Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2 Acc=
+ent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3 Acc=
+ent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4 Acc=
+ent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"Grid Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"Grid Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"Grid Table 1 Light Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2 Acc=
+ent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3 Acc=
+ent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4 Acc=
+ent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"Grid Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"Grid Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"Grid Table 1 Light Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2 Acc=
+ent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3 Acc=
+ent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4 Acc=
+ent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"Grid Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"Grid Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"Grid Table 1 Light Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2 Acc=
+ent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3 Acc=
+ent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4 Acc=
+ent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"Grid Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"Grid Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46" Name=3D"List Table 1 Lig=
+ht"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51" Name=3D"List Table 6 Col=
+orful"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52" Name=3D"List Table 7 Col=
+orful"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"List Table 1 Light Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2 Acc=
+ent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3 Acc=
+ent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4 Acc=
+ent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"List Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"List Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"List Table 1 Light Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2 Acc=
+ent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3 Acc=
+ent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4 Acc=
+ent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"List Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"List Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"List Table 1 Light Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2 Acc=
+ent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3 Acc=
+ent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4 Acc=
+ent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"List Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"List Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"List Table 1 Light Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2 Acc=
+ent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3 Acc=
+ent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4 Acc=
+ent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"List Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"List Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"List Table 1 Light Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2 Acc=
+ent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3 Acc=
+ent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4 Acc=
+ent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"List Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"List Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"List Table 1 Light Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2 Acc=
+ent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3 Acc=
+ent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4 Acc=
+ent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"List Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"List Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Mention"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Smart Hyperlink"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Hashtag"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Unresolved Mention"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Smart Link"/>
  </w:LatentStyles>
 </xml><![endif]-->
 <style>
@@ -363,17 +700,23 @@ cent 6"/>
 	panose-1:2 2 6 9 4 2 5 8 3 4;
 	mso-font-alt:"\FF2D\FF33 \660E\671D";
 	mso-font-charset:128;
-	mso-generic-font-family:modern;
+	mso-generic-font-family:roman;
 	mso-font-pitch:fixed;
-	mso-font-signature:-536870145 1791491579 18 0 131231 0;}
+	mso-font-signature:1 134676480 16 0 131072 0;}
 @font-face
 	{font-family:"Cambria Math";
 	panose-1:2 4 5 3 5 4 6 3 2 4;
-	mso-font-charset:1;
+	mso-font-charset:0;
 	mso-generic-font-family:roman;
-	mso-font-format:other;
 	mso-font-pitch:variable;
-	mso-font-signature:0 0 0 0 0 0;}
+	mso-font-signature:-536869121 1107305727 33554432 0 415 0;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1610610945 1073750107 16 0 415 0;}
 @font-face
 	{font-family:Tahoma;
 	panose-1:2 11 6 4 3 5 4 4 2 4;
@@ -381,13 +724,6 @@ cent 6"/>
 	mso-generic-font-family:swiss;
 	mso-font-pitch:variable;
 	mso-font-signature:-520081665 -1073717157 41 0 66047 0;}
-@font-face
-	{font-family:Verdana;
-	panose-1:2 11 6 4 3 5 4 4 2 4;
-	mso-font-charset:0;
-	mso-generic-font-family:swiss;
-	mso-font-pitch:variable;
-	mso-font-signature:-1593833729 1073750107 16 0 415 0;}
 @font-face
 	{font-family:"\@MS Mincho";
 	panose-1:2 2 6 9 4 2 5 8 3 4;
@@ -400,14 +736,14 @@ cent 6"/>
 	{mso-style-unhide:no;
 	mso-style-qformat:yes;
 	mso-style-parent:"";
-	margin-top:0cm;
-	margin-right:0cm;
+	margin-top:0in;
+	margin-right:0in;
 	margin-bottom:10.0pt;
-	margin-left:0cm;
+	margin-left:0in;
 	mso-pagination:widow-orphan;
 	font-size:10.0pt;
 	mso-bidi-font-size:12.0pt;
-	font-family:"Verdana","sans-serif";
+	font-family:"Verdana",sans-serif;
 	mso-fareast-font-family:"MS Mincho";
 	mso-bidi-font-family:"Times New Roman";
 	color:#AAAAAA;}
@@ -416,15 +752,15 @@ h2
 	mso-style-qformat:yes;
 	mso-style-link:"Heading 2 Char";
 	mso-style-next:Normal;
-	margin-top:18.0pt;
-	margin-right:0cm;
+	margin-top:.25in;
+	margin-right:0in;
 	margin-bottom:12.0pt;
-	margin-left:0cm;
+	margin-left:0in;
 	mso-pagination:widow-orphan lines-together;
 	page-break-after:avoid;
 	mso-outline-level:2;
 	font-size:13.0pt;
-	font-family:"Verdana","sans-serif";
+	font-family:"Verdana",sans-serif;
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:major-fareast;
 	mso-bidi-font-family:"Times New Roman";
@@ -436,15 +772,15 @@ h3
 	mso-style-link:"Heading 3 Char";
 	mso-style-next:Normal;
 	margin-top:16.0pt;
-	margin-right:0cm;
+	margin-right:0in;
 	margin-bottom:10.0pt;
-	margin-left:0cm;
+	margin-left:0in;
 	mso-pagination:widow-orphan lines-together;
 	page-break-after:avoid;
 	mso-outline-level:3;
 	font-size:11.0pt;
 	mso-bidi-font-size:12.0pt;
-	font-family:"Verdana","sans-serif";
+	font-family:"Verdana",sans-serif;
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:major-fareast;
 	mso-bidi-font-family:"Times New Roman";
@@ -453,28 +789,28 @@ h3
 p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
 	{mso-style-unhide:no;
 	mso-style-link:"Balloon Text Char";
-	margin-top:0cm;
-	margin-right:0cm;
+	margin-top:0in;
+	margin-right:0in;
 	margin-bottom:10.0pt;
-	margin-left:0cm;
+	margin-left:0in;
 	mso-pagination:widow-orphan;
 	font-size:8.0pt;
-	font-family:"Tahoma","sans-serif";
+	font-family:"Tahoma",sans-serif;
 	mso-fareast-font-family:"MS Mincho";
 	color:#AAAAAA;}
 p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
 	{mso-style-priority:34;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
-	margin-top:0cm;
-	margin-right:0cm;
+	margin-top:0in;
+	margin-right:0in;
 	margin-bottom:10.0pt;
-	margin-left:36.0pt;
+	margin-left:.5in;
 	mso-add-space:auto;
 	mso-pagination:widow-orphan;
 	font-size:10.0pt;
 	mso-bidi-font-size:12.0pt;
-	font-family:"Verdana","sans-serif";
+	font-family:"Verdana",sans-serif;
 	mso-fareast-font-family:"MS Mincho";
 	mso-bidi-font-family:"Times New Roman";
 	color:#AAAAAA;}
@@ -484,16 +820,15 @@ raphCxSpFirst
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
 	mso-style-type:export-only;
-	margin-top:0cm;
-	margin-right:0cm;
-	margin-bottom:0cm;
-	margin-left:36.0pt;
-	margin-bottom:.0001pt;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
 	mso-add-space:auto;
 	mso-pagination:widow-orphan;
 	font-size:10.0pt;
 	mso-bidi-font-size:12.0pt;
-	font-family:"Verdana","sans-serif";
+	font-family:"Verdana",sans-serif;
 	mso-fareast-font-family:"MS Mincho";
 	mso-bidi-font-family:"Times New Roman";
 	color:#AAAAAA;}
@@ -503,16 +838,15 @@ agraphCxSpMiddle
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
 	mso-style-type:export-only;
-	margin-top:0cm;
-	margin-right:0cm;
-	margin-bottom:0cm;
-	margin-left:36.0pt;
-	margin-bottom:.0001pt;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
 	mso-add-space:auto;
 	mso-pagination:widow-orphan;
 	font-size:10.0pt;
 	mso-bidi-font-size:12.0pt;
-	font-family:"Verdana","sans-serif";
+	font-family:"Verdana",sans-serif;
 	mso-fareast-font-family:"MS Mincho";
 	mso-bidi-font-family:"Times New Roman";
 	color:#AAAAAA;}
@@ -522,15 +856,15 @@ phCxSpLast
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
 	mso-style-type:export-only;
-	margin-top:0cm;
-	margin-right:0cm;
+	margin-top:0in;
+	margin-right:0in;
 	margin-bottom:10.0pt;
-	margin-left:36.0pt;
+	margin-left:.5in;
 	mso-add-space:auto;
 	mso-pagination:widow-orphan;
 	font-size:10.0pt;
 	mso-bidi-font-size:12.0pt;
-	font-family:"Verdana","sans-serif";
+	font-family:"Verdana",sans-serif;
 	mso-fareast-font-family:"MS Mincho";
 	mso-bidi-font-family:"Times New Roman";
 	color:#AAAAAA;}
@@ -542,7 +876,7 @@ span.Heading2Char
 	mso-style-link:"Heading 2";
 	mso-ansi-font-size:13.0pt;
 	mso-bidi-font-size:13.0pt;
-	font-family:"Verdana","sans-serif";
+	font-family:"Verdana",sans-serif;
 	mso-ascii-font-family:Verdana;
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:major-fareast;
@@ -559,7 +893,7 @@ span.Heading3Char
 	mso-style-link:"Heading 3";
 	mso-ansi-font-size:11.0pt;
 	mso-bidi-font-size:12.0pt;
-	font-family:"Verdana","sans-serif";
+	font-family:"Verdana",sans-serif;
 	mso-ascii-font-family:Verdana;
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:major-fareast;
@@ -568,6 +902,18 @@ span.Heading3Char
 	mso-bidi-theme-font:major-bidi;
 	color:#AAAAAA;
 	font-weight:bold;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;}
 span.BalloonTextChar
 	{mso-style-name:"Balloon Text Char";
 	mso-style-unhide:no;
@@ -575,7 +921,7 @@ span.BalloonTextChar
 	mso-style-link:"Balloon Text";
 	mso-ansi-font-size:8.0pt;
 	mso-bidi-font-size:8.0pt;
-	font-family:"Tahoma","sans-serif";
+	font-family:"Tahoma",sans-serif;
 	mso-ascii-font-family:Tahoma;
 	mso-fareast-font-family:"MS Mincho";
 	mso-hansi-font-family:Tahoma;
@@ -584,11 +930,10 @@ p.Chart, li.Chart, div.Chart
 	{mso-style-name:Chart;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
-	margin:0cm;
-	margin-bottom:.0001pt;
+	margin:0in;
 	mso-pagination:widow-orphan;
 	font-size:10.0pt;
-	font-family:"Verdana","sans-serif";
+	font-family:"Verdana",sans-serif;
 	mso-fareast-font-family:"MS Mincho";
 	mso-bidi-font-family:"Times New Roman";
 	color:#AAAAAA;}
@@ -600,10 +945,12 @@ span.SpellE
 	mso-default-props:yes;
 	font-size:10.0pt;
 	mso-ansi-font-size:10.0pt;
-	mso-bidi-font-size:10.0pt;}
+	mso-bidi-font-size:10.0pt;
+	mso-font-kerning:0pt;
+	mso-ligatures:none;}
 @page WordSection1
 	{size:595.3pt 841.9pt;
-	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	margin:1.0in 1.25in 1.0in 1.25in;
 	mso-header-margin:35.4pt;
 	mso-footer-margin:35.4pt;
 	mso-paper-source:0;}
@@ -620,14 +967,12 @@ div.WordSection1
 	mso-tstyle-colband-size:0;
 	mso-style-noshow:yes;
 	mso-style-priority:99;
-	mso-style-qformat:yes;
 	mso-style-parent:"";
-	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
-	mso-para-margin:0cm;
-	mso-para-margin-bottom:.0001pt;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
 	mso-pagination:widow-orphan;
 	font-size:10.0pt;
-	font-family:"Times New Roman","serif";}
+	font-family:"Times New Roman",serif;}
 table.MsoTableGrid
 	{mso-style-name:"Table Grid";
 	mso-tstyle-rowband-size:0;
@@ -637,16 +982,15 @@ table.MsoTableGrid
 	mso-border-themecolor:text1;
 	mso-border-alt:solid black .5pt;
 	mso-border-themecolor:text1;
-	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
 	mso-border-insideh:.5pt solid black;
 	mso-border-insideh-themecolor:text1;
 	mso-border-insidev:.5pt solid black;
 	mso-border-insidev-themecolor:text1;
-	mso-para-margin:0cm;
-	mso-para-margin-bottom:.0001pt;
+	mso-para-margin:0in;
 	mso-pagination:widow-orphan;
 	font-size:10.0pt;
-	font-family:"Times New Roman","serif";}
+	font-family:"Times New Roman",serif;}
 table.DWChart
 	{mso-style-name:DW_Chart;
 	mso-tstyle-rowband-size:1;
@@ -654,12 +998,11 @@ table.DWChart
 	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
-	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
-	mso-para-margin:0cm;
-	mso-para-margin-bottom:.0001pt;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
 	mso-pagination:widow-orphan;
 	font-size:10.0pt;
-	font-family:"Times New Roman","serif";}
+	font-family:"Times New Roman",serif;}
 table.DWChartOddRow
 	{mso-style-name:DW_Chart;
 	mso-table-condition:odd-row;
@@ -667,7 +1010,7 @@ table.DWChartOddRow
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
 	mso-tstyle-shading:#383838;
-	font-family:"Cambria","serif";
+	font-family:"Cambria",serif;
 	mso-ascii-font-family:Cambria;
 	mso-ascii-theme-font:major-latin;
 	mso-hansi-font-family:Cambria;
@@ -681,12 +1024,11 @@ table.DWChart2
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
 	mso-style-parent:DW_Chart;
-	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
-	mso-para-margin:0cm;
-	mso-para-margin-bottom:.0001pt;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
 	mso-pagination:widow-orphan;
 	font-size:10.0pt;
-	font-family:"Times New Roman","serif";}
+	font-family:"Times New Roman",serif;}
 table.DWChart2OddRow
 	{mso-style-name:DW_Chart2;
 	mso-table-condition:odd-row;
@@ -695,7 +1037,7 @@ table.DWChart2OddRow
 	mso-style-qformat:yes;
 	mso-style-parent:DW_Chart;
 	mso-tstyle-shading:#383838;
-	font-family:"Cambria","serif";
+	font-family:"Cambria",serif;
 	mso-ascii-font-family:Cambria;
 	mso-ascii-theme-font:major-latin;
 	mso-hansi-font-family:Cambria;
@@ -711,16 +1053,16 @@ table.DWChart2EvenRow
 	mso-tstyle-shading:#181818;}
 </style>
 <![endif]--><!--[if gte mso 9]><xml>
- <o:shapedefaults v:ext=3D"edit" spidmax=3D"18434">
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"1026">
   <o:colormru v:ext=3D"edit" colors=3D"#33363d,#27282c"/>
-  <o:colormenu v:ext=3D"edit" fillcolor=3D"#27282c"/>
  </o:shapedefaults></xml><![endif]--><!--[if gte mso 9]><xml>
  <o:shapelayout v:ext=3D"edit">
   <o:idmap v:ext=3D"edit" data=3D"1"/>
  </o:shapelayout></xml><![endif]-->
 </head>
 
-<body bgcolor=3D"#27282C" lang=3DEN-NZ style=3D'tab-interval:36.0pt'>
+<body bgcolor=3D"#27282C" lang=3DEN-US style=3D'tab-interval:.5in;word-wrap=
+:break-word'>
 
 <div class=3DWordSection1>
 
@@ -754,30 +1096,26 @@ symbols used for each type of ship and base are displayed below.<o:p></o:p>=
  <tr style=3D'mso-yfti-irow:0;mso-yfti-firstrow:yes'>
   <td width=3D362 colspan=3D2 style=3D'width:271.3pt;background:#383838;pad=
 ding:5.75pt 5.75pt 5.75pt 5.75pt'>
-  <p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;mso=
--yfti-cnfc:
-  64'><b style=3D'mso-bidi-font-weight:normal'><span style=3D'font-size:13.=
-0pt;
-  mso-bidi-font-family:Verdana'>State Controlled<o:p></o:p></span></b></p>
+  <p class=3DMsoNormal style=3D'margin-bottom:0in;mso-yfti-cnfc:64'><b
+  style=3D'mso-bidi-font-weight:normal'><span style=3D'font-size:13.0pt;mso=
+-bidi-font-family:
+  Verdana'>State Controlled<o:p></o:p></span></b></p>
   </td>
   <td width=3D280 colspan=3D2 style=3D'width:210.05pt;background:#383838;pa=
 dding:
   5.75pt 5.75pt 5.75pt 5.75pt'>
-  <p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;mso=
--yfti-cnfc:
-  64'><b style=3D'mso-bidi-font-weight:normal'><span style=3D'font-size:13.=
-0pt;
-  mso-bidi-font-family:Verdana'>Privately Controlled<o:p></o:p></span></b><=
-/p>
+  <p class=3DMsoNormal style=3D'margin-bottom:0in;mso-yfti-cnfc:64'><b
+  style=3D'mso-bidi-font-weight:normal'><span style=3D'font-size:13.0pt;mso=
+-bidi-font-family:
+  Verdana'>Privately Controlled<o:p></o:p></span></b></p>
   </td>
  </tr>
  <tr style=3D'mso-yfti-irow:1'>
   <td width=3D81 style=3D'width:60.95pt;background:#181818;padding:5.75pt 5=
 .75pt 5.75pt 5.75pt'>
-  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0cm;margin-bot=
-tom:.0001pt;
-  text-align:center;mso-yfti-cnfc:128'><b style=3D'mso-bidi-font-weight:nor=
-mal'><span
+  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0in;text-align=
+:center;
+  mso-yfti-cnfc:128'><b style=3D'mso-bidi-font-weight:normal'><span
   style=3D'mso-bidi-font-family:Verdana;mso-no-proof:yes'><!--[if gte vml 1=
 ]><v:shapetype
    id=3D"_x0000_t75" coordsize=3D"21600,21600" o:spt=3D"75" o:preferrelativ=
@@ -806,200 +1144,182 @@ e=3D"#_x0000_t75"
    style=3D'width:47.25pt;height:42.75pt;visibility:visible;mso-wrap-style:=
 square'>
    <v:imagedata src=3D"UI_ShipSymbols_files/image010.png" o:title=3D""/>
-  </v:shape><![endif]--><![if !vml]><img width=3D79 height=3D71
+  </v:shape><![endif]--><![if !vml]><img width=3D63 height=3D57
   src=3D"UI_ShipSymbols_files/image001.png" v:shapes=3D"Picture_x0020_4"><!=
 [endif]></span></b><b
   style=3D'mso-bidi-font-weight:normal'><span style=3D'mso-bidi-font-family=
 :Verdana'><o:p></o:p></span></b></p>
   </td>
   <td style=3D'background:#181818;padding:5.75pt 5.75pt 5.75pt 5.75pt'>
-  <p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;mso=
--yfti-cnfc:
-  128'><span style=3D'mso-bidi-font-family:Verdana'>Military Ships <br>
+  <p class=3DMsoNormal style=3D'margin-bottom:0in;mso-yfti-cnfc:128'><span
+  style=3D'mso-bidi-font-family:Verdana'>Military Ships <br>
   (including Troop Transports <br>
   and Resupply Ships)<o:p></o:p></span></p>
   </td>
   <td width=3D77 style=3D'width:57.75pt;background:#181818;padding:5.75pt 5=
 .75pt 5.75pt 5.75pt'>
-  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0cm;margin-bot=
-tom:.0001pt;
-  text-align:center;mso-yfti-cnfc:128'><b style=3D'mso-bidi-font-weight:nor=
-mal'><span
+  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0in;text-align=
+:center;
+  mso-yfti-cnfc:128'><b style=3D'mso-bidi-font-weight:normal'><span
   style=3D'mso-bidi-font-family:Verdana;mso-no-proof:yes'><!--[if gte vml 1=
 ]><v:shape
    id=3D"Picture_x0020_8" o:spid=3D"_x0000_i1031" type=3D"#_x0000_t75" styl=
 e=3D'width:43.5pt;
    height:41.25pt;visibility:visible;mso-wrap-style:square'>
    <v:imagedata src=3D"UI_ShipSymbols_files/image002.png" o:title=3D""/>
-  </v:shape><![endif]--><![if !vml]><img width=3D72 height=3D69
+  </v:shape><![endif]--><![if !vml]><img width=3D58 height=3D55
   src=3D"UI_ShipSymbols_files/image003.png" v:shapes=3D"Picture_x0020_8"><!=
 [endif]></span></b><b
   style=3D'mso-bidi-font-weight:normal'><span style=3D'mso-bidi-font-family=
 :Verdana'><o:p></o:p></span></b></p>
   </td>
   <td style=3D'background:#181818;padding:5.75pt 5.75pt 5.75pt 5.75pt'>
-  <p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;mso=
--yfti-cnfc:
-  128'><span style=3D'mso-bidi-font-family:Verdana'>Freighters<br>
+  <p class=3DMsoNormal style=3D'margin-bottom:0in;mso-yfti-cnfc:128'><span
+  style=3D'mso-bidi-font-family:Verdana'>Freighters<br>
   (Small, Medium and Large)<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style=3D'mso-yfti-irow:2'>
   <td width=3D81 style=3D'width:60.95pt;background:#383838;padding:5.75pt 5=
 .75pt 5.75pt 5.75pt'>
-  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0cm;margin-bot=
-tom:.0001pt;
-  text-align:center;mso-yfti-cnfc:64'><b style=3D'mso-bidi-font-weight:norm=
-al'><span
+  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0in;text-align=
+:center;
+  mso-yfti-cnfc:64'><b style=3D'mso-bidi-font-weight:normal'><span
   style=3D'mso-bidi-font-family:Verdana;mso-no-proof:yes'><!--[if gte vml 1=
 ]><v:shape
    id=3D"Picture_x0020_7" o:spid=3D"_x0000_i1030" type=3D"#_x0000_t75" styl=
 e=3D'width:43.5pt;
    height:43.5pt;visibility:visible;mso-wrap-style:square'>
    <v:imagedata src=3D"UI_ShipSymbols_files/image016.png" o:title=3D""/>
-  </v:shape><![endif]--><![if !vml]><img width=3D72 height=3D72
+  </v:shape><![endif]--><![if !vml]><img width=3D58 height=3D58
   src=3D"UI_ShipSymbols_files/image004.png" v:shapes=3D"Picture_x0020_7"><!=
 [endif]></span></b><b
   style=3D'mso-bidi-font-weight:normal'><span style=3D'mso-bidi-font-family=
 :Verdana'><o:p></o:p></span></b></p>
   </td>
   <td style=3D'background:#383838;padding:5.75pt 5.75pt 5.75pt 5.75pt'>
-  <p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;mso=
--yfti-cnfc:
-  64'><span style=3D'mso-bidi-font-family:Verdana'>Exploration Ships and Co=
-lony
-  Ships<o:p></o:p></span></p>
+  <p class=3DMsoNormal style=3D'margin-bottom:0in;mso-yfti-cnfc:64'><span
+  style=3D'mso-bidi-font-family:Verdana'>Exploration Ships and Colony Ships=
+<o:p></o:p></span></p>
   </td>
   <td width=3D77 style=3D'width:57.75pt;background:#383838;padding:5.75pt 5=
 .75pt 5.75pt 5.75pt'>
-  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0cm;margin-bot=
-tom:.0001pt;
-  text-align:center;mso-yfti-cnfc:64'><b style=3D'mso-bidi-font-weight:norm=
-al'><span
+  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0in;text-align=
+:center;
+  mso-yfti-cnfc:64'><b style=3D'mso-bidi-font-weight:normal'><span
   style=3D'mso-bidi-font-family:Verdana;mso-no-proof:yes'><!--[if gte vml 1=
 ]><v:shape
    id=3D"Picture_x0020_5" o:spid=3D"_x0000_i1029" type=3D"#_x0000_t75" styl=
 e=3D'width:42pt;
    height:43.5pt;visibility:visible;mso-wrap-style:square'>
    <v:imagedata src=3D"UI_ShipSymbols_files/image012.png" o:title=3D""/>
-  </v:shape><![endif]--><![if !vml]><img width=3D70 height=3D72
+  </v:shape><![endif]--><![if !vml]><img width=3D56 height=3D58
   src=3D"UI_ShipSymbols_files/image005.png" v:shapes=3D"Picture_x0020_5"><!=
 [endif]></span></b><b
   style=3D'mso-bidi-font-weight:normal'><span style=3D'mso-bidi-font-family=
 :Verdana'><o:p></o:p></span></b></p>
   </td>
   <td style=3D'background:#383838;padding:5.75pt 5.75pt 5.75pt 5.75pt'>
-  <p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;mso=
--yfti-cnfc:
-  64'><span style=3D'mso-bidi-font-family:Verdana'>Passenger Ships<o:p></o:=
-p></span></p>
+  <p class=3DMsoNormal style=3D'margin-bottom:0in;mso-yfti-cnfc:64'><span
+  style=3D'mso-bidi-font-family:Verdana'>Passenger Ships<o:p></o:p></span><=
+/p>
   </td>
  </tr>
  <tr style=3D'mso-yfti-irow:3'>
   <td width=3D81 style=3D'width:60.95pt;background:#181818;padding:5.75pt 5=
 .75pt 5.75pt 5.75pt'>
-  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0cm;margin-bot=
-tom:.0001pt;
-  text-align:center;mso-yfti-cnfc:128'><b style=3D'mso-bidi-font-weight:nor=
-mal'><span
+  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0in;text-align=
+:center;
+  mso-yfti-cnfc:128'><b style=3D'mso-bidi-font-weight:normal'><span
   style=3D'mso-bidi-font-family:Verdana;mso-no-proof:yes'><!--[if gte vml 1=
 ]><v:shape
    id=3D"Picture_x0020_6" o:spid=3D"_x0000_i1028" type=3D"#_x0000_t75" styl=
 e=3D'width:42pt;
    height:43.5pt;visibility:visible;mso-wrap-style:square'>
-   <v:imagedata src=3D"UI_ShipSymbols_files/image014.png" o:title=3D""/>
-  </v:shape><![endif]--><![if !vml]><img width=3D70 height=3D72
-  src=3D"UI_ShipSymbols_files/image006.png" v:shapes=3D"Picture_x0020_6"><!=
+   <v:imagedata src=3D"UI_ShipSymbols_files/image006.png" o:title=3D""/>
+  </v:shape><![endif]--><![if !vml]><img width=3D56 height=3D58
+  src=3D"UI_ShipSymbols_files/image007.jpg" v:shapes=3D"Picture_x0020_6"><!=
 [endif]></span></b><b
   style=3D'mso-bidi-font-weight:normal'><span style=3D'mso-bidi-font-family=
 :Verdana'><o:p></o:p></span></b></p>
   </td>
   <td style=3D'background:#181818;padding:5.75pt 5.75pt 5.75pt 5.75pt'>
-  <p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;mso=
--yfti-cnfc:
-  128'><span style=3D'mso-bidi-font-family:Verdana'>Construction Ships<o:p>=
-</o:p></span></p>
+  <p class=3DMsoNormal style=3D'margin-bottom:0in;mso-yfti-cnfc:128'><span
+  style=3D'mso-bidi-font-family:Verdana'>Construction Ships<o:p></o:p></spa=
+n></p>
   </td>
   <td width=3D77 style=3D'width:57.75pt;background:#181818;padding:5.75pt 5=
 .75pt 5.75pt 5.75pt'>
-  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0cm;margin-bot=
-tom:.0001pt;
-  text-align:center;mso-yfti-cnfc:128'><b style=3D'mso-bidi-font-weight:nor=
-mal'><span
+  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0in;text-align=
+:center;
+  mso-yfti-cnfc:128'><b style=3D'mso-bidi-font-weight:normal'><span
   style=3D'mso-bidi-font-family:Verdana;mso-no-proof:yes'><!--[if gte vml 1=
 ]><v:shape
    id=3D"Picture_x0020_12" o:spid=3D"_x0000_i1027" type=3D"#_x0000_t75" sty=
 le=3D'width:43.5pt;
    height:44.25pt;visibility:visible;mso-wrap-style:square'>
    <v:imagedata src=3D"UI_ShipSymbols_files/image017.png" o:title=3D""/>
-  </v:shape><![endif]--><![if !vml]><img width=3D72 height=3D74
-  src=3D"UI_ShipSymbols_files/image007.png" v:shapes=3D"Picture_x0020_12"><=
+  </v:shape><![endif]--><![if !vml]><img width=3D58 height=3D59
+  src=3D"UI_ShipSymbols_files/image008.png" v:shapes=3D"Picture_x0020_12"><=
 ![endif]></span></b><b
   style=3D'mso-bidi-font-weight:normal'><span style=3D'mso-bidi-font-family=
 :Verdana'><o:p></o:p></span></b></p>
   </td>
   <td style=3D'background:#181818;padding:5.75pt 5.75pt 5.75pt 5.75pt'>
-  <p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;mso=
--yfti-cnfc:
-  128'><span style=3D'mso-bidi-font-family:Verdana'>Mining Ships and <br>
+  <p class=3DMsoNormal style=3D'margin-bottom:0in;mso-yfti-cnfc:128'><span
+  style=3D'mso-bidi-font-family:Verdana'>Mining Ships and <br>
   Gas Mining Ships<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style=3D'mso-yfti-irow:4;mso-yfti-lastrow:yes'>
   <td width=3D81 style=3D'width:60.95pt;background:#383838;padding:5.75pt 5=
 .75pt 5.75pt 5.75pt'>
-  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0cm;margin-bot=
-tom:.0001pt;
-  text-align:center;mso-yfti-cnfc:64'><b style=3D'mso-bidi-font-weight:norm=
-al'><span
+  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0in;text-align=
+:center;
+  mso-yfti-cnfc:64'><b style=3D'mso-bidi-font-weight:normal'><span
   style=3D'mso-bidi-font-family:Verdana;mso-no-proof:yes'><!--[if gte vml 1=
 ]><v:shape
    id=3D"Picture_x0020_3" o:spid=3D"_x0000_i1026" type=3D"#_x0000_t75" styl=
 e=3D'width:45.75pt;
    height:43.5pt;visibility:visible;mso-wrap-style:square'>
-   <v:imagedata src=3D"UI_ShipSymbols_files/image008.png" o:title=3D""/>
-  </v:shape><![endif]--><![if !vml]><img width=3D76 height=3D72
-  src=3D"UI_ShipSymbols_files/image009.png" v:shapes=3D"Picture_x0020_3"><!=
+   <v:imagedata src=3D"UI_ShipSymbols_files/image009.png" o:title=3D""/>
+  </v:shape><![endif]--><![if !vml]><img width=3D61 height=3D58
+  src=3D"UI_ShipSymbols_files/image011.jpg" v:shapes=3D"Picture_x0020_3"><!=
 [endif]></span></b><b
   style=3D'mso-bidi-font-weight:normal'><span style=3D'mso-bidi-font-family=
 :Verdana'><o:p></o:p></span></b></p>
   </td>
   <td style=3D'background:#383838;padding:5.75pt 5.75pt 5.75pt 5.75pt'>
-  <p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;mso=
--yfti-cnfc:
-  64'><span style=3D'mso-bidi-font-family:Verdana'>Space Ports, Defensive B=
-ases, <o:p></o:p></span></p>
-  <p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;mso=
--yfti-cnfc:
-  64'><span style=3D'mso-bidi-font-family:Verdana'>Resort Bases, Research
-  stations, <o:p></o:p></span></p>
-  <p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;mso=
--yfti-cnfc:
-  64'><span style=3D'mso-bidi-font-family:Verdana'>Monitoring stations<o:p>=
-</o:p></span></p>
+  <p class=3DMsoNormal style=3D'margin-bottom:0in;mso-yfti-cnfc:64'><span
+  style=3D'mso-bidi-font-family:Verdana'>Space Ports, Defensive Bases, <o:p=
+></o:p></span></p>
+  <p class=3DMsoNormal style=3D'margin-bottom:0in;mso-yfti-cnfc:64'><span
+  style=3D'mso-bidi-font-family:Verdana'>Resort Bases, Research stations, <=
+o:p></o:p></span></p>
+  <p class=3DMsoNormal style=3D'margin-bottom:0in;mso-yfti-cnfc:64'><span
+  style=3D'mso-bidi-font-family:Verdana'>Monitoring stations<o:p></o:p></sp=
+an></p>
   </td>
   <td width=3D77 style=3D'width:57.75pt;background:#383838;padding:5.75pt 5=
 .75pt 5.75pt 5.75pt'>
-  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0cm;margin-bot=
-tom:.0001pt;
-  text-align:center;mso-yfti-cnfc:64'><b style=3D'mso-bidi-font-weight:norm=
-al'><span
+  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0in;text-align=
+:center;
+  mso-yfti-cnfc:64'><b style=3D'mso-bidi-font-weight:normal'><span
   style=3D'mso-bidi-font-family:Verdana;mso-no-proof:yes'><!--[if gte vml 1=
 ]><v:shape
    id=3D"Picture_x0020_13" o:spid=3D"_x0000_i1025" type=3D"#_x0000_t75" sty=
 le=3D'width:44.25pt;
    height:46.5pt;visibility:visible;mso-wrap-style:square'>
    <v:imagedata src=3D"UI_ShipSymbols_files/image020.png" o:title=3D""/>
-  </v:shape><![endif]--><![if !vml]><img width=3D74 height=3D78
-  src=3D"UI_ShipSymbols_files/image011.png" v:shapes=3D"Picture_x0020_13"><=
+  </v:shape><![endif]--><![if !vml]><img width=3D59 height=3D62
+  src=3D"UI_ShipSymbols_files/image013.png" v:shapes=3D"Picture_x0020_13"><=
 ![endif]></span></b><b
   style=3D'mso-bidi-font-weight:normal'><span style=3D'mso-bidi-font-family=
 :Verdana'><o:p></o:p></span></b></p>
   </td>
   <td style=3D'background:#383838;padding:5.75pt 5.75pt 5.75pt 5.75pt'>
-  <p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;mso=
--yfti-cnfc:
-  64'><span style=3D'mso-bidi-font-family:Verdana'>Mining Stations and <br>
+  <p class=3DMsoNormal style=3D'margin-bottom:0in;mso-yfti-cnfc:64'><span
+  style=3D'mso-bidi-font-family:Verdana'>Mining Stations and <br>
   Gas Mining Stations<o:p></o:p></span></p>
   </td>
  </tr>
@@ -1018,7 +1338,7 @@ o:p>&nbsp;</o:p></span></p>
 
 </html>
 
-------=_NextPart_01CB8DB5.1149D740
+------=_NextPart_01DC8E0E.CA45CA50
 Content-Location: file:///C:/B902C9F3/UI_ShipSymbols_files/item0022.xml
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/xml
@@ -1026,9 +1346,8 @@ Content-Type: text/xml
 <b:Sources SelectedStyle=3D"\APA.XSL" StyleName=3D"APA" xmlns:b=3D"http://s=
 chemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns=3D"http:/=
 /schemas.openxmlformats.org/officeDocument/2006/bibliography"></b:Sources>
-
-------=_NextPart_01CB8DB5.1149D740
-Content-Location: file:///C:/B902C9F3/UI_ShipSymbols_files/props0023.xml
+------=_NextPart_01DC8E0E.CA45CA50
+Content-Location: file:///C:/B902C9F3/UI_ShipSymbols_files/props023.xml
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/xml
 
@@ -1037,68 +1356,68 @@ Content-Type: text/xml
 s:ds=3D"http://schemas.openxmlformats.org/officeDocument/2006/customXml"><d=
 s:schemaRefs><ds:schemaRef ds:uri=3D"http://schemas.openxmlformats.org/offi=
 ceDocument/2006/bibliography"/></ds:schemaRefs></ds:datastoreItem>
-------=_NextPart_01CB8DB5.1149D740
+------=_NextPart_01DC8E0E.CA45CA50
 Content-Location: file:///C:/B902C9F3/UI_ShipSymbols_files/themedata.thmx
 Content-Transfer-Encoding: base64
 Content-Type: application/vnd.ms-officetheme
 
-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
-AAAA
+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
+AACbCgAAAAA=
 
-------=_NextPart_01CB8DB5.1149D740
+------=_NextPart_01DC8E0E.CA45CA50
 Content-Location: file:///C:/B902C9F3/UI_ShipSymbols_files/colorschememapping.xml
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/xml
@@ -1108,36 +1427,308 @@ Content-Type: text/xml
  bg1=3D"lt1" tx1=3D"dk1" bg2=3D"lt2" tx2=3D"dk2" accent1=3D"accent1" accent=
 2=3D"accent2" accent3=3D"accent3" accent4=3D"accent4" accent5=3D"accent5" a=
 ccent6=3D"accent6" hlink=3D"hlink" folHlink=3D"folHlink"/>
-------=_NextPart_01CB8DB5.1149D740
+------=_NextPart_01DC8E0E.CA45CA50
 Content-Location: file:///C:/B902C9F3/UI_ShipSymbols_files/image001.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
 
-iVBORw0KGgoAAAANSUhEUgAAAE8AAABHCAMAAABxuerZAAAAAXNSR0IArs4c6QAAAftQTFRFAAAA
-CgoKHxkfDAwMDw8PFBAUFxcXGhkaEBAQAQEBAwMDCAgIBQUFBwcHAgICGRkZFRMVAAEAAgECDg4O
-BAMEBgYGHh0eAwIDFhQWFRUVGBgYExMTCQkJBQQFGhoaDAsMDw4PHBwcAwADAQIBFhYWFBQUFhUW
-FBMUDQsNHh4eCwsLBAQEAwQDHR0dHRsdAQABERERGBcYCgcKCQgJGRgZEhISFBIUBwYHBgUGHx4f
-CgkKFRQVAgMCCAcIEQ4RFxYXDQ0NGxobHxwfIhwiIB8gIBwgIR8hLy4vNTQ1Ozs7PDc8NDI0MjAy
-IyIjJiUmJSUlMS8xNDM0Ojg6Pj0+ODY4LS0tKyorKikqLSwtOjk6NjE2IiEiJSQlKCcoKCUoMDAw
-Ozo7PDo8Pjw+JyYnISAhODU4NjU2ICEgKycrOTg5MjEyMC8wJiQmJCMkISEhNC40MzEzOzc7Pj4+
-LisuLCssKysrOTc5MTAxIiIiJSMlMS4xPjk+ODc4OjY6QD5AQT9BQT5BU1JTTEpMUU9RTk1OUk9S
-RENER0VHTEtMT01PRUNFQ0JDU1BTQkBCUE5QSUZJSkhKQ0BDQkFCRURFTkxOTElMTktORkRGUlBS
-SUdJS0pLREBEQ0FDUVBRTUtNT0tPSklKSEdIUU5RSkVKUE9QTUpNSEVIU1FTSEZIDvvA7wAAAAlw
-SFlzAAASdAAAEnQB3mYfeAAAABl0RVh0U29mdHdhcmUATWljcm9zb2Z0IE9mZmljZX/tNXEAAAKU
-SURBVFhHY2AYBaMhQPUQYGSirpHujczUNJClqdmDmuZ5erG2sFHPQPZWDgbvNk5qGcjV7sPAwNjh
-Sy3z/Jq4gUb5d/BQx0DeTrDL+LoCqGNeYDcf2CD+Zg5qGCjQA4vZoGBByg0U6g2BGSLcx065ec59
-iJwR2i9CqYGiE8IQRvA2hVNqXsQEUSQjXDopzMbCfWLILhKfCA9M8hwaWQdJKzAg0SdJnkEQXVKt
-0mjaAydRYt7kKHTdjFOiyTcwZooMhubYqcgRRJLZvNPiMNXLTncnyRAkxfFd2JKvXJ88eQYqzODH
-qjEhkTzzkiKx6+Noxm4PAVsUm1lwqHBv5yLdhbIzI3Bp4m2KId285Fm8ODVFT2Ek1UDmvhTcWpRm
-k1wbp85RxuMElWZV0hyoNlcdr4bUepJqY6E5afjt15inSYoD0+drEVAevoCENMPTkUHIdu2FOJMT
-plb3mTqEzGPQRaqnCCgWbtYjaBwDZ1ImYUUQFQkJ+kQoNWgmsug3nIEr46LaktWFWrfgcANXezYR
-rgMqkZmSQ4xCv3mg1hkxIHeaEWFlxlPyCCuCqNDpyiestGAyUaECNshkkSkhA81aVQgpQZIvLCKk
-uD6IkApkebTmCKZWFxIrr+KZ2vjsF11QQorzGBjMZ+JtwZUutiDNPAbLTivcOuSXuJJoHIN+XRlu
-LZkNpBrHwKDebI1Lk0ozweSERav3HBwJ1qarnHTngbKxG3ZtFZ3EZlxU/clLbbEZyD2tkhznMTBo
-L6vCprF8Ogk1DIoB7M12mAZyzLUnz3kMDJyJ1Rha9RNryDWOgcFhmiO6Zqfl7Fry5AKr2oVo2Vg8
-aV77QrLBioWdaK1+TlEeUXPygagolfru5If5qM4hGQIAOMagCBUEp8oAAAAASUVORK5CYIJ=
+iVBORw0KGgoAAAANSUhEUgAAAD8AAAA5CAMAAAC22APwAAAAAXNSR0IArs4c6QAAAZJQTFRFAAAA
+AwADFBQUAQEBHR0dHBwcGxgbBgYGBAQEGhoaCgoKDQwNCgkKDw4PGRgZFRQVBwcHAQABAQIBFBMU
+CAcIBQUFGBgYEBAQDQ0NAgICGxsbFxcXCQkJEhESDg0OHx8fGhkaGRcZBgUGAwMDDAsMCAgIExAT
+FRUVERERHBscBwYHCwsLDw0PCwkLEA8QBQMFHx0fEhISDxAPDAwMHRwdFxYXGxobCwoLHh0eIR8h
+Ozg7OTg5NzY3LS0tKSgpPDo8KyorOTc5NjQ2MC8wIyMjPj0+JCIkNTM1MjEyLSwtJyUnPDs8MCsw
+IiAiOzo7KCcoIiIiMTAxNDM0JCQkPTw9Ozk7LCssJiUmLi0uNjU2MzIzISAhPjw+NzU3MC0wKScp
+LCksMjAyNDI0LCwsOjk6ODY4ICAgKiYqMzEzLSstQj5CQT5BQT9BQD9ARD9EV1VXRERERkRGSEZI
+SkhKRkVGSUdJQ0FDR0ZHSkdKRENERUNFQkBCR0VHREBESEdISUZJREJESkZKR0RHSEVIRUJFUE1Q
+aSQgXQAAAAlwSFlzAAAOxAAADsQBlSsOGwAAABl0RVh0U29mdHdhcmUATWljcm9zb2Z0IE9mZmlj
+ZX/tNXEAAAHOSURBVEhL7ZbpNwJRGIcvoSjKEookRfY1W4WUtNmyhbLvyTal3Rr/tzgdmpq5y3R8
+c7/O8/zee965c98B4H/9ZQeKCgsv1vMKCjDclhTil/rL7vjcAwT35cA4xd2fngGgghJyDRAFK9Oq
+aZarb7Z8mYJQFbcA8YPkWywJc3qH1f65TF3rPJcNTIZrMlrtQx15gDRS/yPZ7OS+w/DriKINpAHC
+YGOW4nSR+oaFbEMWk5MFNEWkNEEel5EE8BKLOfjSMom/cpV7ZBqoZvwAflKcB7tX8X2LMZ+VRBS4
+AS3BCgZ0bR3X3zAxkbJHJV5Aa0jACKpCbTgB6hjblanfxPE9VjZK+KRBB7Q/d7BCW9tof8fGzkiT
+WlRAZxR2zrwB1FXmc8Iq8AJe+Aa6XuDfmZbqhgWo0wMHvnb3YM/3l1D96XntZUf6qH6UDw4gJcyH
+SB0MvLGOo2JKgvbBIGuLr9cwdAB8HmZMeYN3Rw6lGLfJT6qwygNwxDiOjk8wdSCihvNRDTWC64Nl
+hnF06sDWgSyuy4VHk/SBAw8bi6vpAC9xhl8+TbrO6bgXefDp/Pg77Yof/3DrJkhWV8qQfVgUh5YL
+omW3XBbwX0rUqn8Y1oFPbW1XHaKvCHQAAAAASUVORK5CYIJ=
 
-------=_NextPart_01CB8DB5.1149D740
+------=_NextPart_01DC8E0E.CA45CA50
+Content-Location: file:///C:/B902C9F3/UI_ShipSymbols_files/image003.png
+Content-Transfer-Encoding: base64
+Content-Type: image/png
+
+iVBORw0KGgoAAAANSUhEUgAAADoAAAA3CAMAAABq+6nEAAAAAXNSR0IArs4c6QAAAh9QTFRFAAAA
+AQABAAEAAQEBCQkJDQ0NGhkaFRQVCQcJCQgJAgICAwMDHh4eExMTFxYXFhQWEhESDg4OGBgYBwcH
+GBcYBwgHFhYWFRMVGxsbBgYGHh0eBAMEEQ8REA8QBQQFAwIDCwsLFxcXCAgIExITBAQEAgECDw8P
+FRAVEQsRCwoLBQUFHRwdEg8SGRcZGRgZHR0dHx8fHBocHRcdFhAWBwQHHhYeCgcKDA0MDgwOFhUW
+FhMWDAwMHBwcFBMUCgoKGBUYAwEDBgUGHBscCwwLCQMJHhkeFxgXDw4PDw0PEhISEAsQBwYHFA0U
+BgcGHRgdAQIBCAkIHxofDQwNBwUHHxsfGxwbAgACDg0OEQwRFRUVDAsMHx4fEwwTGhgaERERDAcM
+FBQUEBAQFBIUCAYIEhASIB4gIR4hIB8gIR8hISAhLywvJSIlPDk8IiEiMzIzLCssJiYmMS8xLysv
+Pjw+Ly4vMjEyIyIjJiMmPDo8NTQ1KycrMjAyPz0/IyMjLCYsKiYqKCYoKSMpKikqNDM0MzEzMC8w
+LCwsJyYnNTM1ODY4KCgoKigqJCMkJCQkMywzKioqNjI2LSwtKSYpLi0uJiQmMTAxJiImLiwuPj0+
+NzU3OTg5OTc5NC00IiIiQD5AQD1AQT9BRkVGSkZKSkhKSUdJSkdKRkRGRURFQ0FDSUhJS0lLRUVF
+R0ZHTEhMREJESURJQ0BDQkBCTElMS0ZLRUNFyu1vHgAAAAlwSFlzAAAOxAAADsQBlSsOGwAAABl0
+RVh0U29mdHdhcmUATWljcm9zb2Z0IE9mZmljZX/tNXEAAAJASURBVEhLY2AYBZSFACMDEzM5JrBk
+smZls+Ww5rJzcJKgn4ubJ493IV9+AX+hQE5qUbGgkDCRupnySkTymEVhqnnF2BaJS0gSoZmxtEwq
+DVUdl7TMYjFZOUKaxdhLyjHVyCsoLMnEr5WRoaISuwpmRfYSVnyaq6qVWHDJK9Qoq+DWq1Rbh8dg
+1fR5OPUKLFXD6x/1eg1p7Aq41Ro08QeF1rJG7AqaaggFP5e2Dtb45dJNJZxkm0uxGd/SSshSoLye
+BDZF+gZEaGVoa8FUpZ9P2LlAXe2GmFqNOriIsVUy2xhdmYmpGTE6GViWl6GrM19uQZRWhpJOdNcx
+cxOnk8EyA11r1wpiMjPQeKtuLTRLrHmJCiUGBpti9LylVyZPnItZbNHtqG3GkxmRDe1ZaYdmh7wS
+USmCgcHaHj1A+VcpEefg3j4HNIXMrI7EaXXqR3ce14SJRGl1nuSCoc7VjSit7qs9MNSpTvYkRi+7
+F6Yq7wofIrT6rvHDoop7Ci9Bvf5e/AFYFGnNDySoNWgtO1Y1wSEZBPRyC4TiyCQtOOobuIE968Jw
+GM6lMFUQj73+Yrp6uLQyhBeL4UlTcusxyhZki3g24NQ7cVqEL76wUMuM7FHFpkAtano3oQhomiEY
+iVFgREnOnEVIIwMDF3f0Mllt5CYLc0zUxix3vFU6zFgtu9hNIl18dnEq3gxx8Zq14ZvZbGMI2wlR
+IRcuPFsqf4H4loRZcwzXhScSWQrAjU9MSp5rEZeiRWRJSayzRtURHwIAaqhg87C2UIcAAAAASUVO
+RK5CYIJ=
+
+------=_NextPart_01DC8E0E.CA45CA50
+Content-Location: file:///C:/B902C9F3/UI_ShipSymbols_files/image004.png
+Content-Transfer-Encoding: base64
+Content-Type: image/png
+
+iVBORw0KGgoAAAANSUhEUgAAADoAAAA6CAMAAADWZboaAAAAAXNSR0IArs4c6QAAAP9QTFRFAAAA
+Dg4OBwcHERERBgcGEhISCQkJFxUXBgYGEhESDAsMGRkZDAwMGhkaERARBQUFEA8QDQwNGxobDg0O
+HBscDw8PBAQEDw4PHRwdHh0eAwMDDQ0NEBAQHx4fAgMCHx8fAgICCwsLExITCwoLAQEBCgoKFBMU
+AQIBFRQVCQgJAAEABAMEGBcYBQYFFBQUFhQWFRUVFhUWFxYXIB8gIR8hPjw+NzU3Ozk7ODc4NzY3
+PDk8NjU2Ozo7NjQ2NTQ1NDM0IiEiNDI0MzIzOzg7IyIjMjIyOjg6JCMkMjEyLy4vPTw9ODY4NTM1
+ISAhIiAiOjk6IiIiMzEzJCIkMjAyMTAx0RLqBQAAAAlwSFlzAAAOxAAADsQBlSsOGwAAABl0RVh0
+U29mdHdhcmUATWljcm9zb2Z0IE9mZmljZX/tNXEAAAGzSURBVEhL7ZRrVwFRFIY3E0XIbUKoJLrf
+YyeRhkaF7v//t+QsazhzOWf2TF/5aj/7fc+Zsx6A5e+/NxAI+t2gNJor/tgQhlfv1vywEYwCrPth
+FYyxwLh3NjEjGbvhrXMSUwaQbnlik5hZRGW9sOo9RwJkW5vUzjnMmUfzbSKbe7CQAEQ2g6q9XqGz
+5d45g0mnIQJbxJLz+nJ3W54bw4RoYKcr7RxDRbz65nFX/GcFI7JSt2K2gnvy4/SeBLlVNxKgp+07
+La/16+6fbqAd2IdIJMDg2ZYb1g/dM9nE8MXCHlFJxh7zIZUm4ZwG0Hs94dj6G+F1G/Nqw6TnU7q9
+Ilgz30p8dEa7JoU51sLSDDQ3JU+nRwTzlbDoVC7tbi/VmZyar+liLxUDogvJy1mbKfk9UvMFrI41
+Nyi0hW9D4LsFXxAZqOhsSj65PHbMTYl9t6Ad7SX1HceObQaKykzJd55YzRfFEO2BA0zM5qvSSYB3
+jetc/XBxrLnR59fcQDX0YBC2ZWDYK6yfU89pzH3P2HCfaEp+//CHkfqF10w2P/yFoH7ph5yyWufK
+Hzm9q2u/5JKb38Afo+4plvtqc98AAAAASUVORK5CYIJ=
+
+------=_NextPart_01DC8E0E.CA45CA50
+Content-Location: file:///C:/B902C9F3/UI_ShipSymbols_files/image005.png
+Content-Transfer-Encoding: base64
+Content-Type: image/png
+
+iVBORw0KGgoAAAANSUhEUgAAADgAAAA6CAMAAADSkGonAAAAAXNSR0IArs4c6QAAAXFQTFRFAAAA
+GRgZGxobGhgaGxkbBwcHHhweHRwdAwMDAQEBCAgIHRodHh4eGxwbGBYYAgICFhUWGBcYEA4QCwsL
+BgYGDAwMFhYWHx8fEBAQCgkKDgwOExITDAsMHBscBAQECQgJHhseHh0eBAMEGxcbFxQXERERBwYH
+FRUVBgcGDQ0NDAoMBQUFExATFxcXEhESHR0dHBkcFBIUGhkaEA8QCAYIBQQFCAcICwoLCQkJDxAP
+Dg0OFBAUAgECEg8SEA0QHx4fDg4OCgoKHRsdCwgLAwIDDQwNEhISFBQUGBUYDw4PFRQVBwgHFxYX
+HxwfCggKEAwQHhkeGRcZHBocJB8kIB8gIBsgIyMjISAhKykrKSgpJiUmIyIjJCQkKigqIyAjJSIl
+JiYmIiIiJiImJCAkJSMlIyEjKCYoJSQlJCEkKCcoMS8xJCIkKScpJiMmJiQmMzEzMC4wKikqLCss
+JyYnJyUnKCUoKSYpJCMkIiEiNzM3OTU5IQObxAAAAAlwSFlzAAAOxAAADsQBlSsOGwAAABl0RVh0
+U29mdHdhcmUATWljcm9zb2Z0IE9mZmljZX/tNXEAAAHiSURBVEhL7ZZnU8JAEIYDiCmoiCKCIAE7
+oqARMHaxi13RKJbYQDCAvf56HZhhMjF7h/fRMV/fffbdvbvdCUX9f0QnYDAQYRRFDBqNhI4mEyFI
+XGpNDZmjuZZm2F+iLGeyHEiHR3X1ew2ctXq4UUrZmpq/3Vh7C3184qiS5E5bnaoSGdeZ1FYFyroP
+Pdowt9yOJb2Gc+ZnEO+7wJH+pA5HUR2dl2iy6wq4AKuFRpHd1z2QzEm9MNknB2CxPx0ExQEJVQ49
+CKoZMwpkbryAHAqjn+bQMAAKI+gjDyUBPRtBg0wuqhvApTBDxPpjuuAoVEkl+lY72S5eFHnRp+De
+oyB8h4m8qxKXVwrFrHyXwoHJeyVbLCj5Shxb+pzY2XGMlSM1BuPYHi0TujUFFdxqSuvfFyOJ6CYj
+vkn9AGkKDU7PALonjQazTkD3JmdRZPwM3LCOMNBEKd9cI5w2h9gA89eIQw8+LIBZH+2oPhZzkPq0
+hL7l5ZR+m8+9uvtWZWN7af5pas05cBxFLb2uaBplVh8wS6Vs5fFn3Or8y29yP27gyrqVf5f3E2ux
+aIc5vk4/bQRQt6tJubllqdv++PRfmRLx6tzUUYIRN2dATkH4vVmJIAZ3dggdif/ldncJHUMhQvCv
+YF/lsTnzYM9bFAAAAABJRU5ErkJggk==
+
+------=_NextPart_01DC8E0E.CA45CA50
+Content-Location: file:///C:/B902C9F3/UI_ShipSymbols_files/image006.png
+Content-Transfer-Encoding: base64
+Content-Type: image/png
+
+iVBORw0KGgoAAAANSUhEUgAAAIAAAACFCAMAAACkLQBKAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAABIUExURQAAAAcGBwgICAgHCAICAjk2OUZERkdFR0NBQxMSE0A9QDIwMj89P01LTRUU
+FTw5PCQiJExKTEJAQkhGSDAwMDo3Ojg1OBAPEK5+mC4AAAAJcEhZcwAAIdUAACHVAQSctJ0AAACO
+SURBVHhe7c47EoJAEEVRFBgQv/jB/e/UMu1JDOxCq84NOujknaaRJEn6uTbbzNou7lX1pZQyvE9G
+4y7uVU3DPq/D8RT3qqZz/HyxywwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAPAPgPma1+0DwP2R2fKMe5IkSVq7F2f3L54qjXdHAAAAAElFTkSuQmCC
+
+------=_NextPart_01DC8E0E.CA45CA50
+Content-Location: file:///C:/B902C9F3/UI_ShipSymbols_files/image007.jpg
+Content-Transfer-Encoding: base64
+Content-Type: image/jpeg
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
+HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAA6ADgDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD5/p3l
+Sf3G/Kn23/H1D/vj+dPlubjzn/fy/eP8ZoAh8qT+435UeVJ/cb8qf9quP+e8v/fZo+1XH/PeX/vs
+0AM8qT+435UeVJ/cb8qf9quP+e8v/fZo+1XH/PeX/vs0AREYODRVi+/4/pv980UAMtv+PqH/AHx/
+Omy/65/94062/wCPqH/fH86bL/rn/wB40AMooooAKKKKALF9/wAf03+8aKL7/j+m/wB40UAMtv8A
+j6h/3x/Omy/65/8AeNOtv+PqH/fH86bL/rn/AN40AMooooAKKKKALF9/x/Tf7xoovv8Aj+m/3jRQ
+BArFWDKcEHINTm9nJySmT/0zX/Cq9FAE/wBsm9U/79r/AIUfbJvVP+/a/wCFQUUAT/bJvVP+/a/4
+UfbJvVP+/a/4VBRQA53aSRnc5Zjkmim0UAf/2Q==
+
+------=_NextPart_01DC8E0E.CA45CA50
+Content-Location: file:///C:/B902C9F3/UI_ShipSymbols_files/image008.png
+Content-Transfer-Encoding: base64
+Content-Type: image/png
+
+iVBORw0KGgoAAAANSUhEUgAAADoAAAA7CAMAAAAdOWm/AAAAAXNSR0IArs4c6QAAAh9QTFRFAAAA
+AAEAAgECDw4PFRQVHhweGRcZHBocExITAQIBAwEDHxofAwQDGhgaGhkaHx0fFRUVHRsdGBcYHRkd
+FhUWBgYGGBYYHR0dFRYVAgICAQABAQEBFhEWDQ4NHBscGxobHRwdFRMVCwoLGxkbFBAUDg0OCQkJ
+EA0QDAkMCwsLBgEGDAwMBQUFBQYFGhUaBwcHEA8QCggKGRgZERARFhYWGhoaBAQEFBMUFxMXHxgf
+EhMSAwMDDQwNBgUGHx4fHxwfGBgYGhcaEhISFBIUEBAQFBUUDwwPCgoKGhsaBwYHExMTBgQGGRIZ
+CAkIEQ8RBAAECwwLGRkZGxYbHh4eBgcGBgMGBQQFFBQUEhESHh0eCQgJFg4WERERGxsbCQYJDQ0N
+AwIDCAgIHRcdEw8TCwgLCAcIEA4QBwgHIh4iIBsgIB4gIB8gJR8lIR8hJB4kJh8mJB8kIx8jLiou
+NjI2LSktJyYnMSsxLSwtNjU2NDI0JCIkLiwuLSstLi0uLCosPjs+KykrPTw9JiUmLiYuNTE1NTA1
+LCksLSYtMC8wOjo6Ojk6JCMkJiMmKycrNTQ1Ojg6KigqNDA0IyAjISAhLSotJiImLS0tKSgpJSQl
+KyYrOjc6IyEjMSwxJSUlIiEiMC4wLCssOTM5NDM0OzU7KysrIiAiODc4OTc5NS81JycnODY4Ny83
+KikqODQ4KCYoIyIjNjY2MzEzNTM1NjQ2RURFWq26PAAAAAlwSFlzAAAOxAAADsQBlSsOGwAAABl0
+RVh0U29mdHdhcmUATWljcm9zb2Z0IE9mZmljZX/tNXEAAAIfSURBVEhLY2AYBaMhMIhDgJGJmYWF
+lY2dg4WTiwhnFnHDFPHw8hXzlwgICvGVZpQJi4jCxNnKcRgjJp4JkcngreCQkJQCMaUZZGQr5arA
+bAZ5BSFcLlCsVgK6TjmrRgVVhWqtXDYDA6NanQBut0vXq0vx5eRiKpBrkOfSaIQ7HJsJmk3NLUrY
+JLRa29q18YdXRycu+ZYu/Dq75XVwKdDV68GnV79bBLe0Qa+hNG7ZPiN8Bhv345Y1McXpXJAmM14j
+RlyaJ4jjDwnzibjkLSbh18nAIGiJQ4XVZEJa+eGpHFWlWTVen4IUW9faYDXd1o6wVnusSY3BYQoh
+9zIwTM3CqkbVkbDWaSVY1eRNJ6zVyRmrGhdzwlpnzMSqRr6GsFZXN6xq3OUlCeot8cCqhHmWGSGt
+orM9sSqRNvUipFVnjjd2JXOrCGmd7INDBWe3L3690vNwFabS8/3wa81egFPef2EAPr2i8iw4paUD
+g3AEA1iL3CJ8Bi82wC0bXBWCT2voEgFc0tpLFfCHxLLlYtgVSG5ZQSAMTVaWM4dhURO+zFww3x+3
+ZmubDk0G6VUKERhKOiKdGKJWR+MORMdVID1mMf1e4UiaJfVnrIkFV1VrBXFZ21AQB5GyLqxdtz5e
+31rSLEEncVLSBuNkiHgc6xwceuVdYBJSkqYiG7M3ZW+OXGQ0JSUVrj5NDn9QQWXNJCPUYtJ1mIhS
+PKpoNAQoCwEAtZdd5oRcO9IAAAAASUVORK5CYIJ=
+
+------=_NextPart_01DC8E0E.CA45CA50
+Content-Location: file:///C:/B902C9F3/UI_ShipSymbols_files/image009.png
+Content-Transfer-Encoding: base64
+Content-Type: image/png
+
+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
+
+------=_NextPart_01DC8E0E.CA45CA50
+Content-Location: file:///C:/B902C9F3/UI_ShipSymbols_files/image011.jpg
+Content-Transfer-Encoding: base64
+Content-Type: image/jpeg
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
+HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAA6AD0DASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD5/pyI
+0jqijLMcCm1On7m3Mn8cmVT2Hc/0/OgAMdsGI89zjuI+D+tJstv+e0n/AH7H+NQ0UATbLb/ntJ/3
+7H+NL5MboxilZmUZ2smMjvjmoKdHI0UiuvVTmgBtFSzxqrB0/wBW43L7e34VFQBJDH5sgUnC9WPo
+O5omk82QsBhRwo9B2FP+7ZZTku+HPoByB+PX8KgoAKKKKACiiigCeD96jW56n5o/970/H/CoKASD
+kHBqe6H71WIw7qGcehP+c/jQA23dVYo/+rcbW9vQ/hTJEaORkYcqcGm1O3763D/xxDDe69j+HT8q
+AIKKKKACiilAJIAGSegoAlt1XLSuMpHyR6nsP8+9RO7O7OxyzHJNTXBCBYFPCfeI7t3/AC6VBQAV
+JDJ5UobGR0Yeo7io6KALBht8nbdDHbKHNJ5MH/P0v/fDf4VBRQBP5MH/AD9L/wB8N/hTl8q3zIkw
+kkAwgCkYPrzVaigAooooA//Z
+
+------=_NextPart_01DC8E0E.CA45CA50
+Content-Location: file:///C:/B902C9F3/UI_ShipSymbols_files/image013.png
+Content-Transfer-Encoding: base64
+Content-Type: image/png
+
+iVBORw0KGgoAAAANSUhEUgAAADsAAAA+CAMAAACiNpMyAAAAAXNSR0IArs4c6QAAAfVQTFRFAAAA
+AwMDBAQEAgICHh0eBQUFGhcaDw0PFBEUFBIUEA0QFxUXDgwOFRMVEhASEQ0RGBcYGxgbFBAUEAwQ
+FRIVEg4SFhYWBgcGDxAPHBgcHRcdGhkaHBkcHBocGxYbHxofAQEBBAMEBQQFAQABCAgIExATDw8P
+CQkJCAcICgoKDg0OGRkZHhweGhoaFBQUEhESCQoJExMTGxobFBMUFxcXFxYXCgsKEA8QBgQGHx0f
+Hx8fHRsdGxsbFRQVBgYGDAwMBwYHGRYZDAoMCwgLGRgZEhISHx4fFRUVEA4QHRwdDw4PHh4eEQ4R
+CwsLDQ0NCwoLBgUGHBscFhQWDAsMDgoOCQYJHR0dGxMbGxkbCQgJAgECDQwNBwcHFhUWHxwfHBYc
+ERARJB8kIBwgIB0gIx4jIB8gIB4gIR0hJR0lIh8iIRshIBkgIR4hIh4iLy0vKikqIiEiIyEjNjU2
+KycrIyAjKScpJiEmKCYoLCgsJCIkKSUpJiQmJyUnMzIzNDA0KygrKioqLiouMDAwJCMkJSQlMzEz
+ISAhIyIjNTI1KykrJSMlOTc5Pj0+PTs9JiUmMjAyMi8yJiMmJCQkKCEoKSgpLikuMC4wLCssLysv
+Mi0yJyYnICAgLSwtLy4vMC8wKSYpKCcoIiAiPz0/KyorLCosSEZISUZJYaocTwAAAAlwSFlzAAAO
+xAAADsQBlSsOGwAAABl0RVh0U29mdHdhcmUATWljcm9zb2Z0IE9mZmljZX/tNXEAAAKASURBVEhL
+Y2AYBdQJAUbyjWHKYyJbMzMLM9l6GfPJdzRjAfl6GQpJdDIrGzsHJxc3Dy8fv0CRILsQpzA3uwif
+qJg4EeZIFEsmlkiVSpclJZdXFMukVMpWyVWnytdwKBDUrFirhFWNcp0KQb1pqjjMVysgFGHq9Ro4
+jGdt0CRgcSMvTgVaTfj1auvgjlFGXRbsmtXBvmRt1sNjtn4LJBgNUNUotOoaAkWMyvE6q60dKG1s
+0qGIqorVtDPJTLMLe/zAlLJ2mWukl0paKGPYYGnVbU0gJG16UpOxK1HrJRj73bbYlSi0EIpAYGD2
+2WHVrEZEjlPO0Meqt9+eoJMZGBwmYFM00RFHQkZRrKA/CVOzeqYTEdYyMDhPxgyVGh2itDIwuExB
+V+hSQyiHwXQwp9qgJSsdVyKtZWAQcmNFUas3lWitDAzNViiKmacRLlFgGuymo6UPUzFiYgikXcHd
+Bc2NjDPwZyGEcuaZqN4FyvDkEenjfA8MhayeoMxPGHh5Y1jLwOBTSlgjUMUsd2zKPFuI0Dw7Fasi
+31Q/gpqdLXFkNks3gnqlcbhNxXWpMAHNvstM1LEo8TeeIyCQFYBXs2J2YFB/UDCaGoWunBpgqVsa
+glevynQGBqbm1BbUukOBJRSki3Eu3pQ5D1x/s3piVcRsEobH4vAIvHk8cj5u6ajSaPxBGQT0Eg6w
+wJFALLDOFsOhQq8thlD0x+biUBEXT0grsERZoJ/gZRscq5XAGcwbzJmgFRts65Wg30xMVokxbffU
+btFrcfFcaLrIdKGnC5Ct7VmANUHhcYmCNd7oxusHxsXktycZCynQ20y+XsUlaK0SwrEEV6FgTH5Y
+kWDNUFEKAJHnZCn/tvN0AAAAAElFTkSuQmCC
+
+------=_NextPart_01DC8E0E.CA45CA50
+Content-Location: file:///C:/B902C9F3/UI_ShipSymbols_files/image010.png
+Content-Transfer-Encoding: base64
+Content-Type: image/png
+
+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
+
+------=_NextPart_01DC8E0E.CA45CA50
 Content-Location: file:///C:/B902C9F3/UI_ShipSymbols_files/image002.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -1184,258 +1775,7 @@ hGYA/lQS32t8S2/r7TSXZXNp33vZwrg0bpax/zg82RGjFzSTZZmVZbOIbGWzQrlcZjQyynZp2/Z1
 /3v7c/WaTiQU4XDfzNHc+G7jTJTSCR7K+8zFrTczJAQC+EwggM8EAvhMIIDPBAL4TCCAzwQC+Ewg
 gM8EAvjM/wA/KClNn0nsWAAAAABJRU5ErkJggk==
 
-------=_NextPart_01CB8DB5.1149D740
-Content-Location: file:///C:/B902C9F3/UI_ShipSymbols_files/image003.png
-Content-Transfer-Encoding: base64
-Content-Type: image/png
-
-iVBORw0KGgoAAAANSUhEUgAAAEgAAABFCAMAAADerVCrAAAAAXNSR0IArs4c6QAAAvdQTFRFAAAA
-CwgLFBAUBQMFCwsLGRgZBwcHAgICAwMDAQEBHBwcFxYXGhgaGxobHR0dFxcXDwwPHRodBAQEFhYW
-Hh4eGhkaGBgYGBcYFBMUFhQWEhISHx4fERERCAgICgoKDg4OHRwdDQ4NFhUWCQkJExETDxAPERAR
-DAwMAwIDCQgJEBAQExITCgkKDg0OCQYJExMTBgUGAQABBQUFDQwNFRIVEBEQDw8PCAcIEA4QBAAE
-BAIEFgwWGhEaDQsNDQ0NAwADCQoJBgYGFhIWCwkLAwEDGxwbAgMCAgECBwIHCQEJBwAHHRkdBQYF
-HhseDgoOEg8SHBocFBQUGxkbDw4PFBEUDQUNBwUHBQQFAwQDERIRAgACBAMEEg0SHh0eBgAGCgUK
-EhASAAEAEAwQFBUUDQkNBgQGCgsKCgMKGRkZEhESCAMIEA0QFRUVCgQKEA8QCAYIFg8WFxUXHBsc
-BQAFCAkIDwcPHx0fGhMaDwsPEQ4RIhoiJB0kIB4gJR4lOzo7JSMlJCIkOTg5MC4wKykrJycnJSQl
-ODc4ICAgMi4yNjU2Ozk7MS4xJiQmNTQ1MC8wIyEjIyIjNzY3NDI0IiEiOTY5NDE0JCQkISAhPjk+
-PT09MS8xKScpPTs9Ly4vMjIyKSkpKigqKCUoJCMkJiUmJSUlLycvNjQ2LCssLSstJyYnODg4NjM2
-PDs8MzIzMzQzKikqPzg/KyorKywrOzE7Ojg6MzEzNjY2NzA3IyMjKCgoNDA0MCcwMTExLiwuKygr
-ODY4KisqIiIiISEhOzg7MjEyKCcoMDAwNzU3LCQsPj0+Ojk6MTAxMC0wPz4/Ly0vQD5AQT9BQz9D
-QT5BRD5ETkxOUk9SQ0FDRERES0pLVFJURkRGVFBURENERURFT01PUlBSSEdIU09TSkZKV1VXT05P
-UE9QUlFSSkhKV1RXTUpNQ0JDVlRWUE1QSkdKTEtMS0lLWFVYQEBAQkJCTUhNT0xPVFNUTUtNRUNF
-TktOVVNVT0tPU1FTVFFULGBs1gAAAAlwSFlzAAASdAAAEnQB3mYfeAAAABl0RVh0U29mdHdhcmUA
-TWljcm9zb2Z0IE9mZmljZX/tNXEAAAMcSURBVFhHY2AYBaMhgDsEGJmYWVjZKAohdg5Orjru+is8
-DVd5+a7xCwhykGWcEIfwdRHRG2LijRKSTVLS5yWab4rKiMmSbJZcXYv8LQUGRYRGpVblttsqqsok
-GaXWrn6nQ0OTHU2TlrbO3U4GTuKN4uy6p8uBNUT0unvUetWINImtj0u/3wCnYpH7E4gzyFD9ykR8
-Ko1kjCdNJsIokymmZiz41bE8mEqEQdIPqwiq0lWeNp2AIvN6eQtLggYxsD86b4Vf1eTHRIWkobWU
-jS3egLSboEvYPSAVWk9m2ONW6TBzFnHGMDA4znbCY5DRnLnEJ1v+eThziw6vswuxLmJgmP9UHpfi
-Bc9ciTeHwU2GzR2HcrMWOxIMYpB4vhC7cq1FpBUR4hdYsRu0+IUoKQ5iYJfz8MSmwdDL24ckgxiW
-vPTFpsFvqT9p5jAIvwrApiPwdRCJBnFeWyZEohbsytmXrzDAIsO7kuQqglHXDdMg9lVvtEh0p/vq
-t8EkasGhvL0XS1nqLr3IkVTjdXTRKyygCexr3pHqTs61782w2E18AQLTzNm6Dls1EbJeh1SvqYca
-YtES8EGfRIM4Pm4Iw6YlnJlEgxg2borAokVoZTeJDaBIpihsVkdv/kRieG/5HIPVD+5sJOaR2PlY
-cgjQaOat20gKJBnBOOzqo7dsx+pnHKazb/sSj0vKOIH48iXRJWkHdp8BTd/5VZtoz0XsqsatNnm3
-HtEGpXzbgyXHwrSn7t1HZFqS1U6Tw2Opzvc1eKxB0qix/0c6XsezsGRkEuE7doOa5iz86ljedBFh
-0IFr2YRUGU3PUSLUjmYXqr2IsyWCZMGtS/jLXM62LbnmhBwElDc8yKd+CHe/il2XY+thYkv3Iz8z
-jHBZmfftqGE4Ee4BK1E7xNbZa4SlUMnv3pTXxUWsMSB1bBOPCRwX4URNnQUnlE9eFiIuoSEsc+P5
-tSD5VKFykZyjM4OdYHHm6ZLTv+VYSklxDkStUZ4j7zfe6X/KuN7qH7xdPu1PgKw2sYGMbhu7EUPO
-mQrhs+JS5ypZjKNJd8yojtEQIDEEACqlsw+4/jHIAAAAAElFTkSuQmCC
-
-------=_NextPart_01CB8DB5.1149D740
-Content-Location: file:///C:/B902C9F3/UI_ShipSymbols_files/image004.png
-Content-Transfer-Encoding: base64
-Content-Type: image/png
-
-iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAAXNSR0IArs4c6QAAAXRQTFRFAAAA
-AgICHRsdCwsLHRwdDAsMHh0eCwoLHBscDAwMHx4fDQ0NHx8fCgoKHBocDg4OGxkbGhgaCQkJGRgZ
-Dw4PCAgIGBgYGBcYDw8PBwcHEA8QFxYXERARBwgHEhESFhYWFhUWEhISBgYGFRQVExITFBMUBQUF
-BAQEBQQFBAMEEBAQAwMDAQABBgUGHhweFBQUExMTERERGRcZGhkaDg0OAQEBGhoaAQIBGxobAgEC
-DQwNGxsbIB8gPDs8Ozk7JyYnOzo7PDk8Ojk6PDo8OTk5ISAhOTg5Ojg6PTs9ISEhIiEiPjw+ODg4
-JCIkODc4JCMkNzY3JiQmNjY2JSQlNzU3Pjs+JyUnJiUmNjU2KCcoNTQ1KigqNDM0NDI0KykrMzIz
-KyorMzMzMjEyKSgpMTAxPz0/IyIjPTw9JiYmKCYoNTM1KikqKioqLCosLCssMjAyLSstLi0uMC8w
-Ly8vLy0vLy4vMC4wLi4uMS8xLSwtQT9BRUNFJ6ciLgAAAAlwSFlzAAASdAAAEnQB3mYfeAAAABl0
-RVh0U29mdHdhcmUATWljcm9zb2Z0IE9mZmljZX/tNXEAAAJfSURBVFhH7dfrWxJBFAbwA5Y3Kk0r
-SBDRhSwt08ouFKhsyuRWXjexC1hRdjODbpb/fLPotgvM7pyZ4UNPj3zlnN++M/C8PAAcvf7TGwi0
-6FzBTFtLpGPZmWwrpGDmOLTPdihn6pzrokZ3TjVTpx6qZTmRO6mU6ZTec7h/776K1PvXAZhfkJdO
-uxwq5fskT9dPztRtzufPSknnGhyABzkZKUwiTc9fXDgvnClsDDB2Fh+KSlESYz770eNBoUxREveY
-X1oWyTTk6QCsrOKlRGbYJ//a+gjydJqZ9J18soyTNMPfAdhASSmS4ibfWL/AnUmZfAdgpjDKkZKG
-xn2WNbDJkZImzqHS04s+T4ybCVQea+jZc+97ihO8Q6UXXvcUI1F0HmuwWLrEnI+ZYg7A1ktWpjES
-FspjDW+Vxpt2BiQcKr1qlGJ50XPVolx+Xb5Sn2niDf9Lzzp5+Hfjj9RbocKyzag+1sSvFXDl4F5M
-EFZxraDKwe1o2+zCwdWMI2nMPNb7mJpxnKvGpOcX710B/9mltv2K6z23sOwQScO/ADc/4DINc4vL
-r2acK8EU10fPmnE5qOIqcqUpcwhVFMWS/0/EFLoAWTXjRBAp0k+MwrIlsQLcaSos24mQa6j7sYc+
-77L/EkVIv5AD8KXMknrIdUEHoMKQbkg4MF2pNmYKkZvCeayFSvVW3V5Ivy3l0Exf77g20/pdOQcg
-8O27kymtB2UdKv34OX243ZWdkHeotFc5kBQdKlV/WVLbbLtKHms3sEeljjllh0q7O+lst2qeWqby
-vtI9OxnGJ1uR58j4B2/gD9WETOGV0oKcAAAAAElFTkSuQmCC
-
-------=_NextPart_01CB8DB5.1149D740
-Content-Location: file:///C:/B902C9F3/UI_ShipSymbols_files/image005.png
-Content-Transfer-Encoding: base64
-Content-Type: image/png
-
-iVBORw0KGgoAAAANSUhEUgAAAEYAAABICAMAAAB8+nPGAAAAAXNSR0IArs4c6QAAAiJQTFRFAAAA
-BgYGFxYXBQUFDAwMCwoLCAgIBwcHCgkKCQgJCggKAQIBAQEBDQwNFBIUDg4OAgICAwMDEBAQGxcb
-GhoaEhISEgsSGRgZEA8QHRsdERARERERGBgYFhQWHx8fAwQDExETFxcXDw8PAAEAFhYWGxsbAQAB
-GxkbDAkMDwwPCQkJGBYYAgMCCAcIFBEUBAIEFxQXFhUWHBocHRkdHBscGBcYCgoKEAwQHBkcEA4Q
-ExITHR0dHx4fBAMEDQ0NGhgaDg0OHxsfGhkaHRwdBwYHDw4PDQsNCwsLCwkLCQcJBAQEHx0fEhES
-DgwOGRMZBwMHGRcZExMTEA0QFRQVBgcGHhoeDwoPBgUGBQQFBgMGAwADAwIDFBMUHBwcFBUUEQ4R
-HhseHh0eAgECBQMFDQoNFRMVDw0PGRYZGxobDAgMDAsMIB4gIB8gIh8iIR0hIR8hIx8jIB0gIRwh
-JB0kMC4wLCssIyIjKSYpIiEiMjAyIyEjJSQlJyYnJCMkOzk7MC8wMzAzMS8xLSwtJSUlMC0wJSIl
-ISAhMzEzJiEmJiUmLi4uMTAxJiImIiIiKyorKSgpLSktLy4vKSUpIyMjKScpLS0tLi0uJCIkPTs9
-Mi8yLSotJyQnJiQmOTg5OTc5Ly0vJyUnJiMmLisuMS4xLiouJiYmMzIzNDE0KikqKCcoLy8vIiAi
-LCosJSMlKygrKykrKyYrICAgMSsxNC80NjI2NTE1HYwrTQAAAAlwSFlzAAASdAAAEnQB3mYfeAAA
-ABl0RVh0U29mdHdhcmUATWljcm9zb2Z0IE9mZmljZX/tNXEAAALRSURBVFhH7ZfpXxJRFIaHxhnA
-LjRDGoZlWoSFjaUpJYGyTFBA+0alLbZHRQtqiaUo2r6bZVpStplL+/9XmRUF3HvA6Us/5+u85znv
-Pfeec2coaur5byogm0ZLsZasECMFhg3IpcAwDQopMMpGVgoM06SUBpMtBUZ+fvIlno5U6gszWA5N
-whCvmdkcbrl4Kac1t22WNkNQnjYyu1mXz3MI0fycue0FHfJ5aaMKta1F8+OjFuTqowsZQ1ogWXFn
-V2InLdJdXpxOuY0loSXJ0iLllY6kL5KK6asnUu2MUHoN6ke4rks9GpYuu6EG1UdxsozDCcuXQ/xw
-6iYshaLCNwF2Km6RRHRlmCSh8k6ZiJoVQeLoWEnORFHa24RUVXcgTShU/HHAE5jIvAqCoSzlWDvc
-XeKqx+Ot97AVrK4BmaG4+zacHftp4jb9EDi6MULkrAZi8iswQu6BGYgRezAdITyEXtfGR6sTE9I2
-pcroYkwlvVAMHzC717iM1WttcRHm3jPRrsd9/ZEnHuCiPE8HYs+eBwe9bb7fER6TaJJns0J+GIrh
-9CqWVYgmkbEmJpY3yIBuZNF1qZW8BVobev2G1BjUXQZ044tijjvauAmIKdyMu7G2vABi+opwwq3b
-yLPve/z2RnwLv9SD7JS24DE7WtwAjn9gJ16FwhoyBvm8HEHFvyJ/Be96TbS8u8xJuhRlMXImCr2p
-xTvmzUOglhnKwS686i2sf21OC4ZT3MnCxj7lG7antD1ct4e8lRMK64hjb1JxlmMUdswnos+OqYUE
-kL9u3zuwlXEhEgf3W4T6uCDEFzhDrvQo39T17u7Ae7XG47caDnhYlfPDiB06Rf7KdbDwnCVm//jp
-c+WXQ+2H89J28ivAgBTikdBR2bHMET8j5aPQAY3NpeiHfawQDDNj0vxrBhNPUAalOt4DmAtkruAV
-ySKyQhWRxA1d6yfnmlL86wp8BSTdcr9/Xr6AAAAAAElFTkSuQmCC
-
-------=_NextPart_01CB8DB5.1149D740
-Content-Location: file:///C:/B902C9F3/UI_ShipSymbols_files/image006.png
-Content-Transfer-Encoding: base64
-Content-Type: image/png
-
-iVBORw0KGgoAAAANSUhEUgAAAEYAAABICAMAAAB8+nPGAAAAAXNSR0IArs4c6QAAAGNQTFRFAAAA
-BgUGGhkaHh0eFRQVAQABExITAwIDFBMUCwoLBAQEDQwNBAMEAQEBCQgJCgkKMS8xMC4wLy4vNjQ2
-Pz0/NDM0ODc4MzIzIiEiISAhKigqKikqLi0uLiwuJCIkQT9BQ0FDA7tLUgAAAAlwSFlzAAASdAAA
-EnQB3mYfeAAAABl0RVh0U29mdHdhcmUATWljcm9zb2Z0IE9mZmljZX/tNXEAAACLSURBVFhH7ZfJ
-CoAwEEPrvu/77v9/pQiebKUERDwk5zZMH5NhKgRFAj8gYJgWLNuRCnf3vMBUVrUn2fgNjCRowzds
-ojZW2CRoObR5JkY2ZCP8hpk624BhYBgYhqsHGAaGgWFgGLTbNgcFOCg6LdL7gVT1Edr6AdRYy/+p
-bJoXVCu8LsIv5gUS+IrAAW3BH+ApcquJAAAAAElFTkSuQmCC
-
-------=_NextPart_01CB8DB5.1149D740
-Content-Location: file:///C:/B902C9F3/UI_ShipSymbols_files/image007.png
-Content-Transfer-Encoding: base64
-Content-Type: image/png
-
-iVBORw0KGgoAAAANSUhEUgAAAEgAAABKCAMAAAAv++J+AAAAAXNSR0IArs4c6QAAAs1QTFRFAAAA
-AQEBBwYHAwMDHBocFBMUCQcJHx4fEg8SAAEAAgECBAQEHBYcDAwMCAYIFREVEQwRFhYWDQsNGhUa
-AwIDDQ0NExMTBgUGHR0dBwUHAQABBAUEHRwdBwcHDAsMBAAEBgYGCQgJBQUFGxkbFRQVDgkOCAQI
-FBQUFRUVEA8QGhkaDw0PFxcXDAoMERMRCAcIHRsdHx8fEA0QCgoKEhISERERDxAPEhESGRkZFxMX
-CwoLGxobCwkLEBAQHhYeHRodFBAUCwsLCQUJBgMGAwEDCgYKHhweBgQGDg4OCAgIBAMEGhoaHh0e
-Hx0fBwgHAgMCGhgaAgICDQwNDgwOGxcbGBIYAgACCQkJHBkcBgIGDggOExETERAREQsRFRYVGRQZ
-Eg4SHhgeFhUWGRcZFhAWFBUUGBUYDQYNEgsSFxYXDw8PHBscGQ8ZBQQFHh4eDAgMEw0TFA8UCAUI
-FQ8VEgoSCgkKEBEQExITEhASBQIFEA4QHyAfIR4hJB4kIBUgIB8gIRshIBsgIyIjKSgpLywvMi4y
-JCQkNzE3LSwtNTM1KygrLSgtMC8wODU4Pj0+Ly4vKyErICEgOTc5JSIlISAhJCMkLCssLCcsMS8x
-Pz4/MzMzIiIiKCYoKCEoOTM5JSUlKykrLCwsOjk6NjU2MTAxKysrOTg5LSktJCEkKSApKikqNzA3
-LCosODc4Ozc7IyMjKiYqPTk9OzY7JyYnIiEiNjQ2LiwuKSIpLi0uLysvNzY3ODY4Li4uJyQnKSkp
-PTw9NDM0Pjk+OC04NTQ1Pjw+Ozk7PTg9NzI3PTc9PDk8NDE0JycnPjs+Ojc6JiQmQj9CQTpBQD9A
-QD5AQz9DQj5CQT5BSUZJRkVGRkRGSUNJREBEQ0FDQkFCRUFFRkNGVFFUQkBCWlhaREJER0VHQEBA
-UU5RSEVIS0hLTEtMRURFSkhKU05TQ0JDQ0BDSEJI2Hy0DwAAAAlwSFlzAAASdAAAEnQB3mYfeAAA
-ABl0RVh0U29mdHdhcmUATWljcm9zb2Z0IE9mZmljZX/tNXEAAAL4SURBVFhHY2AYBaMhMBoCoyGA
-GQKMDExNzM0srC1s7BycXCSEEHcrD5JqXr62dv5rAh01gp1C14W7ukVEkSTFesTxGCzeKyEpBZGX
-4pPua5Hpl5WTB3N55SdMlLmhoMgI1a2kPEkWrwtVbqqC5RnVbtWqa6Aq1dRiuaYNMYnptg4Bj+pO
-1uMHKtE/b2BohKnUeIrJHVOgsJn5VF6CITbtLgODheV0M+wKrWZYS3AxzJxF0BgGBhvb2XXn5+BW
-aHfPfq6DIxEGMTDcf+DkjFuhi+u8h0pEmcM9fzZ+dW79ksQYJPbImJAy9wsWhJQwMIh4LPAkpMpr
-gSW+1AjRvnARIWNA8v2LCaryZoclXnxKfeoJGMS5ZClBq8AKapYx41foSyDGYLotluM3p2EFcQ5i
-YNBaiTcI2mYQa9Cq1fjKJz9Wf2IN8sKbTQIecxNrUOCTNXiUBvESE/cQA1yD8Ri0totYBzEwhKzD
-Y6lEKPEGrX+qi1Nx2AZW4g0Kj4jEqdh9ozXxBrH2hONUzGmKWw5Dk8amKNy2XtxMvIvCo6EVFzYt
-6jHEG9R1CY/aLVsJ5GkkvbFxeAwy2Ea0i5T64vGpNfQm2qTtCXiUMk5aRaxBWxLxqhRPIjbX7tiJ
-1yCRZ9XEOclbA3+0BCanEJcmd+0mZOGFPYRUAOUZTVQUCClLTUsnpAQof3saYUV7L+NJ+hDtnj6m
-BKt1BoYMNxNCzs58bkPYQQwM4S9k8Cub2hhMVInM+LJzDh43MYu/ek3Q8yCXZGWr79sfhDsRHNhq
-pGWfQ4TX9vUBo7fpTS5213tP0cpjYDh4iKBBooc1QREiaph9RB9Tcab6qqMgC/ILegvxG+VueQza
-zjTpF9tlpY+cD7i0bLce54aIKJ4QLMJnEtOVWoR08cmkt7M1YwIVApW8chUcT5VcPS3uBJfOfleK
-xySRFWXIsgrzTQ7v1nomeKZ586XysxWVyCVD1VRiywmIiValQecc6wU9PQIJBu+ogtEQGA2BIRUC
-ACF+pLkq8bkiAAAAAElFTkSuQmCC
-
-------=_NextPart_01CB8DB5.1149D740
-Content-Location: file:///C:/B902C9F3/UI_ShipSymbols_files/image009.png
-Content-Transfer-Encoding: base64
-Content-Type: image/png
-
-iVBORw0KGgoAAAANSUhEUgAAAEwAAABICAMAAABr2OMPAAAAAXNSR0IArs4c6QAAAWJQTFRFAAAA
-AQEBBAUEEA8QEBAQExITCwsLBQUFFhYWHRwdGRkZDg0OBAQEAgICHRsdBgYGCQkJCwoLHh0eERAR
-ExMTGhkaGxobFBQUDAwMHx4fBgUGBwgHCgoKAgECFBMUDg4OGRgZHBwcFxYXAwMDDQ0NCQgJHBkc
-FRQVDw8PGBcYBwYHDQwNFhUWBAMEFxcXCAgIBwcHFRUVBQQFHh4eCgkKDAsMERERGxsbEhISBQYF
-GhoaHhweHx8gIR8hLiwuMi8yMS8xMzEzIiEiIyMjKyorNzY3MjAyLSstMC8wNDM0KCcoIyIjODY4
-KysrJiUmJCQkNTQ1NzU3Li0uMzIzLSwtIyEjNjQ2MC4wJCMkJyYnKikqKSkpISEhNTM1OTc5NjU2
-KScpMTAxLCgsNTU1KSgpKigqMjEyISAhJCIkJiYmNDI0LCksJSQlJSUlLy4vMzMzODc4ODU4NTQ2
-KyksJSMlOTc6+KrG1QAAAAlwSFlzAAASdAAAEnQB3mYfeAAAABl0RVh0U29mdHdhcmUATWljcm9z
-b2Z0IE9mZmljZX/tNXEAAAKWSURBVFhH7Zf7QxJBEMfn5Kl2iUoFlilclJZFL3qrQFw8OvUODKEQ
-emla9q7/PyqOA27vZnbPH93f4L7fz84Ow94MwMk6pgxI6CJvNLa2nkVWLk+lPS34/O7LF1B9NFpQ
-DeHC8DMJF3UVxXGKrDRBUQXKpD0n1VM4TS4HcNFfReU5rju9hmv+Kaa0CKYc06Yxifl8ZgNTbm5h
-iv5zWZ911wYNQlpNRDTn/lNVz5AD6wqrZ93U52qksjARMbfylstIFkYDcctwvMBzyK52Tg06Oc6r
-FzhhML7t5Ki84GXBfO0i27NQ5yiLfnnUZCZtZ5E7sK5hO8FyJUsiLAgaU3afovuFYNBo2n2rL8VY
-EDIujTpTWkoQBpero85XLVEWSLkrw94lXRGGwezu/JA5GxZnARRmBt3LWS8siLSvWn65c80TDPKv
-LX+r4o0FijZpElJtRhHz4ZffmPq3Q/njo/TUUrZXDf53Qv6R2ur1FMGO51MCrCR78LzX/ANcr5uB
-KobHygBove+f+obYVWZlLd2+aX3I3vL2GxTiA/6lDvsmJ27hrw+9u/dWiT6WTNofvoPS4ncjwMTo
-7fhhTzi027ZrQqkTe3H7ngeHtu+S/b8qZ4jTrHddaZGT0pMX7zB8C7pAdwAQ+Misqgp5HhoIRcqx
-O5e0dpf/oAmnnir+iRsWMjIOHlm/x0s7+uzoWEF6cZsxo845b/+FNKpZ/up9l6PEeGYKgOhX107/
-sMGRNVl/4KoOfYvQaYkiok1QJ0SAkIptLFFnV4DmAXqI6C5xfIpphJauyuzF7UHsUMoo8530gg/v
-k06w5fwXseJTftAGwIeG46hmwZ78RLP/X/BI+9VAVvM3Vhb9vR5jrMaRe+0Toz6RHW8G/gA9TFzw
-5Ti4YAAAAABJRU5ErkJggk==
-
-------=_NextPart_01CB8DB5.1149D740
-Content-Location: file:///C:/B902C9F3/UI_ShipSymbols_files/image011.png
-Content-Transfer-Encoding: base64
-Content-Type: image/png
-
-iVBORw0KGgoAAAANSUhEUgAAAEoAAABOCAMAAACwn3BVAAAAAXNSR0IArs4c6QAAAspQTFRFAAAA
-EhISERAREhMSFxMXCwkLGRYZCQYJGxgbCAUIGhkaCQQJGRgZCwcLFRUVDwkPDw4PEw8TCAQICQUJ
-GBgYDAYMDwoPEhESExMTFREVEw0TFRIVGxMbGhYaFQ8VExETFg4WHBccHh4eBQQFAwMDBwUHAwED
-BwYHAgACBwcHBgYGBAQEBQUFAwADAQABBgUGAwIDAgECBwgHAgMCAwQDBAIEGxYbAQEBHRwdHRgd
-FRQVGRkZFhYWBAUEHhweFBMUCAcIDg4OCgoKFxcXCQkJAAEAEREREBAQAgICGBUYDQwNCAkIFBQU
-DgsODg0OGBQYEQ4RFhQWGRcZEg8SFBEUFRMVDw0PCwsLFQ4VEQ8RDAsMDAkMCQgJGxsbDQ0NCAgI
-CgsKBgcGGBkYHR0dGxcbHx4fGxkbHBscGhgaDAwMEgwSCgkKCwwLEAwQBQYFFhUWDw8PHR4dFRYV
-ExITGBcYBwIHGxobGhQaGRQZFQ0VHBYcFxUXHRsdBAMEGBIYDxAPBQIFDQgNDQcNFxYXGBYYEhAS
-JB8kJRwlIh0iIx4jJx0nIB0gIR8hKB4oIR4hJB0kKykrKyorKikqNTM1MzIzJycnNC00PTY9PDo8
-NDM0KCgoODc4MywzPTc9Ozs7KicqLy0vJCMkKSYpKCcoIyIjLi0uMC8wOTc5Ozo7PDs8IiEiIyMj
-Pz0/JyYnJSYlNjU2OTE5LywvMTAxMC4wOjU6MDAwOjg6NjM2JiQmMjEyKysrNS81JiUmNzY3LSot
-ISEhPTs9JSQlNzM3PDg8My8zLisuLSwtLy8vMi8yKSgpNzc3IyAjMiwyNC80LCssPjw+LSktNzU3
-KSkpPzw/Pz4/MzEzLiwuQTxBQD5AQDlAQT5BQD1AQj9CQj5CQD9AQT9BQUBBRUNFQkBCRkNGR0RH
-Q0JDQ0BDRENEU1JTUlBSVlVWW1hbQ0FDQEBAm/xE9AAAAAlwSFlzAAASdAAAEnQB3mYfeAAAABl0
-RVh0U29mdHdhcmUATWljcm9zb2Z0IE9mZmljZX/tNXEAAAOWSURBVFhHY2AYBaMhQEoIMDKSohqv
-2gkTqGYUExPVjJo4kWpGUdFVkyYNDlcxs7CysXNwcnHz8PLxC0yeIgjiCnEJi4jyiYlLkOTGqdM4
-pktel7ohPUNmZtusm7PnyM6VuyV/W2Ge4sz2+QtIMWqhkrKKqpq6hqaKupqWto6unr6BuqGRsbqh
-pomWqbLZInPiDVu8BJ9ai6XEmzTREr9aq2XEOkt7kTV+o2wm2hLnLr3ldoQU2q9QIaQELO/QQTDL
-OS50Isqolc6ElQk80MGtyJxJGyIpbuFC2CgXCyZXsCoVN8wY0HzI464MlPN45EnYJAYGr8feQGXa
-bj5PfDGV+7k/9Q9QYfAJxON0hC5bviAGw+CQx6FhuthsDo945u58J5IYRzEwGD1fFXXXKloDl+qY
-2BfiRKY+c/eXqznV8Fjrci+OOEcxMGitEcCnNH4tEbEHNcBcZ50jHrMS1icS6ygGBoMNobgVu00h
-Lj9ATdDYaI/TrOBNRCUEmH7XzTir2qQt+GIEmwO2JmN3lqtEpx7xIQVW2ZWCPemkbiPRIKDy7Qux
-6YlPsyMydSLpTneOx2LWDjIcxcCwcxemUU4ZmaT7j4EhiwuzENy1mxyTGBj27PVA1+iyj/g8g6RX
-fb8EhlFaM7LJcVb8AU1Mbfp7ckg3y+kgFpMYVA7lkm6U7+E8bJpMj+STapbbUVWsWjyOEVuCwrUX
-HMcIc6jciULSnGWzCaf67iKSyiuV4rW4s9rkk6Q4a9UpPKpFSrDFLQ4NpVZ4GzzHSGgLn56C1wv2
-awWI9WLmnjI8Sg2sxF+dIdaoCa9Fih1wKFYJcnvm6FheQZxZlVVMUW/KqrHVKyo1+fd91BkYVp8l
-zqgF5xgYXNxvlKRjGqa1Rq4WZIhxcQ8xZlnYgJtjKn7nsZRN5tDqJnkZMUadWA1Vhbc+sDlG2Kxe
-M8JqgCqkLxBWdi6dsBqQCumLhLLizjriTGKoP6kJabPiAiqXfIg0ikH8cgM+peYzAok1iUGzrxGf
-Ws3+JqKNYoh6yxWpbqXdrNKiHagl7+Tl5SSvFajdotKsbaUeaX+llXiTGGwl1l61PxD1yOVZ+HnG
-yemnTqVPZjwf/szlUdSM4qt7nEkoiYCWamt6xJuDoYemioWFCozr4KEJ7XWQ4DIkpWX4ihPSjFyC
-t9NKklmBxEc+IXMXLyakgmh5cXGilRJSeO0aIRVEy2tpEa10VCG9QwAArNzMQ1Pd7GYAAAAASUVO
-RK5CYIJ=
-
-------=_NextPart_01CB8DB5.1149D740
-Content-Location: file:///C:/B902C9F3/UI_ShipSymbols_files/image010.png
-Content-Transfer-Encoding: base64
-Content-Type: image/png
-
-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
-
-------=_NextPart_01CB8DB5.1149D740
+------=_NextPart_01DC8E0E.CA45CA50
 Content-Location: file:///C:/B902C9F3/UI_ShipSymbols_files/image016.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -1477,7 +1817,7 @@ Xlzq2fNnkqTP/3zWj/9+cAcyjogMWg/JISC7nuS+AGz7+PdHXa+u734nINu4Exl2eXGpp0+fEpBx
 RAR44jgHeCIiwBMRAZ6ICPBERIAnIgI8ERHgiYgAT0QEeCIiwBMRAZ6ICPBERIAnIgI8ERHgiYgA
 T0QEeCIiwNP/jqgAbsLPbJUAAAAASUVORK5CYIJ=
 
-------=_NextPart_01CB8DB5.1149D740
+------=_NextPart_01DC8E0E.CA45CA50
 Content-Location: file:///C:/B902C9F3/UI_ShipSymbols_files/image012.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -1542,28 +1882,7 @@ T0V8RyOVC9RTeUOhcoF6Km8oVC5QT+UN9VTEdzRSuUA9lTcUKheop/KGQuXCTmkHyFNP5Rb1VMR3
 XbGYlMiFQkV8R6EivqNQEd9RqIjvKFTEdxQq4jsKFfEdhYr4jkJFfEehIr77H3swyZsPTROQAAAA
 AElFTkSuQmCC
 
-------=_NextPart_01CB8DB5.1149D740
-Content-Location: file:///C:/B902C9F3/UI_ShipSymbols_files/image014.png
-Content-Transfer-Encoding: base64
-Content-Type: image/png
-
-iVBORw0KGgoAAAANSUhEUgAAAL0AAADDCAYAAADX/xCBAAAABGdBTUEAAAAAiyVgTQAAAttJREFU
-eJzt2LFOG0EARdFhQ2EhGZnOfEEKaiT/f4WUmiK/kAYLSxENhipVlHSe2LnntCvN2+LuyuurMcbH
-gJDlX98AzCZ6ckRPjujJET05oidH9OSInhzRkyN6ckRPjujJET05oidH9OSInhzRkyN6ckRPjujJ
-ET05oidH9OSInhzRk3M9Y+Th68NY365nTPEfOLwexvP355OdPyX69e16bO+3f7y+LMs4Ho8zbgXm
-RP/L29vb2L/sZ05yQTZ3m3Fzc3PynWnRL8sy9i/78fTtadYkF2b3uBur1erkO9M+ZP184Vz494bz
-8+W0x4ue8/N+2uNFT47oyRE9OaInR/TkiJ4c0ZMjenJET47oyRE9OaInR/TkiJ4c0ZMjenJET47o
-yRE9OaInR/TkiJ4c0ZMjenJET47oyRE9OaInR/TkiJ4c0ZMjenJET47oyRE9OaInR/TkiJ4c0ZMj
-enJET47oyRE9OaInR/TkiJ4c0ZMjenJET47oyRE9OaInR/TkiJ4c0ZMjenJET47oyRE9OaInR/Tk
-iJ4c0ZMjenJET47oyRE9OaInR/TkiJ4c0ZMjenJET47oyRE9OaInR/TkiJ4c0ZMjenJET47oyRE9
-OaInR/TkiJ4c0ZMjenJET47oyRE9OaInR/TkiJ4c0ZMjenJET47oyRE9OaInR/TkiJ4c0ZMjenJE
-T47oyRE9OaInR/TkiJ4c0ZMjenJET47oyRE9OaInR/TkiJ4c0ZMjenJET47oyRE9OaInR/TkiJ4c
-0ZMjenKmRb8sni/Ow7QSj8fjrCn4K69fcq5njm3uNmP3uJs5yQXZ3G2m7EyNfrVaje39duYk/GZK
-9IefhzF+jDHeZ6xx6Q6vh5OefzXG+DjpApwZH7LkiJ4c0ZMjenJET47oyRE9OaInR/TkiJ4c0ZMj
-enJET47oyRE9OaInR/TkiJ4c0ZMjenJET47oyRE9OaInR/TkiJ4c0ZPzCZWuKPJXhFmXAAAAAElF
-TkSuQmCC
-
-------=_NextPart_01CB8DB5.1149D740
+------=_NextPart_01DC8E0E.CA45CA50
 Content-Location: file:///C:/B902C9F3/UI_ShipSymbols_files/image017.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -1623,87 +1942,7 @@ T5439zHq+q7RLl/+7zJKKLWmFLFqt/Jau2X5YKStGBjb76Dr+l/OrY7lBb7smDrYIGCPENjiCIEt
 jhDY4giBLY4Q2OIIgS2OENjiCIEtjhDY4giBLY4Q2OIIgS2OENjiCIEtjhDY4giBLY4Q2OIIgS2O
 ENjiCIEtzv8AqLXpxYU3I6kAAAAASUVORK5CYIJ=
 
-------=_NextPart_01CB8DB5.1149D740
-Content-Location: file:///C:/B902C9F3/UI_ShipSymbols_files/image008.png
-Content-Transfer-Encoding: base64
-Content-Type: image/png
-
-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
-7k/WLJFKWwAAAABJRU5ErkJggk==
-
-------=_NextPart_01CB8DB5.1149D740
+------=_NextPart_01DC8E0E.CA45CA50
 Content-Location: file:///C:/B902C9F3/UI_ShipSymbols_files/image020.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -1767,7 +2006,7 @@ jBJtKEYhLEGupweKUfpDQumBYpT+UIzSA8Uo/aEYhbAEuZ4eKEbpDwmlB4pR+kMxSg8Uo/SHYhTC
 EuR6CEuQUAhLkFAIS5BQCEuQUAhLkFAIS5BQCEuQUAhLkFAIS5BQCEv8D7rrpX3P2tJeAAAAAElF
 TkSuQmCC
 
-------=_NextPart_01CB8DB5.1149D740
+------=_NextPart_01DC8E0E.CA45CA50
 Content-Location: file:///C:/B902C9F3/UI_ShipSymbols_files/filelist.xml
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/xml; charset="utf-8"
@@ -1775,7 +2014,7 @@ Content-Type: text/xml; charset="utf-8"
 <xml xmlns:o=3D"urn:schemas-microsoft-com:office:office">
  <o:MainFile HRef=3D"../UI_ShipSymbols.htm"/>
  <o:File HRef=3D"item0022.xml"/>
- <o:File HRef=3D"props0023.xml"/>
+ <o:File HRef=3D"props023.xml"/>
  <o:File HRef=3D"themedata.thmx"/>
  <o:File HRef=3D"colorschememapping.xml"/>
  <o:File HRef=3D"image010.png"/>
@@ -1786,14 +2025,14 @@ Content-Type: text/xml; charset="utf-8"
  <o:File HRef=3D"image004.png"/>
  <o:File HRef=3D"image012.png"/>
  <o:File HRef=3D"image005.png"/>
- <o:File HRef=3D"image014.png"/>
  <o:File HRef=3D"image006.png"/>
+ <o:File HRef=3D"image007.jpg"/>
  <o:File HRef=3D"image017.png"/>
- <o:File HRef=3D"image007.png"/>
  <o:File HRef=3D"image008.png"/>
  <o:File HRef=3D"image009.png"/>
+ <o:File HRef=3D"image011.jpg"/>
  <o:File HRef=3D"image020.png"/>
- <o:File HRef=3D"image011.png"/>
+ <o:File HRef=3D"image013.png"/>
  <o:File HRef=3D"filelist.xml"/>
 </xml>
-------=_NextPart_01CB8DB5.1149D740--
+------=_NextPart_01DC8E0E.CA45CA50--

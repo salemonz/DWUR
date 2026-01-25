@@ -1,9 +1,9 @@
 MIME-Version: 1.0
-Content-Type: multipart/related; boundary="----=_NextPart_01D6483A.555AB7C0"
+Content-Type: multipart/related; boundary="----=_NextPart_01DC8E08.B6E53730"
 
-This document is a Single File Web Page, also known as a Web Archive file.  If you are seeing this message, your browser or editor doesn't support Web Archive files.  Please download a browser that supports Web Archive, such as Windows® Internet Explorer®.
+This document is a Single File Web Page, also known as a Web Archive file.  If you are seeing this message, your browser or editor doesn't support Web Archive files.  Please download a browser that supports Web Archive.
 
-------=_NextPart_01D6483A.555AB7C0
+------=_NextPart_01DC8E08.B6E53730
 Content-Location: file:///C:/F06BB24E/GameInfo_BaconModAnIntroduction.htm
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/html; charset="us-ascii"
@@ -25,11 +25,11 @@ t.xml">
  <o:DocumentProperties>
   <o:Author>Elliot</o:Author>
   <o:Template>Normal</o:Template>
-  <o:LastAuthor>Darren Sprott</o:LastAuthor>
-  <o:Revision>12</o:Revision>
+  <o:LastAuthor>Joshua Salmons</o:LastAuthor>
+  <o:Revision>13</o:Revision>
   <o:TotalTime>318</o:TotalTime>
   <o:Created>2008-09-16T02:48:00Z</o:Created>
-  <o:LastSaved>2020-06-21T16:10:00Z</o:LastSaved>
+  <o:LastSaved>2026-01-25T20:41:00Z</o:LastSaved>
   <o:Pages>7</o:Pages>
   <o:Words>3162</o:Words>
   <o:Characters>18029</o:Characters>
@@ -37,7 +37,7 @@ t.xml">
   <o:Lines>150</o:Lines>
   <o:Paragraphs>42</o:Paragraphs>
   <o:CharactersWithSpaces>21149</o:CharactersWithSpaces>
-  <o:Version>15.00</o:Version>
+  <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
@@ -53,6 +53,7 @@ href=3D"GameInfo_BaconModAnIntroduction_files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Print</w:View>
+  <w:Zoom>130</w:Zoom>
   <w:DisplayBackgroundShape/>
   <w:SpellingState>Clean</w:SpellingState>
   <w:GrammarState>Clean</w:GrammarState>
@@ -98,7 +99,7 @@ href=3D"GameInfo_BaconModAnIntroduction_files/colorschememapping.xml">
   </m:mathPr></w:WordDocument>
 </xml><![endif]--><!--[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState=3D"false" DefUnhideWhenUsed=3D"false"
-  DefSemiHidden=3D"false" DefQFormat=3D"false" LatentStyleCount=3D"371">
+  DefSemiHidden=3D"false" DefQFormat=3D"false" LatentStyleCount=3D"376">
   <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Normal"/>
   <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"heading 1"/>
   <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
@@ -940,6 +941,16 @@ k Accent 6"/>
    Name=3D"List Table 6 Colorful Accent 6"/>
   <w:LsdException Locked=3D"false" Priority=3D"52"
    Name=3D"List Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Mention"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Smart Hyperlink"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Hashtag"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Unresolved Mention"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Smart Link"/>
  </w:LatentStyles>
 </xml><![endif]-->
 <style>
@@ -958,17 +969,15 @@ k Accent 6"/>
 	mso-font-alt:"\FF2D\FF33 \660E\671D";
 	mso-font-charset:128;
 	mso-generic-font-family:roman;
-	mso-font-format:other;
 	mso-font-pitch:fixed;
 	mso-font-signature:1 134676480 16 0 131072 0;}
 @font-face
 	{font-family:"Cambria Math";
 	panose-1:2 4 5 3 5 4 6 3 2 4;
-	mso-font-charset:1;
+	mso-font-charset:0;
 	mso-generic-font-family:roman;
-	mso-font-format:other;
 	mso-font-pitch:variable;
-	mso-font-signature:0 0 0 0 0 0;}
+	mso-font-signature:-536869121 1107305727 33554432 0 415 0;}
 @font-face
 	{font-family:Verdana;
 	panose-1:2 11 6 4 3 5 4 4 2 4;
@@ -985,6 +994,7 @@ k Accent 6"/>
 	mso-font-signature:-520081665 -1073717157 41 0 66047 0;}
 @font-face
 	{font-family:"\@MS Mincho";
+	panose-1:2 2 6 9 4 2 5 8 3 4;
 	mso-font-charset:128;
 	mso-generic-font-family:modern;
 	mso-font-pitch:fixed;
@@ -994,14 +1004,14 @@ k Accent 6"/>
 	{mso-style-unhide:no;
 	mso-style-qformat:yes;
 	mso-style-parent:"";
-	margin-top:0cm;
-	margin-right:0cm;
+	margin-top:0in;
+	margin-right:0in;
 	margin-bottom:10.0pt;
-	margin-left:0cm;
+	margin-left:0in;
 	mso-pagination:widow-orphan;
 	font-size:10.0pt;
 	mso-bidi-font-size:12.0pt;
-	font-family:"Verdana","sans-serif";
+	font-family:"Verdana",sans-serif;
 	mso-fareast-font-family:"MS Mincho";
 	mso-bidi-font-family:"Times New Roman";
 	color:#AAAAAA;}
@@ -1010,15 +1020,15 @@ h2
 	mso-style-qformat:yes;
 	mso-style-link:"Heading 2 Char";
 	mso-style-next:Normal;
-	margin-top:18.0pt;
-	margin-right:0cm;
+	margin-top:.25in;
+	margin-right:0in;
 	margin-bottom:12.0pt;
-	margin-left:0cm;
+	margin-left:0in;
 	mso-pagination:widow-orphan lines-together;
 	page-break-after:avoid;
 	mso-outline-level:2;
 	font-size:13.0pt;
-	font-family:"Verdana","sans-serif";
+	font-family:"Verdana",sans-serif;
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:major-fareast;
 	mso-bidi-font-family:"Times New Roman";
@@ -1030,15 +1040,15 @@ h3
 	mso-style-link:"Heading 3 Char";
 	mso-style-next:Normal;
 	margin-top:16.0pt;
-	margin-right:0cm;
+	margin-right:0in;
 	margin-bottom:10.0pt;
-	margin-left:0cm;
+	margin-left:0in;
 	mso-pagination:widow-orphan lines-together;
 	page-break-after:avoid;
 	mso-outline-level:3;
 	font-size:11.0pt;
 	mso-bidi-font-size:12.0pt;
-	font-family:"Verdana","sans-serif";
+	font-family:"Verdana",sans-serif;
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:major-fareast;
 	mso-bidi-font-family:"Times New Roman";
@@ -1047,28 +1057,28 @@ h3
 p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
 	{mso-style-noshow:yes;
 	mso-style-link:"Balloon Text Char";
-	margin-top:0cm;
-	margin-right:0cm;
+	margin-top:0in;
+	margin-right:0in;
 	margin-bottom:10.0pt;
-	margin-left:0cm;
+	margin-left:0in;
 	mso-pagination:widow-orphan;
 	font-size:8.0pt;
-	font-family:"Tahoma","sans-serif";
+	font-family:"Tahoma",sans-serif;
 	mso-fareast-font-family:"MS Mincho";
 	color:#AAAAAA;}
 p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
 	{mso-style-priority:34;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
-	margin-top:0cm;
-	margin-right:0cm;
+	margin-top:0in;
+	margin-right:0in;
 	margin-bottom:10.0pt;
-	margin-left:36.0pt;
+	margin-left:.5in;
 	mso-add-space:auto;
 	mso-pagination:widow-orphan;
 	font-size:10.0pt;
 	mso-bidi-font-size:12.0pt;
-	font-family:"Verdana","sans-serif";
+	font-family:"Verdana",sans-serif;
 	mso-fareast-font-family:"MS Mincho";
 	mso-bidi-font-family:"Times New Roman";
 	color:#AAAAAA;}
@@ -1078,16 +1088,15 @@ raphCxSpFirst
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
 	mso-style-type:export-only;
-	margin-top:0cm;
-	margin-right:0cm;
-	margin-bottom:0cm;
-	margin-left:36.0pt;
-	margin-bottom:.0001pt;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
 	mso-add-space:auto;
 	mso-pagination:widow-orphan;
 	font-size:10.0pt;
 	mso-bidi-font-size:12.0pt;
-	font-family:"Verdana","sans-serif";
+	font-family:"Verdana",sans-serif;
 	mso-fareast-font-family:"MS Mincho";
 	mso-bidi-font-family:"Times New Roman";
 	color:#AAAAAA;}
@@ -1097,16 +1106,15 @@ agraphCxSpMiddle
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
 	mso-style-type:export-only;
-	margin-top:0cm;
-	margin-right:0cm;
-	margin-bottom:0cm;
-	margin-left:36.0pt;
-	margin-bottom:.0001pt;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
 	mso-add-space:auto;
 	mso-pagination:widow-orphan;
 	font-size:10.0pt;
 	mso-bidi-font-size:12.0pt;
-	font-family:"Verdana","sans-serif";
+	font-family:"Verdana",sans-serif;
 	mso-fareast-font-family:"MS Mincho";
 	mso-bidi-font-family:"Times New Roman";
 	color:#AAAAAA;}
@@ -1116,15 +1124,15 @@ phCxSpLast
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
 	mso-style-type:export-only;
-	margin-top:0cm;
-	margin-right:0cm;
+	margin-top:0in;
+	margin-right:0in;
 	margin-bottom:10.0pt;
-	margin-left:36.0pt;
+	margin-left:.5in;
 	mso-add-space:auto;
 	mso-pagination:widow-orphan;
 	font-size:10.0pt;
 	mso-bidi-font-size:12.0pt;
-	font-family:"Verdana","sans-serif";
+	font-family:"Verdana",sans-serif;
 	mso-fareast-font-family:"MS Mincho";
 	mso-bidi-font-family:"Times New Roman";
 	color:#AAAAAA;}
@@ -1136,7 +1144,7 @@ span.Heading2Char
 	mso-style-link:"Heading 2";
 	mso-ansi-font-size:13.0pt;
 	mso-bidi-font-size:13.0pt;
-	font-family:"Verdana","sans-serif";
+	font-family:"Verdana",sans-serif;
 	mso-ascii-font-family:Verdana;
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:major-fareast;
@@ -1153,7 +1161,7 @@ span.Heading3Char
 	mso-style-link:"Heading 3";
 	mso-ansi-font-size:11.0pt;
 	mso-bidi-font-size:12.0pt;
-	font-family:"Verdana","sans-serif";
+	font-family:"Verdana",sans-serif;
 	mso-ascii-font-family:Verdana;
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:major-fareast;
@@ -1162,6 +1170,18 @@ span.Heading3Char
 	mso-bidi-theme-font:major-bidi;
 	color:#AAAAAA;
 	font-weight:bold;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;}
 span.BalloonTextChar
 	{mso-style-name:"Balloon Text Char";
 	mso-style-noshow:yes;
@@ -1170,7 +1190,7 @@ span.BalloonTextChar
 	mso-style-link:"Balloon Text";
 	mso-ansi-font-size:8.0pt;
 	mso-bidi-font-size:8.0pt;
-	font-family:"Tahoma","sans-serif";
+	font-family:"Tahoma",sans-serif;
 	mso-ascii-font-family:Tahoma;
 	mso-fareast-font-family:"MS Mincho";
 	mso-hansi-font-family:Tahoma;
@@ -1186,10 +1206,12 @@ span.GramE
 	mso-default-props:yes;
 	font-size:10.0pt;
 	mso-ansi-font-size:10.0pt;
-	mso-bidi-font-size:10.0pt;}
+	mso-bidi-font-size:10.0pt;
+	mso-font-kerning:0pt;
+	mso-ligatures:none;}
 @page WordSection1
 	{size:595.3pt 841.9pt;
-	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	margin:1.0in 1.25in 1.0in 1.25in;
 	mso-header-margin:35.4pt;
 	mso-footer-margin:35.4pt;
 	mso-paper-source:0;}
@@ -1206,63 +1228,63 @@ div.WordSection1
 	mso-level-text:\F0B7;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
+	text-indent:-.25in;
 	font-family:Symbol;}
 @list l0:level2
 	{mso-level-number-format:bullet;
 	mso-level-text:o;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
+	text-indent:-.25in;
 	font-family:"Courier New";}
 @list l0:level3
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0A7;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
+	text-indent:-.25in;
 	font-family:Wingdings;}
 @list l0:level4
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
+	text-indent:-.25in;
 	font-family:Symbol;}
 @list l0:level5
 	{mso-level-number-format:bullet;
 	mso-level-text:o;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
+	text-indent:-.25in;
 	font-family:"Courier New";}
 @list l0:level6
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0A7;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
+	text-indent:-.25in;
 	font-family:Wingdings;}
 @list l0:level7
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
+	text-indent:-.25in;
 	font-family:Symbol;}
 @list l0:level8
 	{mso-level-number-format:bullet;
 	mso-level-text:o;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
+	text-indent:-.25in;
 	font-family:"Courier New";}
 @list l0:level9
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0A7;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
+	text-indent:-.25in;
 	font-family:Wingdings;}
 @list l1
 	{mso-list-id:1996303499;
@@ -1274,63 +1296,63 @@ div.WordSection1
 	mso-level-text:\F0B7;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
+	text-indent:-.25in;
 	font-family:Symbol;}
 @list l1:level2
 	{mso-level-number-format:bullet;
 	mso-level-text:o;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
+	text-indent:-.25in;
 	font-family:"Courier New";}
 @list l1:level3
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0A7;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
+	text-indent:-.25in;
 	font-family:Wingdings;}
 @list l1:level4
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
+	text-indent:-.25in;
 	font-family:Symbol;}
 @list l1:level5
 	{mso-level-number-format:bullet;
 	mso-level-text:o;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
+	text-indent:-.25in;
 	font-family:"Courier New";}
 @list l1:level6
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0A7;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
+	text-indent:-.25in;
 	font-family:Wingdings;}
 @list l1:level7
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
+	text-indent:-.25in;
 	font-family:Symbol;}
 @list l1:level8
 	{mso-level-number-format:bullet;
 	mso-level-text:o;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
+	text-indent:-.25in;
 	font-family:"Courier New";}
 @list l1:level9
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0A7;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
+	text-indent:-.25in;
 	font-family:Wingdings;}
 @list l2
 	{mso-list-id:2133984511;
@@ -1342,68 +1364,68 @@ div.WordSection1
 	mso-level-text:\F0B7;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
+	text-indent:-.25in;
 	font-family:Symbol;}
 @list l2:level2
 	{mso-level-number-format:bullet;
 	mso-level-text:o;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
+	text-indent:-.25in;
 	font-family:"Courier New";}
 @list l2:level3
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0A7;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
+	text-indent:-.25in;
 	font-family:Wingdings;}
 @list l2:level4
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
+	text-indent:-.25in;
 	font-family:Symbol;}
 @list l2:level5
 	{mso-level-number-format:bullet;
 	mso-level-text:o;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
+	text-indent:-.25in;
 	font-family:"Courier New";}
 @list l2:level6
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0A7;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
+	text-indent:-.25in;
 	font-family:Wingdings;}
 @list l2:level7
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
+	text-indent:-.25in;
 	font-family:Symbol;}
 @list l2:level8
 	{mso-level-number-format:bullet;
 	mso-level-text:o;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
+	text-indent:-.25in;
 	font-family:"Courier New";}
 @list l2:level9
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0A7;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
+	text-indent:-.25in;
 	font-family:Wingdings;}
 ol
-	{margin-bottom:0cm;}
+	{margin-bottom:0in;}
 ul
-	{margin-bottom:0cm;}
+	{margin-bottom:0in;}
 -->
 </style>
 <!--[if gte mso 10]>
@@ -1416,12 +1438,11 @@ ul
 	mso-style-noshow:yes;
 	mso-style-priority:99;
 	mso-style-parent:"";
-	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
-	mso-para-margin:0cm;
-	mso-para-margin-bottom:.0001pt;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
 	mso-pagination:widow-orphan;
 	font-size:10.0pt;
-	font-family:"Times New Roman","serif";}
+	font-family:"Times New Roman",serif;}
 table.MsoTableGrid
 	{mso-style-name:"Table Grid";
 	mso-tstyle-rowband-size:0;
@@ -1431,16 +1452,15 @@ table.MsoTableGrid
 	mso-border-themecolor:text1;
 	mso-border-alt:solid black .5pt;
 	mso-border-themecolor:text1;
-	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
 	mso-border-insideh:.5pt solid black;
 	mso-border-insideh-themecolor:text1;
 	mso-border-insidev:.5pt solid black;
 	mso-border-insidev-themecolor:text1;
-	mso-para-margin:0cm;
-	mso-para-margin-bottom:.0001pt;
+	mso-para-margin:0in;
 	mso-pagination:widow-orphan;
 	font-size:10.0pt;
-	font-family:"Times New Roman","serif";}
+	font-family:"Times New Roman",serif;}
 </style>
 <![endif]--><!--[if gte mso 9]><xml>
  <o:shapedefaults v:ext=3D"edit" spidmax=3D"1026">
@@ -1451,422 +1471,543 @@ table.MsoTableGrid
  </o:shapelayout></xml><![endif]-->
 </head>
 
-<body bgcolor=3D"#27282C" lang=3DEN-AU style=3D'tab-interval:36.0pt'>
+<body bgcolor=3D"#27282C" lang=3DEN-US style=3D'tab-interval:.5in;word-wrap=
+:break-word'>
 
 <div class=3DWordSection1>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span
-style=3D'font-size:11.0pt'>Bacon Mod for Distant Worlds Universe<o:p></o:p>=
-</span></b></p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'font-size:11.0pt;mso-ansi-language:EN-AU'>Bacon Mod for Distant Wo=
+rlds
+Universe<o:p></o:p></span></b></p>
 
-<p class=3DMsoNormal><span style=3D'font-size:8.0pt'>By Roger Bacon<o:p></o=
-:p></span></p>
+<p class=3DMsoNormal><span lang=3DEN-AU style=3D'font-size:8.0pt;mso-ansi-l=
+anguage:
+EN-AU'>By Roger Bacon<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><span style=3D'font-size:8.0pt'>Help file for mod vers=
-ion 1.79<o:p></o:p></span></p>
+<p class=3DMsoNormal><span lang=3DEN-AU style=3D'font-size:8.0pt;mso-ansi-l=
+anguage:
+EN-AU'>Help file for mod version 1.79<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+<p class=3DMsoNormal><span lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'><=
+o:p>&nbsp;</o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span
-style=3D'font-size:11.0pt'>Usage<o:p></o:p></span></b></p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'font-size:11.0pt;mso-ansi-language:EN-AU'>Usage<o:p></o:p></span><=
+/b></p>
 
-<p class=3DMsoNormal>Many of the settings of this mod can be set by the pla=
-yer in
-the BaconSettings.txt file. Feel free to change and adjust as you see fit.<=
-/p>
+<p class=3DMsoNormal><span lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'>M=
+any of the
+settings of this mod can be set by the player in the BaconSettings.txt file.
+Feel free to change and adjust as you see fit.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal>Note: All references to settings refer to BaconSetting=
-s.txt
-file.</p>
-
-<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
-
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span
-style=3D'font-size:11.0pt'>Changes<o:p></o:p></span></b></p>
-
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Gravity Wells=
-</b>:
-Stars generate a gravity well preventing ships from initiating a <span
-class=3DSpellE>hyperjump</span> if <span class=3DSpellE>useStarGravityWells=
-</span>=3Dtrue.</p>
-
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Crew experien=
-ce
-levels</b>: Crew gain experience when inflicting damage (and can lose it if
-they take too much damage). View with Ctrl-s. Each level above
-&#8220;Green&#8221; gives a random bonus to the ship.</p>
-
-<p class=3DMsoListParagraphCxSpFirst style=3D'text-indent:-18.0pt;mso-list:=
-l2 level1 lfo2'><![if !supportLists]><span
-style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-fa=
-mily:
-Symbol'><span style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "=
-Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>+10% <span class=3DSpellE>sublight</span> sp=
-eed </p>
-
-<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-18.0pt;mso-list=
-:l2 level1 lfo2'><![if !supportLists]><span
-style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-fa=
-mily:
-Symbol'><span style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "=
-Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>+10% shield and shield recharge </p>
-
-<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-18.0pt;mso-list=
-:l2 level1 lfo2'><![if !supportLists]><span
-style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-fa=
-mily:
-Symbol'><span style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "=
-Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>+10% weapon range and weapon travel speed </=
+<p class=3DMsoNormal><span lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'>N=
+ote: All
+references to settings refer to BaconSettings.txt file.<o:p></o:p></span></=
 p>
 
-<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-18.0pt;mso-list=
-:l2 level1 lfo2'><![if !supportLists]><span
-style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-fa=
-mily:
-Symbol'><span style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "=
-Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>+10% weapon damage (every other weapon under=
- 10
-damage will receive +1 damaged instead) </p>
+<p class=3DMsoNormal><span lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'><=
+o:p>&nbsp;</o:p></span></p>
 
-<p class=3DMsoListParagraphCxSpLast style=3D'text-indent:-18.0pt;mso-list:l=
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'font-size:11.0pt;mso-ansi-language:EN-AU'>Changes<o:p></o:p></span=
+></b></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Gravity Wells</span></b><span lang=3DEN-AU
+style=3D'mso-ansi-language:EN-AU'>: Stars generate a gravity well preventing
+ships from initiating a hyperjump if <span class=3DSpellE>useStarGravityWel=
+ls</span>=3Dtrue.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Crew experience levels</span></b><span
+lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'>: Crew gain experience when
+inflicting damage (and can lose it if they take too much damage). View with
+Ctrl-s. Each level above &#8220;Green&#8221; gives a random bonus to the sh=
+ip.<o:p></o:p></span></p>
+
+<p class=3DMsoListParagraphCxSpFirst style=3D'text-indent:-.25in;mso-list:l=
 2 level1 lfo2'><![if !supportLists]><span
-style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-fa=
-mily:
-Symbol'><span style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "=
-Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>+25% targeting, countermeasures, -20% static
-energy usage, +10% fuel capacity</p>
+lang=3DEN-AU style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso=
+-bidi-font-family:
+Symbol;mso-ansi-language:EN-AU'><span style=3D'mso-list:Ignore'>&middot;<sp=
+an
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;
+</span></span></span><![endif]><span lang=3DEN-AU style=3D'mso-ansi-languag=
+e:EN-AU'>+10%
+<span class=3DSpellE>sublight</span> speed <o:p></o:p></span></p>
 
-<p class=3DMsoNormal>In addition, crews above &#8220;green&#8221; have a li=
-mited
-ability to repair damaged components on their ship.</p>
+<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-.25in;mso-list:=
+l2 level1 lfo2'><![if !supportLists]><span
+lang=3DEN-AU style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso=
+-bidi-font-family:
+Symbol;mso-ansi-language:EN-AU'><span style=3D'mso-list:Ignore'>&middot;<sp=
+an
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;
+</span></span></span><![endif]><span lang=3DEN-AU style=3D'mso-ansi-languag=
+e:EN-AU'>+10%
+shield and shield recharge <o:p></o:p></span></p>
 
-<p class=3DMsoNormal>Also, ships that have a repair mission and manage to
-self-repair (through any means) will have their repair mission cancelled.</=
-p>
+<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-.25in;mso-list:=
+l2 level1 lfo2'><![if !supportLists]><span
+lang=3DEN-AU style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso=
+-bidi-font-family:
+Symbol;mso-ansi-language:EN-AU'><span style=3D'mso-list:Ignore'>&middot;<sp=
+an
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;
+</span></span></span><![endif]><span lang=3DEN-AU style=3D'mso-ansi-languag=
+e:EN-AU'>+10%
+weapon range and weapon travel speed <o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Fighter Aces<=
-/b>: As
-with crews, fighters can gain experience as well. When a pilot obtains his
-first experience perk he will get a custom name.</p>
+<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-.25in;mso-list:=
+l2 level1 lfo2'><![if !supportLists]><span
+lang=3DEN-AU style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso=
+-bidi-font-family:
+Symbol;mso-ansi-language:EN-AU'><span style=3D'mso-list:Ignore'>&middot;<sp=
+an
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;
+</span></span></span><![endif]><span lang=3DEN-AU style=3D'mso-ansi-languag=
+e:EN-AU'>+10%
+weapon damage (every other weapon under 10 damage will receive +1 damaged
+instead) <o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Exploration s=
-hip and
-construction ship size</b>: These two ships max size is now the same as an
-empire&#8217;s military ship max size. Previously they we not modified by
-either military or civilian empire size factor.</p>
+<p class=3DMsoListParagraphCxSpLast style=3D'text-indent:-.25in;mso-list:l2=
+ level1 lfo2'><![if !supportLists]><span
+lang=3DEN-AU style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso=
+-bidi-font-family:
+Symbol;mso-ansi-language:EN-AU'><span style=3D'mso-list:Ignore'>&middot;<sp=
+an
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;
+</span></span></span><![endif]><span lang=3DEN-AU style=3D'mso-ansi-languag=
+e:EN-AU'>+25%
+targeting, countermeasures, -20% static energy usage, +10% fuel capacity<o:=
+p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Bacon Civilian
-Shipyards</b>: The game now uses the pirate ship building interface <span
-class=3DGramE>so</span> you can build all ship classes now. Need 50 freight=
-ers?
+<p class=3DMsoNormal><span lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'>In
+addition, crews above &#8220;green&#8221; have a limited ability to repair
+damaged components on their ship.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'>A=
+lso, ships
+that have a repair mission and manage to self-repair (through any means) wi=
+ll
+have their repair mission cancelled.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Fighter Aces</span></b><span lang=3DEN-AU
+style=3D'mso-ansi-language:EN-AU'>: As with crews, fighters can gain experi=
+ence
+as well. When a pilot obtains his first experience perk he will get a custom
+name.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Exploration ship and construction ship si=
+ze</span></b><span
+lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'>: These two ships max size i=
+s now
+the same as an empire&#8217;s military ship max size. Previously they we not
+modified by either military or civilian empire size factor.<o:p></o:p></spa=
+n></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Bacon Civilian Shipyards</span></b><span
+lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'>: The game now uses the pira=
+te ship
+building interface so you can build all ship classes now. Need 50 freighter=
+s?
 Don&#8217;t wait for the private sector. Build them yourself. Note that the=
 se
-ships will be state ships and the state will pay their maintenance costs.</=
-p>
+ships will be state ships and the state will pay their maintenance costs.<o=
+:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Armed Civilia=
-n Ships</b>:
-Civilian ships can now have up to 10 weapons.</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Armed Civilian Ships</span></b><span
+lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'>: Civilian ships can now hav=
+e up to
+10 weapons.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Order Passeng=
-er Ships</b>:
-If you have a passenger ship selected and press Ctrl-W the game will perfor=
-m a
-passenger transport mission from SOURCE to DESTINATION as defined in
-passengers.txt. Be sure to only do this for a passenger ship that doesn&#82=
-17;t
-already have passengers otherwise the existing passengers may disappear into
-limbo. Not a lot of error checking here so make sure you spell the planet n=
-ame
-exactly correct (copy past from within the game is best). Note: you can keep
-the passengers.txt file open. Just save it after updating it and the new
-setting will take effect.</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Order Passenger Ships</span></b><span
+lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'>: If you have a passenger sh=
+ip
+selected and press Ctrl-W the game will perform a passenger transport missi=
+on
+from SOURCE to DESTINATION as defined in passengers.txt. Be sure to only do
+this for a passenger ship that doesn&#8217;t already have passengers otherw=
+ise
+the existing passengers may disappear into limbo. Not a lot of error checki=
+ng
+here so make sure you spell the planet name exactly correct (copy past from
+within the game is best). Note: you can keep the passengers.txt file open. =
+Just
+save it after updating it and the new setting will take effect.<o:p></o:p><=
+/span></p>
 
-<p class=3DMsoNormal>If you hold down SHIFT while assigning a mission to a =
-state
-passenger ship the mission will repeat until you clear it with the ship fin=
-der
-(!clear).</p>
+<p class=3DMsoNormal><span lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'>I=
+f you hold
+down SHIFT while assigning a mission to a state passenger ship the mission =
+will
+repeat until you clear it with the ship finder (!clear).<o:p></o:p></span><=
+/p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Bacon Input (=
-Ship
-Finder)</b>: Press control-E to bring up a search box. Type the name of any=
- one
-of your ships or planets and the first match will become the selected objec=
-t.
-Good for when you have 500+ ships and know the name but don&#8217;t feel li=
-ke
-searching through the <span class=3DSpellE>shiplist</span> (even sorted the=
- <span
-class=3DSpellE>shiplist</span> can still be a chore).</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Bacon Input (Ship Finder)</span></b><span
+lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'>: Press control-E to bring u=
+p a
+search box. Type the name of any one of your ships or planets and the first
+match will become the selected object. Good for when you have 500+ ships and
+know the name but don&#8217;t feel like searching through the <span
+class=3DSpellE>shiplist</span> (even sorted the <span class=3DSpellE>shipli=
+st</span>
+can still be a chore).<o:p></o:p></span></p>
 
-<p class=3DMsoNormal>Please note, The <span class=3DSpellE>ShipFinder</span=
-> has
-now been renamed &#8220;Bacon Input&#8221; because it now does so much more.
-All special commands (those starting <span class=3DGramE>with !</span> or #=
-) are
-input through this box.</p>
+<p class=3DMsoNormal><span lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'>P=
+lease
+note, The <span class=3DSpellE>ShipFinder</span> has now been renamed
+&#8220;Bacon Input&#8221; because it now does so much more. All special
+commands (those starting <span class=3DGramE>with !</span> or #) are input
+through this box.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Fleet Command=
-s</b>:
-Using the ship finder, with a fleet selected you can do the following:</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Fleet Commands</span></b><span lang=3DEN-=
+AU
+style=3D'mso-ansi-language:EN-AU'>: Using the ship finder, with a fleet sel=
+ected
+you can do the following:<o:p></o:p></span></p>
 
-<p class=3DMsoListParagraphCxSpFirst style=3D'text-indent:-18.0pt;mso-list:=
-l1 level1 lfo4'><![if !supportLists]><span
-style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-fa=
-mily:
-Symbol'><span style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "=
-Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>#combine fleet1+fleet2 &#8211; this will com=
-bine
-the two into the first fleet and eliminate the second fleet.</p>
-
-<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-18.0pt;mso-list=
-:l1 level1 lfo4'><![if !supportLists]><span
-style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-fa=
-mily:
-Symbol'><span style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "=
-Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>#disband <span class=3DSpellE>fleetName</spa=
-n>
-&#8211; this will disband the named fleet and set each ship to auto control=
-led.</p>
-
-<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-18.0pt;mso-list=
-:l1 level1 lfo4'><![if !supportLists]><span
-style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-fa=
-mily:
-Symbol'><span style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "=
-Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>#join <span class=3DSpellE>fleetName</span>
-&#8211; currently selected ships (not a fleet) will join the named fleet.</=
-p>
-
-<p class=3DMsoListParagraphCxSpLast style=3D'text-indent:-18.0pt;mso-list:l=
+<p class=3DMsoListParagraphCxSpFirst style=3D'text-indent:-.25in;mso-list:l=
 1 level1 lfo4'><![if !supportLists]><span
-style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-fa=
-mily:
-Symbol'><span style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "=
-Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>#add <span class=3DSpellE>shipDesign</span>=
-=3DNumber
-&#8211; this will find &#8216;number&#8217; of ships of design &#8216;<span
-class=3DSpellE>shipdesign</span>&#8217; and add them to the currently selec=
-ted
-fleet. Ships already in another fleet, damaged ships, and ships low on fuel
-will be excluded from the command.</p>
+lang=3DEN-AU style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso=
+-bidi-font-family:
+Symbol;mso-ansi-language:EN-AU'><span style=3D'mso-list:Ignore'>&middot;<sp=
+an
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;
+</span></span></span><![endif]><span lang=3DEN-AU style=3D'mso-ansi-languag=
+e:EN-AU'>#combine
+fleet1+fleet2 &#8211; this will combine the two into the first fleet and
+eliminate the second fleet.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Assign Cargo =
-Mission</b>:
-Select a freighter and press Alt-3 to order it to move resources from SOURC=
-E to
-DESTINATION. SOURCE is set by selecting the desired source and pressing Alt=
--1.
-DESTINATION is set with Alt-2. Source and destination remain set until you
-change it or reload a saved game so you can order several freighters on the
-same route quickly. Freighters will pick up all resources that the source h=
-as
-in large quantity. If multiple resources are present in the same amount then
-the freighter will split its cargo hold evenly between them.</p>
+<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-.25in;mso-list:=
+l1 level1 lfo4'><![if !supportLists]><span
+lang=3DEN-AU style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso=
+-bidi-font-family:
+Symbol;mso-ansi-language:EN-AU'><span style=3D'mso-list:Ignore'>&middot;<sp=
+an
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;
+</span></span></span><![endif]><span lang=3DEN-AU style=3D'mso-ansi-languag=
+e:EN-AU'>#disband
+<span class=3DSpellE>fleetName</span> &#8211; this will disband the named f=
+leet
+and set each ship to auto controlled.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal>If you hold down SHIFT while assigning a mission to a =
-state
-freighter the mission will repeat until you clear it with the ship finder
-(!clear).</p>
+<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-.25in;mso-list:=
+l1 level1 lfo4'><![if !supportLists]><span
+lang=3DEN-AU style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso=
+-bidi-font-family:
+Symbol;mso-ansi-language:EN-AU'><span style=3D'mso-list:Ignore'>&middot;<sp=
+an
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;
+</span></span></span><![endif]><span lang=3DEN-AU style=3D'mso-ansi-languag=
+e:EN-AU'>#join
+<span class=3DSpellE>fleetName</span> &#8211; currently selected ships (not=
+ a
+fleet) will join the named fleet.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal>If the mission target is a construction ship the freig=
-hter
-will try to fill up the constructor&#8217;s holds evenly with each type of
-strategic resource.</p>
+<p class=3DMsoListParagraphCxSpLast style=3D'text-indent:-.25in;mso-list:l1=
+ level1 lfo4'><![if !supportLists]><span
+lang=3DEN-AU style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso=
+-bidi-font-family:
+Symbol;mso-ansi-language:EN-AU'><span style=3D'mso-list:Ignore'>&middot;<sp=
+an
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;
+</span></span></span><![endif]><span lang=3DEN-AU style=3D'mso-ansi-languag=
+e:EN-AU'>#add
+<span class=3DSpellE>shipDesign</span>=3DNumber &#8211; this will find
+&#8216;number&#8217; of ships of design &#8216;<span class=3DSpellE>shipdes=
+ign</span>&#8217;
+and add them to the currently selected fleet. Ships already in another flee=
+t,
+damaged ships, and ships low on fuel will be excluded from the command.<o:p=
+></o:p></span></p>
 
-<p class=3DMsoNormal>To force a manual cargo mission to carry just the reso=
-urces
-you want you can use <span class=3DGramE>the !</span>cargos command as foll=
-ows:</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Assign Cargo Mission</span></b><span
+lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'>: Select a freighter and pre=
+ss Alt-3
+to order it to move resources from SOURCE to DESTINATION. SOURCE is set by
+selecting the desired source and pressing Alt-1. DESTINATION is set with Al=
+t-2.
+Source and destination remain set until you change it or reload a saved gam=
+e so
+you can order several freighters on the same route quickly. Freighters will
+pick up all resources that the source has in large quantity. If multiple
+resources are present in the same amount then the freighter will split its
+cargo hold evenly between them.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><i style=3D'mso-bidi-font-style:normal'>!cargos, [carg=
-o name],
-[cargo2 name], <span class=3DSpellE>etc</span><o:p></o:p></i></p>
+<p class=3DMsoNormal><span lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'>I=
+f you hold
+down SHIFT while assigning a mission to a state freighter the mission will
+repeat until you clear it with the ship finder (!clear).<o:p></o:p></span><=
+/p>
 
-<p class=3DMsoNormal>Example<span class=3DGramE>: <i style=3D'mso-bidi-font=
--style:
-normal'>!</i></span><i style=3D'mso-bidi-font-style:normal'>cargos, Caslon,=
- <span
-class=3DSpellE>Dilithium</span> Crystal</i> (Note, you must put a comma bet=
-ween
-each term including the word cargos and the first assigned cargo.)</p>
+<p class=3DMsoNormal><span lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'>I=
+f the
+mission target is a construction ship the freighter will try to fill up the
+constructor&#8217;s holds evenly with each type of strategic resource.<o:p>=
+</o:p></span></p>
 
-<p class=3DMsoNormal>To clear the list just <span class=3DGramE>enter <i
-style=3D'mso-bidi-font-style:normal'>!</i></span><i style=3D'mso-bidi-font-=
-style:
-normal'>cargos</i> with nothing after it.</p>
+<p class=3DMsoNormal><span lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'>T=
+o force a
+manual cargo mission to carry just the resources you want you can use <span
+class=3DGramE>the !cargos</span> command as follows:<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Assign Mining
-Mission:</b><span style=3D'mso-spacerun:yes'>&nbsp; </span>Select a planet =
-you
-wish to mine and press <i style=3D'mso-bidi-font-style:normal'>Alt-M</i>. T=
-he
-closest mining ship without a mission will move there to mine it. It will
-deliver the cargo to the closes space station. If you press <i
-style=3D'mso-bidi-font-style:normal'>Alt-Shift-A</i> and you have a specific
-destination set (with <i style=3D'mso-bidi-font-style:normal'>Alt-2</i>) th=
-en it
-will deliver to that destination instead. As always you can order a ship to=
- not
-unload with <span class=3DGramE>the <i style=3D'mso-bidi-font-style:normal'=
->!</i></span><span
-class=3DSpellE><i style=3D'mso-bidi-font-style:normal'>nodump</i></span> co=
-mmand.
-After giving this order the ordered ship will be selected.</p>
+<p class=3DMsoNormal><i style=3D'mso-bidi-font-style:normal'><span lang=3DE=
+N-AU
+style=3D'mso-ansi-language:EN-AU'>!cargos, [cargo name], [cargo2 name], etc=
+<o:p></o:p></span></i></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>More Ship Ima=
-ges</b>:
-Each family of ships can have up to four more images for <span class=3DGram=
-E>each</span>
-class of ship. So you can have &#8220;destroyer&#8221;, &#8220;destroyer1<s=
-pan
-class=3DGramE>&#8221;, &#8230;</span> &#8220;destroyer4&#8221;.</p>
+<p class=3DMsoNormal><span lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'>E=
+xample<span
+class=3DGramE>: <i style=3D'mso-bidi-font-style:normal'>!cargos</i></span><i
+style=3D'mso-bidi-font-style:normal'>, Caslon, <span class=3DSpellE>Dilithi=
+um</span>
+Crystal</i> (Note, you must put a comma between each term including the word
+cargos and the first assigned cargo.)<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Full Freighte=
-rs</b>:
-Freighters will always try to max out their load if their destination is a =
-base
-or planet. </p>
+<p class=3DMsoNormal><span lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'>T=
+o clear
+the list just <span class=3DGramE>enter <i style=3D'mso-bidi-font-style:nor=
+mal'>!cargos</i></span>
+with nothing after it.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Fighter Fun</=
-b>:
-Fighters/Bombers can have longer range. In addition, fighters from bases wi=
-ll
-always have 1.4 times the range of other fighters. Other fighter options
-included limited ammo, cost to build, build time, and extra damage against =
-bombers.
-See BaconSettings.txt for details.</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Assign Mining Mission:</span></b><span
+lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'><span
+style=3D'mso-spacerun:yes'>&nbsp; </span>Select a planet you wish to mine a=
+nd
+press <i style=3D'mso-bidi-font-style:normal'>Alt-M</i>. The closest mining=
+ ship
+without a mission will move there to mine it. It will deliver the cargo to =
+the
+closes space station. If you press <i style=3D'mso-bidi-font-style:normal'>=
+Alt-Shift-A</i>
+and you have a specific destination set (with <i style=3D'mso-bidi-font-sty=
+le:
+normal'>Alt-2</i>) then it will deliver to that destination instead. As alw=
+ays
+you can order a ship to not unload with <span class=3DGramE>the <i
+style=3D'mso-bidi-font-style:normal'>!<span class=3DSpellE>nodump</span></i=
+></span>
+command. After giving this order the ordered ship will be selected.<o:p></o=
+:p></span></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>More Ship Images</span></b><span lang=3DE=
+N-AU
+style=3D'mso-ansi-language:EN-AU'>: Each family of ships can have up to fou=
+r more
+images for each class of ship. <span class=3DGramE>So</span> you can have
+&#8220;destroyer&#8221;, &#8220;destroyer1&#8221;, &#8230;
+&#8220;destroyer4&#8221;.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Full Freighters</span></b><span lang=3DEN=
+-AU
+style=3D'mso-ansi-language:EN-AU'>: Freighters will always try to max out t=
+heir
+load if their destination is a base or planet. <o:p></o:p></span></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Fighter Fun</span></b><span lang=3DEN-AU
+style=3D'mso-ansi-language:EN-AU'>: Fighters/Bombers can have longer range.=
+ In
+addition, fighters from bases will always have 1.4 times the range of other
+fighters. Other fighter options included limited ammo, cost to build, build
+time, and extra damage against bombers. See BaconSettings.txt for details.<=
+o:p></o:p></span></p>
 
 <p class=3DMsoNormal><span class=3DSpellE><b style=3D'mso-bidi-font-weight:=
-normal'>HyperFun</b></span>:
-<span class=3DSpellE>Hyperjump</span> settings can be changed from the
-BaconSettings.txt file. See file comments for details.</p>
+normal'><span
+lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'>HyperFun</span></b></span><s=
+pan
+lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'>: Hyperjump settings can be =
+changed
+from the BaconSettings.txt file. See file comments for details.<o:p></o:p><=
+/span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Better Interf=
-ace</b>:
-Diplomacy screen has higher money amounts for deals larger than 10,000 cred=
-its.
-Font and background <span class=3DSpellE>colors</span> (drop shadow) change=
-d on
-some screens for better readability.<span style=3D'mso-spacerun:yes'>&nbsp;
-</span>This is set with Shadow=3Dfalse in the <span class=3DSpellE>config</=
-span>
-file.</p>
-
-<p class=3DMsoNormal>When designing a ship, selecting an existing component=
- will
-auto select the same component on the left-hand list unless the selected
-component is <span class=3DGramE>obsolete.</span> This way you can easily a=
-dd
-more of an existing component.</p>
-
-<p class=3DMsoNormal>Items on the diplomacy screen are now ordered
-alphabetically. Extra cash options above 10,000 have been added if you have=
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Better Interface</span></b><span lang=3DE=
+N-AU
+style=3D'mso-ansi-language:EN-AU'>: Diplomacy screen has higher money amoun=
+ts for
+deals larger than 10,000 credits. Font and background <span class=3DSpellE>=
+colors</span>
+(drop shadow) changed on some screens for better readability.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>This is set with Shadow=3Dfalse in=
  the
-cash available.</p>
+config file.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><span class=3DSpellE>Shiplist</span> screen and fleet =
-display
-in the info panel now have <span class=3DSpellE>color</span> indicators to
-differentiate damage types. Yellow ships have only <span class=3DSpellE>arm=
-or</span>
-damaged. Aqua ships have lost their <span class=3DSpellE>hyperdrive</span>.=
-</p>
+<p class=3DMsoNormal><span lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'>W=
+hen
+designing a ship, selecting an existing component will auto select the same
+component on the left-hand list unless the selected component is obsolete. =
+This
+way you can easily add more of an existing component.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Order multipl=
-e troops</b>:
-With the desired planet select on the colonies screen, bring up the ship fi=
-nder
-and type &#8220;<span class=3DGramE>!troops</span> X&#8221; to order up X n=
-umber
-of troops. This will save a lot of clicking if you build a lot of troops.</=
-p>
+<p class=3DMsoNormal><span lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'>I=
+tems on
+the diplomacy screen are now ordered alphabetically. Extra cash options abo=
+ve
+10,000 have been added if you have the cash available.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Ship Cycler</=
-b>: <span
-class=3DGramE>Alt ;</span> and Alt &#8217; to cycle backward/forward throug=
-h all
-of your ships with the same <span class=3DSpellE>subrole</span> as the curr=
-ently
-selected ship. If you have your view locked (&#8216;L&#8217; key) the view =
-will
-change with each selection. (If Alt doesn&#8217;t work try Ctrl.)</p>
+<p class=3DMsoNormal><span class=3DSpellE><span lang=3DEN-AU style=3D'mso-a=
+nsi-language:
+EN-AU'>Shiplist</span></span><span lang=3DEN-AU style=3D'mso-ansi-language:=
+EN-AU'>
+screen and fleet display in the info panel now have <span class=3DSpellE>co=
+lor</span>
+indicators to differentiate damage types. Yellow ships have only <span
+class=3DSpellE>armor</span> damaged. Aqua ships have lost their hyperdrive.=
+<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Cargo Mission=
- Viewer</b>:
-With a freighter with a cargo mission selected, press <span class=3DSpellE>=
-<i
-style=3D'mso-bidi-font-style:normal'>ctrl+enter</i></span> to see its missi=
-on
-cargo order and its current cargo.</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Order multiple troops</span></b><span
+lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'>: With the desired planet se=
+lect on
+the colonies screen, bring up the ship finder and type <span class=3DGramE>=
+&#8220;!troops</span>
+X&#8221; to order up X number of troops. This will save a lot of clicking if
+you build a lot of troops.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Damage Viewer=
-</b>:
-View a list of damaged components with control-R.</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Ship Cycler</span></b><span lang=3DEN-AU
+style=3D'mso-ansi-language:EN-AU'>: <span class=3DGramE>Alt ;</span> and <s=
+pan
+class=3DGramE>Alt &#8217;</span> to cycle backward/forward through all of y=
+our
+ships with the same <span class=3DSpellE>subrole</span> as the currently se=
+lected
+ship. If you have your view locked (&#8216;L&#8217; key) the view will chan=
+ge
+with each selection. (If Alt doesn&#8217;t work try Ctrl.)<o:p></o:p></span=
+></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Science Ships=
-</b>:
-Automated exploration ships with labs will pursue research projects
-independently. Each science ship will pick one research project for each ty=
-pe
-of lab it has (Energy, high-tech, weapons). Each month it will contribute
-research points toward that project until it if learned. The amount if set =
-in
-the settings file. After the first month you can use the new Alt + Ctrl + r=
-ight
-click menu to set the specific research project for the science ship.</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Cargo Mission Viewer</span></b><span
+lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'>: With a freighter with a ca=
+rgo
+mission selected, press <span class=3DSpellE><i style=3D'mso-bidi-font-styl=
+e:normal'>ctrl+enter</i></span>
+to see its mission cargo order and its current cargo.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Bomber Bays</=
-b>:
-Fighter bays and bomber bays can now be separate, allowing you to choose how
-many of each type your carriers carry. This requires the <span class=3DSpel=
-lE>BaconWorld</span>
-components.txt, research.txt and fighters.txt files. AI ships will keep the
-50/50 split between fighters and bombers. The settings file allows you to
-specific a specific string that the game will look for in each fighter bay
-component to determine if that bay will produce fighters, bombers or an even
-split.</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Damage Viewer</span></b><span lang=3DEN-AU
+style=3D'mso-ansi-language:EN-AU'>: View a list of damaged components with
+control-R.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Stars and Gal=
-axy Size</b>:
-Number of stars is no longer limited by galaxy size. Previously a 4x4 galaxy
-had a limit of 400 stars. The star limit increased by one notch on the slid=
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Science Ships</span></b><span lang=3DEN-AU
+style=3D'mso-ansi-language:EN-AU'>: Automated exploration ships with labs w=
+ill
+pursue research projects independently. Each science ship will pick one
+research project for each type of lab it has (Energy, high-tech, weapons). =
+Each
+month it will contribute research points toward that project until it if
+learned. The amount if set in the settings file. After the first month you =
+can
+use the new Alt + Ctrl + right click menu to set the specific research proj=
+ect
+for the science ship.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Bomber Bays</span></b><span lang=3DEN-AU
+style=3D'mso-ansi-language:EN-AU'>: Fighter bays and bomber bays can now be
+separate, allowing you to choose how many of each type your carriers carry.
+This requires the <span class=3DSpellE>BaconWorld</span> components.txt,
+research.txt and fighters.txt files. AI ships will keep the 50/50 split bet=
+ween
+fighters and bombers. The settings file allows you to specific a specific
+string that the game will look for in each fighter bay component to determi=
+ne
+if that bay will produce fighters, bombers or an even split.<o:p></o:p></sp=
+an></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Stars and Galaxy Size</span></b><span
+lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'>: Number of stars is no long=
 er
-for each increase in the galaxy size. This limit has been removed. Also, a =
-new
-size &#8220;Bacon Big&#8221; has been added with 2000 stars.</p>
+limited by galaxy size. Previously a 4x4 galaxy had a limit of 400 stars. T=
+he
+star limit increased by one notch on the slider for each increase in the ga=
+laxy
+size. This limit has been removed. Also, a new size &#8220;Bacon Big&#8221;=
+ has
+been added with 2000 stars.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal>Additionally, the lowest star setting value can be
-overwritten with the <span class=3DSpellE>lowStarCount</span> value in the
-settings file. Note that in order for this value to be used on a new game y=
-ou
-have to start or load a game to get the settings to initialize and then go =
-to
-the main screen and start your actual game.</p>
+<p class=3DMsoNormal><span lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'>A=
+dditionally,
+the lowest star setting value can be overwritten with the <span class=3DSpe=
+llE>lowStarCount</span>
+value in the settings file. Note that in order for this value to be used on=
+ a
+new game you have to start or load a game to get the settings to initialize=
+ and
+then go to the main screen and start your actual game.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Custom Start =
-Screen</b>:
-If your mod contains a file called &#8220;customBackgroundImage.jpg&#8221; =
-in
-the \Customization\[mod name]\images folder, it will use that one instead of
-the regular DWU start screen. Please note that the game title &#8220;Distant
-Worlds Universe&#8221; is actually on the start screen so if you replace it
-with a custom start screen you should probably include &#8220;Distant Worlds
-Universe&#8221; somewhere on the new screen for legal reasons.</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Custom Start Screen</span></b><span lang=
+=3DEN-AU
+style=3D'mso-ansi-language:EN-AU'>: If your mod contains a file called
+&#8220;customBackgroundImage.jpg&#8221; in the \Customization\[mod name]\im=
+ages
+folder, it will use that one instead of the regular DWU start screen. Please
+note that the game title &#8220;Distant Worlds Universe&#8221; is actually =
+on
+the start screen so if you replace it with a custom start screen you should
+probably include &#8220;Distant Worlds Universe&#8221; somewhere on the new
+screen for legal reasons.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Integration w=
-ith
-Bacon Stats Viewer</b>: The game will dump two xml files
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Integration with Bacon Stats Viewer</span=
+></b><span
+lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'>: The game will dump two xml=
+ files
 &#8220;SaveStatsEmpires.xml&#8221; and &#8220;SaveStatsPirates.xml&#8221; t=
 hat
 will track game stats such as income, military strength, population, etc. T=
@@ -1878,116 +2019,135 @@ se
 two files have to be deleted when starting a new game or else you will still
 have the old game stats and it will look ugly. The interval for dumping dat=
 a is
-configurable in the settings file. Default is 90 days.</p>
+configurable in the settings file. Default is 90 days.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Asteroid Colo=
-nies</b>:
-Colony ships can now create asteroid colonies. The procedure is slightly
-different from a regular colonize mission. Order your colony ship to the
-asteroid and then use the new <span class=3DSpellE>alt+ctrl</span>+ right c=
-lick
-menu and select the colonize option. This will create a 30,000 person colon=
-y on
-the asteroid and deduct the amount of credits configured in the settings fi=
-le.</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Asteroid Colonies</span></b><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>: Colony ships can now create asteroid
+colonies. The procedure is slightly different from a regular colonize missi=
+on.
+Order your colony ship to the asteroid and then use the new <span class=3DS=
+pellE>alt+ctrl</span>+
+right click menu and select the colonize option. This will create a 30,000
+person colony on the asteroid and deduct the amount of credits configured in
+the settings file.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Terraforming<=
-/b>: The
-terraforming facility (#9 in Facilities.txt) now has its second and third
-values used to raise a planet&#8217;s habitability rating. Previously they =
-were
-zero. The second value is the rate of terraforming and the third value is t=
-he
-limit to which habitability can be raised. Default values are 500 and 80.</=
-p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Terraforming</span></b><span lang=3DEN-AU
+style=3D'mso-ansi-language:EN-AU'>: The terraforming facility (#9 in
+Facilities.txt) now has its second and third values used to raise a
+planet&#8217;s habitability rating. Previously they were zero. The second v=
+alue
+is the rate of terraforming and the third value is the limit to which habit=
+ability
+can be raised. Default values are 500 and 80.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Hold Position=
-</b>:
-Using the new Alt + Ctrl + Right Click menu a ship can be told to hold posi=
-tion
-and will ignore all orders (from player or AI) to do anything else until you
-cancel the hold order. This is useful to prevent ships from flying off and
-attacking other threats in system, for example.</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Hold Position</span></b><span lang=3DEN-AU
+style=3D'mso-ansi-language:EN-AU'>: Using the new Alt + Ctrl + Right Click =
+menu a
+ship can be told to hold position and will ignore all orders (from player or
+AI) to do anything else until you cancel the hold order. This is useful to
+prevent ships from flying off and attacking other threats in system, for
+example.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Trade Everyth=
-ing</b>:
-If this option is enabled in the settings file all known bases and planets =
-will
-appear on the diplomacy trade screen. This has been made optional because s=
-ome
-people have reported the game taking up to 15 minutes to load this screen w=
-hen
-there are hundreds of bases in the late game.<span
-style=3D'mso-spacerun:yes'>&nbsp; </span>Also, bases attached to a colony w=
-ill
-not be tradable even if this option is enabled. It causes too many weird
-situations since those bases share their cargo with the colony. Regardless =
-of
-the setting CTRL-T will add the currently selected base (or ship) to the tr=
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Trade Everything</span></b><span lang=3DE=
+N-AU
+style=3D'mso-ansi-language:EN-AU'>: If this option is enabled in the settin=
+gs
+file all known bases and planets will appear on the diplomacy trade screen.
+This has been made optional because some people have reported the game taki=
+ng
+up to 15 minutes to load this screen when there are hundreds of bases in the
+late game.<span style=3D'mso-spacerun:yes'>&nbsp; </span>Also, bases attach=
+ed to
+a colony will not be tradable even if this option is enabled. It causes too
+many weird situations since those bases share their cargo with the colony. =
+Regardless
+of the setting CTRL-T will add the currently selected base (or ship) to the
+trade screen the next time it is opened. It is cleared after closing the tr=
 ade
-screen the next time it is opened. It is cleared after closing the trade
-screen.</p>
+screen.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>!note</b>: Th=
-is will
-add a reminder note to the currently selected ship. When the ship completes=
- its
-mission it will <span class=3DSpellE>popup</span> the message and allow you=
- to
-select the ship if desired. Leave a space <span class=3DGramE>between !</sp=
-an>note
-and your message. To clear a message just <span class=3DGramE>type !</span>=
-note
-with no message.</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>!note</span></b><span lang=3DEN-AU
+style=3D'mso-ansi-language:EN-AU'>: This will add a reminder note to the
+currently selected ship. When the ship completes its mission it will <span
+class=3DSpellE>popup</span> the message and allow you to select the ship if
+desired. Leave a space <span class=3DGramE>between !note</span> and your me=
+ssage.
+To clear a message just <span class=3DGramE>type !note</span> with no messa=
+ge.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>War Weariness=
-</b>: In
-default Distant Worlds all war weariness is reset to zero when your last war
-ends. Instead, it will drop slowly over time.</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>War Weariness</span></b><span lang=3DEN-AU
+style=3D'mso-ansi-language:EN-AU'>: In default Distant Worlds all war weari=
+ness
+is reset to zero when your last war ends. Instead, it will drop slowly over
+time.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Weapon Range =
-Circles</b><span
-class=3DGramE>:<span style=3D'mso-spacerun:yes'>&nbsp; </span>!</span><span
-class=3DSpellE>rangecircles</span> toggles this on and off. With it on, the
-current selected ship will have circles around it showing the range of its
-weapons.<span style=3D'mso-spacerun:yes'>&nbsp; </span>Since enemy weapon r=
-ange
-is displayed in vanilla DW, the range circles work for enemy ships as well.=
-</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Weapon Range Circles</span></b><span
+lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'>:<span class=3DGramE><span
+style=3D'mso-spacerun:yes'>&nbsp; </span>!<span class=3DSpellE>rangecircles=
+</span></span>
+toggles this on and off. With it on, the current selected ship will have
+circles around it showing the range of its weapons.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>Since enemy weapon range is displa=
+yed in
+vanilla DW, the range circles work for enemy ships as well.<o:p></o:p></spa=
+n></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Reload Ship T=
-emplates</b>
-&#8211; Normally ship templates for AI empires are only loaded on game start
-(or when a new empire is created). Now you can make changes to the templates
-and have the game reload them to take effect in your current game. The comm=
-and
-for this <span class=3DGramE>is <i style=3D'mso-bidi-font-style:normal'>!</=
-i></span><span
-class=3DSpellE><i style=3D'mso-bidi-font-style:normal'>loadtemplates</i></s=
-pan>. </p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Reload Ship Templates</span></b><span
+lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'> &#8211; Normally ship templ=
+ates for
+AI empires are only loaded on game start (or when a new empire is created).=
+ Now
+you can make changes to the templates and have the game reload them to take
+effect in your current game. The command for this <span class=3DGramE>is <i
+style=3D'mso-bidi-font-style:normal'>!<span class=3DSpellE>loadtemplates</s=
+pan></i></span>.
+<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><i style=3D'mso-bidi-font-style:normal'>!<span class=
-=3DSpellE>loadtemplates</span>
-<span class=3DGramE>true<span style=3D'font-style:normal'><span
-style=3D'mso-spacerun:yes'>&nbsp; </span>will</span></span></i> include the
-player&#8217;s empire. Otherwise it will only apply to AI empires. To use t=
-his
-command, go to the <span class=3DSpellE>shiplist</span> screen and select t=
-he
-classes of ships for which you want the Ai to regenerate designs. Then use
-ctrl-e and enter the command. Note that it will not obsolete your old desig=
-ns
-so you might want to do that first manually. <span class=3DSpellE>Alao</spa=
-n>, it
-will pick new names for your new designs so you may want to rename them
-afterward.</p>
+<p class=3DMsoNormal><span class=3DGramE><i style=3D'mso-bidi-font-style:no=
+rmal'><span
+lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'>!<span class=3DSpellE>loadte=
+mplates</span></span></i></span><i
+style=3D'mso-bidi-font-style:normal'><span lang=3DEN-AU style=3D'mso-ansi-l=
+anguage:
+EN-AU'> <span class=3DGramE>true<span style=3D'font-style:normal'><span
+style=3D'mso-spacerun:yes'>&nbsp; </span>will</span></span></span></i><span
+lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'> include the player&#8217;s =
+empire.
+Otherwise it will only apply to AI empires. To use this command, go to the =
+<span
+class=3DSpellE>shiplist</span> screen and select the classes of ships for w=
+hich
+you want the Ai to regenerate designs. Then use ctrl-e and enter the comman=
+d.
+Note that it will not obsolete your old designs so you might want to do that
+first manually. Alao, it will pick new names for your new designs so you may
+want to rename them afterward.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>No Independen=
-ts</b> <span
-class=3DGramE>-<span style=3D'mso-spacerun:yes'>&nbsp; </span>A</span> new =
-setting
-in the Baconsettings.txt file allows you to override the <span class=3DSpel=
-lE>loswest</span>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>No Independents</span></b><span lang=3DEN=
+-AU
+style=3D'mso-ansi-language:EN-AU'> <span class=3DGramE>-<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>A</span> new setting in the
+Baconsettings.txt file allows you to override the <span class=3DSpellE>losw=
+est</span>
 setting of the &#8220;independent life slider bar&#8221; on galaxy creation.
 The lowest setting corresponds to a value of 150. You can lower it as low a=
 s 1
@@ -2003,306 +2163,367 @@ should be considered experimental. Like the &#8220;low stars&#8221; setting=
 is not initialized until after a game starts so if you want to see the affe=
 cts
 you must either start or load a game and THEN go back to the main menu and
-start your actual game.</p>
+start your actual game.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Improved mini=
-ng cap
-with tech increase</b> &#8211; Value 2 (which is zero in vanilla DW) is now
-used to override the mining rate cap. In <span class=3DSpellE>unmodded</spa=
-n> DW
-the mining rate cap is 10 for mining and luxury mining and 40 for gas minin=
-g.
-You can now change that with tech advanced. See the entries in research.txt=
- for
-suggested values. If you leave it as zeros then the default values will be =
-used
-(10, 10, <span class=3DGramE>40</span>).</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Improved mining cap with tech increase</s=
+pan></b><span
+lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'> &#8211; Value 2 (which is z=
+ero in
+vanilla DW) is now used to override the mining rate cap. In <span class=3DS=
+pellE>unmodded</span>
+DW the mining rate cap is 10 for mining and luxury mining and 40 for gas
+mining. You can now change that with tech advanced. See the entries in
+research.txt for suggested values. If you leave it as zeros then the default
+values will be used (10, 10, 40).<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Loans</b> <sp=
-an
-class=3DGramE>-<span style=3D'mso-spacerun:yes'>&nbsp; </span>You</span> ca=
-n now
-get a loan when you need more cash. !loan [amount] will let you see how the
-terms of the loan and, if you agree, you will take out the loan. <span
-class=3DGramE>Entering !</span>loan without an amount will show you any
-outstanding loans you currently have.</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Loans</span></b><span lang=3DEN-AU
+style=3D'mso-ansi-language:EN-AU'> <span class=3DGramE>-<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>You</span> can now get a loan when=
+ you
+need more cash. !loan [amount] will let you see how the terms of the loan a=
+nd,
+if you agree, you will take out the loan. <span class=3DGramE>Entering !loa=
+n</span>
+without an amount will show you any outstanding loans you currently have.<o=
+:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Ransoming Cap=
-tured
-Spies</b> &#8211; There is now a chance that a captured spy will be put in
-prison instead of killed. This is controlled in the <span class=3DSpellE>Ba=
-conSettigns</span>
-with a value between 0.0 and 1.0 where 1.0 means a captured spy will always=
- be
-taken alive and put in prison. Open the prisoner screen with Ctrl-P to view
-your prisoners as well as your spies being held on other planets that are
-available to ransom back. When a spy is captured you won&#8217;t know right
-away if the AI will allow them to be ransomed back. They will make that
-decision at some point in the future (usually 45-180 days). Spies may also
-defect or escape. The chance of this is configurable in the settings file.<=
-/p>
-
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Remove Backgr=
-ound
-Stars</b>: When zoomed out the background stars are displayed using an
-image&#8221; images\environment\<span class=3DSpellE>galaxybackdrops</span>=
-\galaxy_backdrop.jpg&#8221;.
-Replacing this with a solid black image will remove the stars. When zoomed =
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Ransoming Captured Spies</span></b><span
+lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'> &#8211; There is now a chan=
+ce that
+a captured spy will be put in prison instead of killed. This is controlled =
 in
-the stars are drawn programmatically. You can now set the level of zoom whe=
-re
-the stars will be drawn. Set <span class=3DSpellE>backgroundStarsAtZoomLeve=
-l</span>=3D0
-in the BaconSettings.txt to remove background stars. <span class=3DSpellE><=
-span
-class=3DGramE>backgroundStarsAtZoomLevel</span></span><span class=3DGramE>=
-=3D</span>300
-is the default level.</p>
+the <span class=3DSpellE>BaconSettigns</span> with a value between 0.0 and =
+1.0
+where 1.0 means a captured spy will always be taken alive and put in prison.
+Open the prisoner screen with Ctrl-P to view your prisoners as well as your
+spies being held on other planets that are available to ransom back. When a=
+ spy
+is captured you won&#8217;t know right away if the AI will allow them to be
+ransomed back. They will make that decision at some point in the future
+(usually 45-180 days). Spies may also defect or escape. The chance of this =
+is
+configurable in the settings file.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>New <span
-class=3DSpellE>Shiplist</span> options</b>: The <span class=3DSpellE>shipli=
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Remove Background Stars</span></b><span
+lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'>: When zoomed out the backgr=
+ound
+stars are displayed using an image&#8221; images\environment\<span
+class=3DSpellE>galaxybackdrops</span>\galaxy_backdrop.jpg&#8221;. Replacing=
+ this
+with a solid black image will remove the stars. When zoomed in the stars are
+drawn programmatically. You can now set the level of zoom where the stars w=
+ill
+be drawn. Set <span class=3DSpellE>backgroundStarsAtZoomLevel</span>=3D0 in=
+ the
+BaconSettings.txt to remove background stars. <span class=3DSpellE>backgrou=
+ndStarsAtZoomLevel</span>=3D300
+is the default level.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>New <span class=3DSpellE>Shiplist</span> =
+options</span></b><span
+lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'>: The <span class=3DSpellE>s=
+hiplist</span>
+screen has extra selection options: damaged ships, low fuel ships, etc. <o:=
+p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'>In
+addition, if you have a ship or planet selected the <span class=3DSpellE>sh=
+iplist</span>
+will have a default sort order based on distance from the selected object. =
+If
+you have selected a column header and sorted your <span class=3DSpellE>ship=
+list</span>
+then the game will continue to use the sort order you selected. To unsort a=
+ <span
+class=3DSpellE>shiplist</span> click the column with the empire flag. If no
+object is selected the game will use the normal <span class=3DSpellE>shipli=
 st</span>
-screen has extra selection options: damaged ships, low fuel ships, etc. </p>
+<span class=3DSpellE>behavior</span>.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal>In addition, if you have a ship or planet selected the=
- <span
-class=3DSpellE>shiplist</span> will have a default sort order based on dist=
-ance
-from the selected object. If you have selected a column header and sorted y=
-our <span
-class=3DSpellE>shiplist</span> then the game will continue to use the sort =
-order
-you selected. To unsort a <span class=3DSpellE>shiplist</span> click the co=
-lumn
-with the empire flag. If no object is selected the game will use the normal=
- <span
-class=3DSpellE>shiplist</span> <span class=3DSpellE>behavior</span>.</p>
-
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Free Traders<=
-/b>:
-Using the <span class=3DGramE>command <i style=3D'mso-bidi-font-style:norma=
-l'>!</i></span><span
-class=3DSpellE><i style=3D'mso-bidi-font-style:normal'>freetrader</i></span=
-><i
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Free Traders</span></b><span lang=3DEN-AU
+style=3D'mso-ansi-language:EN-AU'>: Using the <span class=3DGramE>command <i
+style=3D'mso-bidi-font-style:normal'>!<span class=3DSpellE>freetrader</span=
+></i></span><i
 style=3D'mso-bidi-font-style:normal'> X</i> turns a state-run freighter int=
 o an
 independent trader with X initial cash (taken as a loan from your state fun=
 ds).
 To pay off your loan, once you&#8217;ve earned some cash, <span class=3DGra=
 mE>use
-!</span><span class=3DSpellE>freetrader</span> with a negative value for X.=
+!<span class=3DSpellE>freetrader</span></span> with a negative value for X.=
  To
 retire and return your freighter to general service, <span class=3DGramE>us=
 e <i
-style=3D'mso-bidi-font-style:normal'>!</i></span><span class=3DSpellE><i
-style=3D'mso-bidi-font-style:normal'>freetrader</i></span><i style=3D'mso-b=
-idi-font-style:
-normal'> 0</i>. To trade with a planet or base use the <span class=3DSpellE=
-><i
-style=3D'mso-bidi-font-style:normal'>alt+Ctrl+right</i></span><i
+style=3D'mso-bidi-font-style:normal'>!<span class=3DSpellE>freetrader</span=
+></i></span><i
+style=3D'mso-bidi-font-style:normal'> 0</i>. To trade with a planet or base=
+ use
+the <span class=3DSpellE><i style=3D'mso-bidi-font-style:normal'>alt+Ctrl+r=
+ight</i></span><i
 style=3D'mso-bidi-font-style:normal'> click</i> menu when you are within ra=
 nge
-300. </p>
+300. <o:p></o:p></span></p>
 
-<p class=3DMsoNormal>Some items on the trade panel are <span class=3DSpellE=
->color</span>
-coded. Gold and silver are commodities which are higher priced than usual. =
-Try
-to sell these. Light green and red are commodities below market value. Try =
-to
-buy these. <span class=3DGramE>Use <i style=3D'mso-bidi-font-style:normal'>=
-!</i></span><i
-style=3D'mso-bidi-font-style:normal'>price</i> to help you find a good plac=
-e to
-buy or sell. </p>
+<p class=3DMsoNormal><span lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'>S=
+ome items
+on the trade panel are <span class=3DSpellE>color</span> coded. Gold and si=
+lver
+are commodities which are higher priced than usual. Try to sell these. Light
+green and red are commodities below market value. Try to buy these. <span
+class=3DGramE>Use <i style=3D'mso-bidi-font-style:normal'>!price</i></span>=
+ to help
+you find a good place to buy or sell. <o:p></o:p></span></p>
 
-<p class=3DMsoNormal>Free traders pay for their own maintenance, not the st=
-ate
-unless they are automated and then the state pays the maintenance. </p>
+<p class=3DMsoNormal><span lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'>F=
+ree
+traders pay for their own maintenance, not the state unless they are automa=
+ted
+and then the state pays the maintenance. <o:p></o:p></span></p>
 
-<p class=3DMsoNormal>Free traders can also collect resources and even ship
-components from ships they defeat in battle. These ship components can be i=
-nstalled
-at any independent planet or asteroid colony using the alt ctrl right click
-menu. </p>
+<p class=3DMsoNormal><span lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'>F=
+ree
+traders can also collect resources and even ship components from ships they
+defeat in battle. These ship components can be installed at any independent
+planet or asteroid colony using the alt ctrl right click menu. <o:p></o:p><=
+/span></p>
 
-<p class=3DMsoNormal>Free traders can <span class=3DSpellE>aslo</span> recr=
-uit
-officers with the alt ctrl right click menu. The cost is set in the
-BaconSettings.txt file. </p>
+<p class=3DMsoNormal><span lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'>F=
+ree
+traders can <span class=3DSpellE>aslo</span> recruit officers with the alt =
+ctrl
+right click menu. The cost is set in the BaconSettings.txt file. <o:p></o:p=
+></span></p>
 
-<p class=3DMsoNormal>Note: the free trader price system takes about a year =
-to
-fully seed in a new game so it is advised to wait a year before making a fr=
-ee
-trader.</p>
+<p class=3DMsoNormal><span lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'>N=
+ote: the
+free trader price system takes about a year to fully seed in a new game so =
+it
+is advised to wait a year before making a free trader.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Subjugation T=
-ribute</b>:
-The percent of income that subjugated empires pay as tribute has been made
-modifiable. It is controlled by the setting <span class=3DSpellE>Subjugatio=
-nTributePercentage</span>
-in the BaconSettings.txt file.</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Subjugation Tribute</span></b><span lang=
+=3DEN-AU
+style=3D'mso-ansi-language:EN-AU'>: The percent of income that subjugated e=
+mpires
+pay as tribute has been made modifiable. It is controlled by the setting <s=
+pan
+class=3DSpellE>SubjugationTributePercentage</span> in the BaconSettings.txt=
+ file.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Longer range =
-weapons
-on bases</b>: You can now configure bases to have a weapon range longer than
-ships. The setting that controls this is in the BaconSettings.txt <span
-class=3DSpellE>weaponRangeMultiplierForBases</span>. It is a multiple so 2 =
-equals
-200% normal range. Make bases great again.</p>
-
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Infrastructur=
-e:</b>
-You can now add infrastructure improvements to a colony with <span class=3D=
-GramE>the
-<i style=3D'mso-bidi-font-style:normal'>!</i></span><i style=3D'mso-bidi-fo=
-nt-style:
-normal'>infrastructure</i> command. This will raise the development level of
-the colony. Settings are configurable in the BaconSettings.txt file. You can
-check how much of an effect you are receiving by selecting the planet and
-pressing <span class=3DSpellE>Ctrtl</span>-Enter.</p>
-
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Zoom with mou=
-se wheel
-when other menus are open:</b> You can now use the mouse wheel to zoom even
-when other menus are open. If the menu is focused on a control, such as a <=
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Longer range weapons on bases</span></b><=
 span
-class=3DSpellE>listbox</span>, that scrolls when using the mouse wheel, you=
- will
-have to select something else before zooming. Hold down right mouse button =
-to
-drag the map.</p>
+lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'>: You can now configure base=
+s to
+have a weapon range longer than ships. The setting that controls this is in=
+ the
+BaconSettings.txt <span class=3DSpellE>weaponRangeMultiplierForBases</span>=
+. It
+is a multiple so 2 equals 200% normal range. Make bases great again.<o:p></=
+o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Ship ETA to W=
-aypoint:</b>
-Ships now show the estimated time until arrival at their next waypoint in
-seconds. This is only for individual ships, not ships in fleets.</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Infrastructure:</span></b><span lang=3DEN=
+-AU
+style=3D'mso-ansi-language:EN-AU'> You can now add infrastructure improveme=
+nts to
+a colony with <span class=3DGramE>the <i style=3D'mso-bidi-font-style:norma=
+l'>!infrastructure</i></span>
+command. This will raise the development level of the colony. Settings are
+configurable in the BaconSettings.txt file. You can check how much of an ef=
+fect
+you are receiving by selecting the planet and pressing <span class=3DSpellE=
+>Ctrtl</span>-Enter.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Pirate commis=
-sion
-ships at Independent colonies:</b> Pirates can now commission construction
-ships to be built at independent colonies they control. Select the planet a=
-nd use
-the alt-Ctrl-right click menu.</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Zoom with mouse wheel when other menus are
+open:</span></b><span lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'> You c=
+an now
+use the mouse wheel to zoom even when other menus are open. If the menu is
+focused on a control, such as a <span class=3DSpellE>listbox</span>, that s=
+crolls
+when using the mouse wheel, you will have to select something else before
+zooming. Hold down right mouse button to drag the map.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Repair and re=
-fit only
-bases: </b>Bases whose name begins with -- will only repair and refit ships=
- but
-not initiate new construction. This can help you manage where new ships wil=
-l be
-built and avoid long delays caused from building at bases low on resources.=
-</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Ship ETA to Waypoint:</span></b><span
+lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'> Ships now show the estimate=
+d time
+until arrival at their next waypoint in seconds. This is only for individual
+ships, not ships in fleets.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Ship targeting
-restrictions:</b> A ship (or fleet) can be given a targeting restriction to
-avoid targeting certain types of targets. The command <span class=3DGramE>i=
-s <i
-style=3D'mso-bidi-font-style:normal'>!</i></span><span class=3DSpellE><i
-style=3D'mso-bidi-font-style:normal'>notarget</i></span><i style=3D'mso-bid=
-i-font-style:
-normal'> [type]</i> where type can be any of:</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Pirate commission ships at Independent
+colonies:</span></b><span lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'> P=
+irates
+can now commission construction ships to be built at independent colonies t=
+hey
+control. Select the planet and use the alt-Ctrl-right click menu.<o:p></o:p=
+></span></p>
 
-<p class=3DMsoListParagraphCxSpFirst style=3D'text-indent:-18.0pt;mso-list:=
-l0 level1 lfo6'><![if !supportLists]><span
-style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-fa=
-mily:
-Symbol'><span style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "=
-Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>Bases</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Repair and refit only bases: </span></b><=
+span
+lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'>Bases whose name begins with=
+ -- will
+only repair and refit ships but not initiate new construction. This can help
+you manage where new ships will be built and avoid long delays caused from
+building at bases low on resources.<o:p></o:p></span></p>
 
-<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-18.0pt;mso-list=
-:l0 level1 lfo6'><![if !supportLists]><span
-style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-fa=
-mily:
-Symbol'><span style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "=
-Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>Military</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Ship targeting restrictions:</span></b><s=
+pan
+lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'> A ship (or fleet) can be gi=
+ven a
+targeting restriction to avoid targeting certain types of targets. The comm=
+and <span
+class=3DGramE>is <i style=3D'mso-bidi-font-style:normal'>!<span class=3DSpe=
+llE>notarget</span></i></span><i
+style=3D'mso-bidi-font-style:normal'> [type]</i> where type can be any of:<=
+o:p></o:p></span></p>
 
-<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-18.0pt;mso-list=
-:l0 level1 lfo6'><![if !supportLists]><span
-style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-fa=
-mily:
-Symbol'><span style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "=
-Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>Stronger</p>
-
-<p class=3DMsoListParagraphCxSpLast style=3D'text-indent:-18.0pt;mso-list:l=
+<p class=3DMsoListParagraphCxSpFirst style=3D'text-indent:-.25in;mso-list:l=
 0 level1 lfo6'><![if !supportLists]><span
-style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-fa=
-mily:
-Symbol'><span style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "=
-Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>Faster</p>
+lang=3DEN-AU style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso=
+-bidi-font-family:
+Symbol;mso-ansi-language:EN-AU'><span style=3D'mso-list:Ignore'>&middot;<sp=
+an
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;
+</span></span></span><![endif]><span lang=3DEN-AU style=3D'mso-ansi-languag=
+e:EN-AU'>Bases<o:p></o:p></span></p>
 
-<p class=3DMsoNormal>Enter with no parameter to clear the setting. While the
-setting can be given to a fleet that just passes the setting to each ship in
-the fleet. There is no setting for the fleet so if you add ships to the fle=
-et
-later you should reissue the setting. You can check a ship&#8217;s setting =
-with
-<i style=3D'mso-bidi-font-style:normal'>Ctrl-Enter</i>.</p>
+<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-.25in;mso-list:=
+l0 level1 lfo6'><![if !supportLists]><span
+lang=3DEN-AU style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso=
+-bidi-font-family:
+Symbol;mso-ansi-language:EN-AU'><span style=3D'mso-list:Ignore'>&middot;<sp=
+an
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;
+</span></span></span><![endif]><span lang=3DEN-AU style=3D'mso-ansi-languag=
+e:EN-AU'>Military<o:p></o:p></span></p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-.25in;mso-list:=
+l0 level1 lfo6'><![if !supportLists]><span
+lang=3DEN-AU style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso=
+-bidi-font-family:
+Symbol;mso-ansi-language:EN-AU'><span style=3D'mso-list:Ignore'>&middot;<sp=
+an
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;
+</span></span></span><![endif]><span lang=3DEN-AU style=3D'mso-ansi-languag=
+e:EN-AU'>Stronger<o:p></o:p></span></p>
+
+<p class=3DMsoListParagraphCxSpLast style=3D'text-indent:-.25in;mso-list:l0=
+ level1 lfo6'><![if !supportLists]><span
+lang=3DEN-AU style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso=
+-bidi-font-family:
+Symbol;mso-ansi-language:EN-AU'><span style=3D'mso-list:Ignore'>&middot;<sp=
+an
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;
+</span></span></span><![endif]><span lang=3DEN-AU style=3D'mso-ansi-languag=
+e:EN-AU'>Faster<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'>E=
+nter with
+no parameter to clear the setting. While the setting can be given to a fleet
+that just passes the setting to each ship in the fleet. There is no setting=
+ for
+the fleet so if you add ships to the fleet later you should reissue the
+setting. You can check a ship&#8217;s setting with <i style=3D'mso-bidi-fon=
+t-style:
+normal'>Ctrl-Enter</i>.<o:p></o:p></span></p>
 
 <p class=3DMsoNormal><span class=3DSpellE><b style=3D'mso-bidi-font-weight:=
-normal'>PointDefense</b></span><b
-style=3D'mso-bidi-font-weight:normal'> and Missiles:</b> With this option s=
-et to
-true in the settings file point <span class=3DSpellE>defense</span> and beam
-weapons can intercept missiles. The point <span class=3DSpellE>defense</spa=
-n>
+normal'><span
+lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'>PointDefense</span></b></spa=
+n><b
+style=3D'mso-bidi-font-weight:normal'><span lang=3DEN-AU style=3D'mso-ansi-=
+language:
+EN-AU'> and Missiles:</span></b><span lang=3DEN-AU style=3D'mso-ansi-langua=
+ge:EN-AU'>
+With this option set to true in the settings file point <span class=3DSpell=
+E>defense</span>
+and beam weapons can intercept missiles. The point <span class=3DSpellE>def=
+ense</span>
 weapons will fire their animation but the beam weapons won&#8217;t. Instead=
  I
 added a small animation to show the missile has been shot down. The
 interception isn&#8217;t 100% and there is a myopic zone if you get too clo=
 se.
-Also there is a bug that sometimes allows missiles to <span class=3DSpellE>=
-insta</span>-hit
-their target regardless of point <span class=3DSpellE>defense</span>. It&#8=
-217;s <span
-class=3DSpellE>kinda</span> rare. </p>
+Also there is a bug that sometimes allows missiles to insta-hit their target
+regardless of point <span class=3DSpellE>defense</span>. It&#8217;s <span
+class=3DSpellE>kinda</span> rare. <o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Split off a p=
-lanet to
-from a new Empire:</b> The <span class=3DGramE>command <i style=3D'mso-bidi=
--font-style:
-normal'>!</i></span><span class=3DSpellE><i style=3D'mso-bidi-font-style:no=
-rmal'>splitoff</i></span>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Split off a planet to from a new Empire:<=
+/span></b><span
+lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'> The <span class=3DGramE>com=
+mand <i
+style=3D'mso-bidi-font-style:normal'>!<span class=3DSpellE>splitoff</span><=
+/i></span>
 can be used to give independence to a planet in your empire that you
 don&#8217;t want anymore. The newly formed empire will start with a positive
 relationship bonus due to being granted independence. Alternatively, you can
 add &#8220;false&#8221; and the newly formed empire will start as a subjuga=
 ted
-one instead. </p>
+one instead. <o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Pirate <span
-class=3DSpellE>Respawn</span> commands:</b> The <span class=3DGramE>command=
- <i
-style=3D'mso-bidi-font-style:normal'>!</i></span><span class=3DSpellE><i
-style=3D'mso-bidi-font-style:normal'>piraterespawn</i></span> will toggle t=
-he
-game setting allowing or forbidding the creation of new pirate empires duri=
-ng
-the game. You can also <span class=3DSpellE>used</span> the <span class=3DG=
-ramE>command
-<i style=3D'mso-bidi-font-style:normal'>!</i></span><span class=3DSpellE><i
-style=3D'mso-bidi-font-style:normal'>respawnpiratesnow</i></span> to genera=
-te new
-pirates immediately if the current number of pirates is below the number
-specified in the game setup.</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Pirate Respawn commands:</span></b><span
+lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'> The <span class=3DGramE>com=
+mand <i
+style=3D'mso-bidi-font-style:normal'>!<span class=3DSpellE>piraterespawn</s=
+pan></i></span>
+will toggle the game setting allowing or forbidding the creation of new pir=
+ate
+empires during the game. You can also <span class=3DSpellE>used</span> the =
+<span
+class=3DGramE>command <i style=3D'mso-bidi-font-style:normal'>!<span class=
+=3DSpellE>respawnpiratesnow</span></i></span>
+to generate new pirates immediately if the current number of pirates is bel=
+ow
+the number specified in the game setup.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Invasion Stra=
-tegy:</b>
-This is a little <span class=3DSpellE>subgame</span> you can play when inva=
-ding a
-planet to try and guess the opposing side&#8217;s strategy. If you are
-successful your troops will receive a bonus. If not, they will be penalized.
-Settings are controlled in the BaconSettings.txt file. Access with the <i
-style=3D'mso-bidi-font-style:normal'>alt-ctrl-right click </i>menu on the t=
-arget
-planet with the planet selected. If you quit after taking a turn it counts =
-as a
-loss.</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Invasion Strategy:</span></b><span lang=
+=3DEN-AU
+style=3D'mso-ansi-language:EN-AU'> This is a little subgame you can play wh=
+en
+invading a planet to try and guess the opposing side&#8217;s strategy. If y=
+ou
+are successful your troops will receive a bonus. If not, they will be
+penalized. Settings are controlled in the BaconSettings.txt file. Access wi=
+th
+the <i style=3D'mso-bidi-font-style:normal'>alt-ctrl-right click </i>menu o=
+n the
+target planet with the planet selected. If you quit after taking a turn it
+counts as a loss.<o:p></o:p></span></p>
 
 </div>
 
@@ -2310,7 +2531,7 @@ loss.</p>
 
 </html>
 
-------=_NextPart_01D6483A.555AB7C0
+------=_NextPart_01DC8E08.B6E53730
 Content-Location: file:///C:/F06BB24E/GameInfo_BaconModAnIntroduction_files/item0006.xml
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/xml
@@ -2318,8 +2539,7 @@ Content-Type: text/xml
 <b:Sources SelectedStyle=3D"\APA.XSL" StyleName=3D"APA" xmlns:b=3D"http://s=
 chemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns=3D"http:/=
 /schemas.openxmlformats.org/officeDocument/2006/bibliography"></b:Sources>
-
-------=_NextPart_01D6483A.555AB7C0
+------=_NextPart_01DC8E08.B6E53730
 Content-Location: file:///C:/F06BB24E/GameInfo_BaconModAnIntroduction_files/props007.xml
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/xml
@@ -2329,7 +2549,7 @@ Content-Type: text/xml
 s:ds=3D"http://schemas.openxmlformats.org/officeDocument/2006/customXml"><d=
 s:schemaRefs><ds:schemaRef ds:uri=3D"http://schemas.openxmlformats.org/offi=
 ceDocument/2006/bibliography"/></ds:schemaRefs></ds:datastoreItem>
-------=_NextPart_01D6483A.555AB7C0
+------=_NextPart_01DC8E08.B6E53730
 Content-Location: file:///C:/F06BB24E/GameInfo_BaconModAnIntroduction_files/themedata.thmx
 Content-Transfer-Encoding: base64
 Content-Type: application/vnd.ms-officetheme
@@ -2390,7 +2610,7 @@ aGVtZS90aGVtZTEueG1sUEsBAi0AFAAGAAgAAAAhAA3RkJ+2AAAAGwEAACcAAAAAAAAAAAAAAAAA
 oAkAAHRoZW1lL3RoZW1lL19yZWxzL3RoZW1lTWFuYWdlci54bWwucmVsc1BLBQYAAAAABQAFAF0B
 AACbCgAAAAA=
 
-------=_NextPart_01D6483A.555AB7C0
+------=_NextPart_01DC8E08.B6E53730
 Content-Location: file:///C:/F06BB24E/GameInfo_BaconModAnIntroduction_files/colorschememapping.xml
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/xml
@@ -2400,7 +2620,7 @@ Content-Type: text/xml
  bg1=3D"lt1" tx1=3D"dk1" bg2=3D"lt2" tx2=3D"dk2" accent1=3D"accent1" accent=
 2=3D"accent2" accent3=3D"accent3" accent4=3D"accent4" accent5=3D"accent5" a=
 ccent6=3D"accent6" hlink=3D"hlink" folHlink=3D"folHlink"/>
-------=_NextPart_01D6483A.555AB7C0
+------=_NextPart_01DC8E08.B6E53730
 Content-Location: file:///C:/F06BB24E/GameInfo_BaconModAnIntroduction_files/filelist.xml
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/xml; charset="utf-8"
@@ -2413,4 +2633,4 @@ Content-Type: text/xml; charset="utf-8"
  <o:File HRef=3D"colorschememapping.xml"/>
  <o:File HRef=3D"filelist.xml"/>
 </xml>
-------=_NextPart_01D6483A.555AB7C0--
+------=_NextPart_01DC8E08.B6E53730--

@@ -1,9 +1,9 @@
 MIME-Version: 1.0
-Content-Type: multipart/related; boundary="----=_NextPart_01D6483B.7B6698C0"
+Content-Type: multipart/related; boundary="----=_NextPart_01DC8E08.BABF8B30"
 
-This document is a Single File Web Page, also known as a Web Archive file.  If you are seeing this message, your browser or editor doesn't support Web Archive files.  Please download a browser that supports Web Archive, such as Windows® Internet Explorer®.
+This document is a Single File Web Page, also known as a Web Archive file.  If you are seeing this message, your browser or editor doesn't support Web Archive files.  Please download a browser that supports Web Archive.
 
-------=_NextPart_01D6483B.7B6698C0
+------=_NextPart_01DC8E08.BABF8B30
 Content-Location: file:///C:/E5772393/GameInfo_BaconModHotkeys.htm
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/html; charset="us-ascii"
@@ -24,11 +24,11 @@ xmlns=3D"http://www.w3.org/TR/REC-html40">
  <o:DocumentProperties>
   <o:Author>Elliot</o:Author>
   <o:Template>Normal</o:Template>
-  <o:LastAuthor>Darren Sprott</o:LastAuthor>
-  <o:Revision>10</o:Revision>
+  <o:LastAuthor>Joshua Salmons</o:LastAuthor>
+  <o:Revision>11</o:Revision>
   <o:TotalTime>299</o:TotalTime>
   <o:Created>2018-05-18T05:15:00Z</o:Created>
-  <o:LastSaved>2020-06-21T16:18:00Z</o:LastSaved>
+  <o:LastSaved>2026-01-25T20:41:00Z</o:LastSaved>
   <o:Pages>3</o:Pages>
   <o:Words>839</o:Words>
   <o:Characters>4788</o:Characters>
@@ -36,7 +36,7 @@ xmlns=3D"http://www.w3.org/TR/REC-html40">
   <o:Lines>39</o:Lines>
   <o:Paragraphs>11</o:Paragraphs>
   <o:CharactersWithSpaces>5616</o:CharactersWithSpaces>
-  <o:Version>15.00</o:Version>
+  <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
@@ -52,6 +52,7 @@ href=3D"GameInfo_BaconModHotkeys_files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Print</w:View>
+  <w:Zoom>130</w:Zoom>
   <w:DisplayBackgroundShape/>
   <w:SpellingState>Clean</w:SpellingState>
   <w:GrammarState>Clean</w:GrammarState>
@@ -97,7 +98,7 @@ href=3D"GameInfo_BaconModHotkeys_files/colorschememapping.xml">
   </m:mathPr></w:WordDocument>
 </xml><![endif]--><!--[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState=3D"false" DefUnhideWhenUsed=3D"false"
-  DefSemiHidden=3D"false" DefQFormat=3D"false" LatentStyleCount=3D"371">
+  DefSemiHidden=3D"false" DefQFormat=3D"false" LatentStyleCount=3D"376">
   <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Normal"/>
   <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"heading 1"/>
   <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
@@ -939,6 +940,16 @@ k Accent 6"/>
    Name=3D"List Table 6 Colorful Accent 6"/>
   <w:LsdException Locked=3D"false" Priority=3D"52"
    Name=3D"List Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Mention"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Smart Hyperlink"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Hashtag"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Unresolved Mention"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Smart Link"/>
  </w:LatentStyles>
 </xml><![endif]-->
 <style>
@@ -950,18 +961,15 @@ k Accent 6"/>
 	mso-font-alt:"\FF2D\FF33 \660E\671D";
 	mso-font-charset:128;
 	mso-generic-font-family:roman;
-	mso-font-format:other;
 	mso-font-pitch:fixed;
 	mso-font-signature:1 134676480 16 0 131072 0;}
 @font-face
-	{font-family:"MS Mincho";
-	panose-1:2 2 6 9 4 2 5 8 3 4;
-	mso-font-alt:"\FF2D\FF33 \660E\671D";
-	mso-font-charset:128;
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:0;
 	mso-generic-font-family:roman;
-	mso-font-format:other;
-	mso-font-pitch:fixed;
-	mso-font-signature:1 134676480 16 0 131072 0;}
+	mso-font-pitch:variable;
+	mso-font-signature:-536869121 1107305727 33554432 0 415 0;}
 @font-face
 	{font-family:Verdana;
 	panose-1:2 11 6 4 3 5 4 4 2 4;
@@ -978,6 +986,7 @@ k Accent 6"/>
 	mso-font-signature:-520081665 -1073717157 41 0 66047 0;}
 @font-face
 	{font-family:"\@MS Mincho";
+	panose-1:2 2 6 9 4 2 5 8 3 4;
 	mso-font-charset:128;
 	mso-generic-font-family:modern;
 	mso-font-pitch:fixed;
@@ -987,14 +996,14 @@ k Accent 6"/>
 	{mso-style-unhide:no;
 	mso-style-qformat:yes;
 	mso-style-parent:"";
-	margin-top:0cm;
-	margin-right:0cm;
+	margin-top:0in;
+	margin-right:0in;
 	margin-bottom:10.0pt;
-	margin-left:0cm;
+	margin-left:0in;
 	mso-pagination:widow-orphan;
 	font-size:10.0pt;
 	mso-bidi-font-size:12.0pt;
-	font-family:"Verdana","sans-serif";
+	font-family:"Verdana",sans-serif;
 	mso-fareast-font-family:"MS Mincho";
 	mso-bidi-font-family:"Times New Roman";
 	color:#AAAAAA;}
@@ -1003,15 +1012,15 @@ h2
 	mso-style-qformat:yes;
 	mso-style-link:"Heading 2 Char";
 	mso-style-next:Normal;
-	margin-top:18.0pt;
-	margin-right:0cm;
+	margin-top:.25in;
+	margin-right:0in;
 	margin-bottom:12.0pt;
-	margin-left:0cm;
+	margin-left:0in;
 	mso-pagination:widow-orphan lines-together;
 	page-break-after:avoid;
 	mso-outline-level:2;
 	font-size:13.0pt;
-	font-family:"Verdana","sans-serif";
+	font-family:"Verdana",sans-serif;
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:major-fareast;
 	mso-bidi-font-family:"Times New Roman";
@@ -1023,15 +1032,15 @@ h3
 	mso-style-link:"Heading 3 Char";
 	mso-style-next:Normal;
 	margin-top:16.0pt;
-	margin-right:0cm;
+	margin-right:0in;
 	margin-bottom:10.0pt;
-	margin-left:0cm;
+	margin-left:0in;
 	mso-pagination:widow-orphan lines-together;
 	page-break-after:avoid;
 	mso-outline-level:3;
 	font-size:11.0pt;
 	mso-bidi-font-size:12.0pt;
-	font-family:"Verdana","sans-serif";
+	font-family:"Verdana",sans-serif;
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:major-fareast;
 	mso-bidi-font-family:"Times New Roman";
@@ -1040,28 +1049,28 @@ h3
 p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
 	{mso-style-noshow:yes;
 	mso-style-link:"Balloon Text Char";
-	margin-top:0cm;
-	margin-right:0cm;
+	margin-top:0in;
+	margin-right:0in;
 	margin-bottom:10.0pt;
-	margin-left:0cm;
+	margin-left:0in;
 	mso-pagination:widow-orphan;
 	font-size:8.0pt;
-	font-family:"Tahoma","sans-serif";
+	font-family:"Tahoma",sans-serif;
 	mso-fareast-font-family:"MS Mincho";
 	color:#AAAAAA;}
 p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
 	{mso-style-priority:34;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
-	margin-top:0cm;
-	margin-right:0cm;
+	margin-top:0in;
+	margin-right:0in;
 	margin-bottom:10.0pt;
-	margin-left:36.0pt;
+	margin-left:.5in;
 	mso-add-space:auto;
 	mso-pagination:widow-orphan;
 	font-size:10.0pt;
 	mso-bidi-font-size:12.0pt;
-	font-family:"Verdana","sans-serif";
+	font-family:"Verdana",sans-serif;
 	mso-fareast-font-family:"MS Mincho";
 	mso-bidi-font-family:"Times New Roman";
 	color:#AAAAAA;}
@@ -1071,16 +1080,15 @@ raphCxSpFirst
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
 	mso-style-type:export-only;
-	margin-top:0cm;
-	margin-right:0cm;
-	margin-bottom:0cm;
-	margin-left:36.0pt;
-	margin-bottom:.0001pt;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
 	mso-add-space:auto;
 	mso-pagination:widow-orphan;
 	font-size:10.0pt;
 	mso-bidi-font-size:12.0pt;
-	font-family:"Verdana","sans-serif";
+	font-family:"Verdana",sans-serif;
 	mso-fareast-font-family:"MS Mincho";
 	mso-bidi-font-family:"Times New Roman";
 	color:#AAAAAA;}
@@ -1090,16 +1098,15 @@ agraphCxSpMiddle
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
 	mso-style-type:export-only;
-	margin-top:0cm;
-	margin-right:0cm;
-	margin-bottom:0cm;
-	margin-left:36.0pt;
-	margin-bottom:.0001pt;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
 	mso-add-space:auto;
 	mso-pagination:widow-orphan;
 	font-size:10.0pt;
 	mso-bidi-font-size:12.0pt;
-	font-family:"Verdana","sans-serif";
+	font-family:"Verdana",sans-serif;
 	mso-fareast-font-family:"MS Mincho";
 	mso-bidi-font-family:"Times New Roman";
 	color:#AAAAAA;}
@@ -1109,15 +1116,15 @@ phCxSpLast
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
 	mso-style-type:export-only;
-	margin-top:0cm;
-	margin-right:0cm;
+	margin-top:0in;
+	margin-right:0in;
 	margin-bottom:10.0pt;
-	margin-left:36.0pt;
+	margin-left:.5in;
 	mso-add-space:auto;
 	mso-pagination:widow-orphan;
 	font-size:10.0pt;
 	mso-bidi-font-size:12.0pt;
-	font-family:"Verdana","sans-serif";
+	font-family:"Verdana",sans-serif;
 	mso-fareast-font-family:"MS Mincho";
 	mso-bidi-font-family:"Times New Roman";
 	color:#AAAAAA;}
@@ -1129,7 +1136,7 @@ span.Heading2Char
 	mso-style-link:"Heading 2";
 	mso-ansi-font-size:13.0pt;
 	mso-bidi-font-size:13.0pt;
-	font-family:"Verdana","sans-serif";
+	font-family:"Verdana",sans-serif;
 	mso-ascii-font-family:Verdana;
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:major-fareast;
@@ -1146,7 +1153,7 @@ span.Heading3Char
 	mso-style-link:"Heading 3";
 	mso-ansi-font-size:11.0pt;
 	mso-bidi-font-size:12.0pt;
-	font-family:"Verdana","sans-serif";
+	font-family:"Verdana",sans-serif;
 	mso-ascii-font-family:Verdana;
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:major-fareast;
@@ -1155,6 +1162,18 @@ span.Heading3Char
 	mso-bidi-theme-font:major-bidi;
 	color:#AAAAAA;
 	font-weight:bold;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;}
 span.BalloonTextChar
 	{mso-style-name:"Balloon Text Char";
 	mso-style-noshow:yes;
@@ -1163,7 +1182,7 @@ span.BalloonTextChar
 	mso-style-link:"Balloon Text";
 	mso-ansi-font-size:8.0pt;
 	mso-bidi-font-size:8.0pt;
-	font-family:"Tahoma","sans-serif";
+	font-family:"Tahoma",sans-serif;
 	mso-ascii-font-family:Tahoma;
 	mso-fareast-font-family:"MS Mincho";
 	mso-hansi-font-family:Tahoma;
@@ -1179,10 +1198,12 @@ span.GramE
 	mso-default-props:yes;
 	font-size:10.0pt;
 	mso-ansi-font-size:10.0pt;
-	mso-bidi-font-size:10.0pt;}
+	mso-bidi-font-size:10.0pt;
+	mso-font-kerning:0pt;
+	mso-ligatures:none;}
 @page WordSection1
 	{size:595.3pt 841.9pt;
-	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	margin:1.0in 1.25in 1.0in 1.25in;
 	mso-header-margin:35.4pt;
 	mso-footer-margin:35.4pt;
 	mso-paper-source:0;}
@@ -1200,12 +1221,11 @@ div.WordSection1
 	mso-style-noshow:yes;
 	mso-style-priority:99;
 	mso-style-parent:"";
-	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
-	mso-para-margin:0cm;
-	mso-para-margin-bottom:.0001pt;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
 	mso-pagination:widow-orphan;
 	font-size:10.0pt;
-	font-family:"Times New Roman","serif";}
+	font-family:"Times New Roman",serif;}
 table.MsoTableGrid
 	{mso-style-name:"Table Grid";
 	mso-tstyle-rowband-size:0;
@@ -1215,16 +1235,15 @@ table.MsoTableGrid
 	mso-border-themecolor:text1;
 	mso-border-alt:solid black .5pt;
 	mso-border-themecolor:text1;
-	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
 	mso-border-insideh:.5pt solid black;
 	mso-border-insideh-themecolor:text1;
 	mso-border-insidev:.5pt solid black;
 	mso-border-insidev-themecolor:text1;
-	mso-para-margin:0cm;
-	mso-para-margin-bottom:.0001pt;
+	mso-para-margin:0in;
 	mso-pagination:widow-orphan;
 	font-size:10.0pt;
-	font-family:"Times New Roman","serif";}
+	font-family:"Times New Roman",serif;}
 </style>
 <![endif]--><!--[if gte mso 9]><xml>
  <o:shapedefaults v:ext=3D"edit" spidmax=3D"1026">
@@ -1235,305 +1254,471 @@ table.MsoTableGrid
  </o:shapelayout></xml><![endif]-->
 </head>
 
-<body bgcolor=3D"#27282C" lang=3DEN-AU style=3D'tab-interval:36.0pt'>
+<body bgcolor=3D"#27282C" lang=3DEN-US style=3D'tab-interval:.5in;word-wrap=
+:break-word'>
 
 <div class=3DWordSection1>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span
-style=3D'font-size:11.0pt'>Hotkeys <o:p></o:p></span></b></p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'font-size:11.0pt;mso-ansi-language:EN-AU'>Hotkeys <o:p></o:p></spa=
+n></b></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Alt 1</b> - d=
-esignate
-origin for civilian cargo mission </p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Alt 1</span></b><span lang=3DEN-AU
+style=3D'mso-ansi-language:EN-AU'> - designate origin for civilian cargo mi=
+ssion <o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Alt 2</b> - d=
-esignate
-destination for civilian cargo mission </p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Alt 2</span></b><span lang=3DEN-AU
+style=3D'mso-ansi-language:EN-AU'> - designate destination for civilian car=
+go
+mission <o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Alt 3</b> - d=
-esignate
-ship to perform mission </p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Alt 3</span></b><span lang=3DEN-AU
+style=3D'mso-ansi-language:EN-AU'> - designate ship to perform mission <o:p=
+></o:p></span></p>
 
 <p class=3DMsoNormal><span class=3DGramE><b style=3D'mso-bidi-font-weight:n=
-ormal'>Alt
-;</b></span> - Cycle backward through current selection's ship type </p>
+ormal'><span
+lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'>Alt ;</span></b></span><span
+lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'> - Cycle backward through cu=
+rrent
+selection's ship type <o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Alt '</b> - C=
-ycle forward
-through current selection's ship type </p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Alt '</span></b><span lang=3DEN-AU
+style=3D'mso-ansi-language:EN-AU'> - Cycle forward through current selectio=
+n's
+ship type <o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Alt-u</b> - F=
-orce a
-freighter, who&#8217;s current target is a base or planet, to unload its ca=
-rgo
-when it docks.</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Alt-u</span></b><span lang=3DEN-AU
+style=3D'mso-ansi-language:EN-AU'> - Force a freighter, who&#8217;s current
+target is a base or planet, to unload its cargo when it docks.<o:p></o:p></=
+span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Alt-M (shift-=
-Alt-M)</b>
-Order a state mining ship to mine selected planet<o:p></o:p></p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Alt-M (shift-Alt-M)</span></b><span lang=
+=3DEN-AU
+style=3D'mso-ansi-language:EN-AU'> Order a state mining ship to mine select=
+ed
+planet<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Alt-R</b> Rev=
-eal your
-smuggler as a pirate (allows you to attack independents).</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Alt-R</span></b><span lang=3DEN-AU
+style=3D'mso-ansi-language:EN-AU'> Reveal your smuggler as a pirate (allows=
+ you
+to attack independents).<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+<p class=3DMsoNormal><span lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'><=
+o:p>&nbsp;</o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Ctrl W</b> - =
-Execute
-Passenger transport mission, must have passenger ship selected AND <b
-style=3D'mso-bidi-font-weight:normal'>must use the passenger.txt file!</b> =
-Copy
-paste is a MUST! You may keep the txt file open, however it must be saved
-between uses. Will only transport primary race citizens. </p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Ctrl W</span></b><span lang=3DEN-AU
+style=3D'mso-ansi-language:EN-AU'> - Execute Passenger transport mission, m=
+ust
+have passenger ship selected AND <b style=3D'mso-bidi-font-weight:normal'>m=
+ust
+use the passenger.txt file!</b> Copy paste is a MUST! You may keep the txt =
+file
+open, however it must be saved between uses. Will only transport primary ra=
+ce
+citizens. <o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Ctrl E</b> - =
-Find
-item by given name. Also opens the dialog for Misc. Commands (below)</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Ctrl E</span></b><span lang=3DEN-AU
+style=3D'mso-ansi-language:EN-AU'> - Find item by given name. Also opens the
+dialog for Misc. Commands (below)<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Ctrl R</b> - =
-Itemized
-list of damaged components (Doesn't work for <span class=3DSpellE>unowned</=
-span>
-ships in my experience, would be neat to see how that desolation moon is co=
-ming
-though eh?) </p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Ctrl R</span></b><span lang=3DEN-AU
+style=3D'mso-ansi-language:EN-AU'> - Itemized list of damaged components (D=
+oesn't
+work for unowned ships in my experience, would be neat to see how that
+desolation moon is coming though eh?) <o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Ctrl S</b> - =
-Displays
-battle stats of selected item </p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Ctrl S</span></b><span lang=3DEN-AU
+style=3D'mso-ansi-language:EN-AU'> - Displays battle stats of selected item=
+ <o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Ctrl-T</b> &#=
-8211;
-Add selected ship or base to tradable items list.</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Ctrl-T</span></b><span lang=3DEN-AU
+style=3D'mso-ansi-language:EN-AU'> &#8211; Add selected ship or base to tra=
+dable
+items list.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>A</b> &#8211;=
- Now
-toggles automation on selected ship instead of just enabling it.</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>A</span></b><span lang=3DEN-AU style=3D'm=
+so-ansi-language:
+EN-AU'> &#8211; Now toggles automation on selected ship instead of just
+enabling it.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Ctrl-P</b> &#=
-8211;
-Opens the prisoners form.</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Ctrl-P</span></b><span lang=3DEN-AU
+style=3D'mso-ansi-language:EN-AU'> &#8211; Opens the prisoners form.<o:p></=
+o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Ctrl Enter</b=
-> - See
-the cargo mission of a Freighter, research of Explorer, or cargo for any sh=
-ip
-with cargo.</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Ctrl Enter</span></b><span lang=3DEN-AU
+style=3D'mso-ansi-language:EN-AU'> - See the cargo mission of a Freighter,
+research of Explorer, or cargo for any ship with cargo.<o:p></o:p></span></=
+p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Alt-Enter</b>=
- &#8211;
-See detailed commands for the selected ship&#8217;s mission.</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Alt-Enter</span></b><span lang=3DEN-AU
+style=3D'mso-ansi-language:EN-AU'> &#8211; See detailed commands for the se=
+lected
+ship&#8217;s mission.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Ctrl-F</b><sp=
-an
-style=3D'mso-spacerun:yes'>&nbsp;&nbsp; </span>Will identify the system the
-selected ship is in. This should fix a situation where an explorer is not
-actually exploring (because the game doesn&#8217;t think it&#8217;s in a
-system).</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Ctrl-F</span></b><span lang=3DEN-AU
+style=3D'mso-ansi-language:EN-AU'><span style=3D'mso-spacerun:yes'>&nbsp;&n=
+bsp;
+</span>Will identify the system the selected ship is in. This should fix a
+situation where an explorer is not actually exploring (because the game
+doesn&#8217;t think it&#8217;s in a system).<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Alt-Ctrl+ rig=
-ht click</b>:
-Open a context menu with some context specific options. Used for free trade=
-rs
-and <span class=3DSpellE>praites</span> building at independent worlds.</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Alt-Ctrl+ right click</span></b><span
+lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'>: Open a context menu with s=
+ome
+context specific options. Used for free traders and <span class=3DSpellE>pr=
+aites</span>
+building at independent worlds.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+<p class=3DMsoNormal><span lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'><=
+o:p>&nbsp;</o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span
-style=3D'font-size:11.0pt'>Fighter/Bomber Hotkeys <o:p></o:p></span></b></p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'font-size:11.0pt;mso-ansi-language:EN-AU'>Fighter/Bomber Hotkeys <=
+o:p></o:p></span></b></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Alt 4</b> -
-designates target. Select target first and then press Alt 4.</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Alt 4</span></b><span lang=3DEN-AU
+style=3D'mso-ansi-language:EN-AU'> - designates target. Select target first=
+ and
+then press Alt 4.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Alt 5</b> - A=
-ttack
-order for bombers. After a target has been set, select Bomber or Carrier th=
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Alt 5</span></b><span lang=3DEN-AU
+style=3D'mso-ansi-language:EN-AU'> - Attack order for bombers. After a targ=
+et has
+been set, select Bomber or Carrier then Alt 5. If bomber is selected orders
+THAT bomber to attack, if carrier, all bombers attack target.<o:p></o:p></s=
+pan></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Alt 6</span></b><span lang=3DEN-AU
+style=3D'mso-ansi-language:EN-AU'> - Attack order for bombers not already
+launched, will not alter current attack missions for launched bombers. Alt 4
+attack order must be set first.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Alt /</span></b><span lang=3DEN-AU
+style=3D'mso-ansi-language:EN-AU'> - Find targeted fighter's parent carrier=
+/base.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>Alt-a</span></b><span lang=3DEN-AU
+style=3D'mso-ansi-language:EN-AU'> - Enable manual fighter ops (so this
+carrier&#8217;s bombers won&#8217;t attack unless ordered to). <o:p></o:p><=
+/span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'><=
+o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'font-size:11.0pt;mso-ansi-language:EN-AU'>Fleet Commands <o:p></o:=
+p></span></b></p>
+
+<p class=3DMsoNormal><span lang=3DEN-AU style=3D'mso-bidi-font-size:10.0pt;
+mso-ansi-language:EN-AU'>Open the dialog window Ctrl E then enter commands.=
+ For
+some commands you may need items selected in-game first.<o:p></o:p></span><=
+/p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>#disband </span></b><span lang=3DEN-AU
+style=3D'mso-ansi-language:EN-AU'>- Disband selected fleet <o:p></o:p></spa=
+n></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>#disband <span class=3DSpellE>FleetName</=
+span></span></b><span
+lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'> - Disband by name of fleet =
+inputted
+<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>#join <span class=3DSpellE>FleetName</spa=
+n></span></b><span
+lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'> - Join fleet by fleet input=
+ted <o:p></o:p></span></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>#combine <span class=3DSpellE>FleetName</=
+span></span></b><span
+lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'> - Join selected fleet to in=
+putted
+fleet disbanding the selected fleet <o:p></o:p></span></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>#combine Fleet1+Fleet2</span></b><span
+lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'> - Combine inputted last fle=
+et into
+inputted first fleet disbanding last fleet <o:p></o:p></span></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>#<span class=3DGramE>add</span> [<span
+class=3DSpellE>shipDesign</span>]=3D[amount]</span></b><span lang=3DEN-AU
+style=3D'mso-ansi-language:EN-AU'> - This command will attempt to reinforce=
+ the
+currently selected fleet with [amount] of [ship design] ships. If [amount] =
+is
+left off it defaults to 1. <o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'><=
+o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'font-size:11.0pt;mso-ansi-language:EN-AU'>Misc. Commands<o:p></o:p=
+></span></b></p>
+
+<p class=3DMsoNormal><span lang=3DEN-AU style=3D'mso-bidi-font-size:10.0pt;
+mso-ansi-language:EN-AU'>Open the dialog window Ctrl E then enter commands.=
+ For
+some commands you may need items selected in-game first.<o:p></o:p></span><=
+/p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>!note </span></b><span lang=3DEN-AU
+style=3D'mso-ansi-language:EN-AU'>- This adds a reminder note to a ship. It=
+ will
+trigger a popup with the message when the ship completes its mission.<o:p><=
+/o:p></span></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>!note <span class=3DSpellE>nodump</span><=
+/span></b><span
+lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'> - Adding <span class=3DSpel=
+lE>nodump</span>
+to a note makes it so the selected mining ship will not unload its cargo wh=
 en
-Alt 5. If bomber is selected orders THAT bomber to attack, if carrier, all
-bombers attack target.</p>
+done mining. Good if you want to move the resource to a specific base/plane=
+t or
+use it to refuel your fleet.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Alt 6</b> - A=
-ttack
-order for bombers not already launched, will not alter current attack missi=
-ons
-for launched bombers. Alt 4 attack order must be set first.</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>!<span class=3DSpellE>nukem</span></span>=
+</b><span
+lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'> &#8211; Destroys all unowne=
+d ships.
+If passed with true argument <span class=3DGramE>(!<span class=3DSpellE>nuk=
+em</span></span>
+true) it will keep bases. Use this when starting a story-mode game to get r=
+id
+of all the graveyards of super ships that many people find unbalancing.<o:p=
+></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Alt /</b> - F=
-ind
-targeted fighter's parent carrier/base.</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>!clear</span></b><span lang=3DEN-AU
+style=3D'mso-ansi-language:EN-AU'> - This will clear the currently selected
+ship&#8217;s mission as well as any repeating mission.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Alt-a</b> - E=
-nable
-manual fighter ops (so this carrier&#8217;s bombers won&#8217;t attack unle=
-ss
-ordered to). </p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>!<span class=3DSpellE>braveships</span></=
+span></b><span
+lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'> - This changes all ship des=
+igns
+flee setting from &#8216;enemy encountered&#8217; to &#8216;when
+attacked&#8217;<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>!<span class=3DSpellE>rangecircles</span>=
+</span></b><span
+lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'> - This toggles weapon range=
+ circles
+on and off<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span
-style=3D'font-size:11.0pt'>Fleet Commands <o:p></o:p></span></b></p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>!<span class=3DSpellE>loadtemplates</span=
+></span></b><span
+lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'> - Reloads ship templates.<o=
+:p></o:p></span></p>
 
-<p class=3DMsoNormal><span style=3D'mso-bidi-font-size:10.0pt'>Open the dia=
-log
-window Ctrl E then enter commands. For some commands you may need items
-selected in-game first.<o:p></o:p></span></p>
-
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>#disband </b>-
-Disband selected fleet </p>
-
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>#disband <span
-class=3DSpellE>FleetName</span></b> - Disband by name of fleet inputted </p>
-
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>#join <span
-class=3DSpellE>FleetName</span></b> - Join fleet by fleet inputted </p>
-
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>#combine <span
-class=3DSpellE>FleetName</span></b> - Join selected fleet to inputted fleet
-disbanding the selected fleet </p>
-
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>#combine
-Fleet1+Fleet2</b> - Combine inputted last fleet into inputted first fleet
-disbanding last fleet </p>
-
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>#add [<span
-class=3DSpellE>shipDesign</span><span class=3DGramE>]=3D</span>[amount]</b>=
- - This
-command will attempt to reinforce the currently selected fleet with [amount=
-] of
-[ship design] ships. If [amount] is left off it defaults to 1. </p>
-
-<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
-
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span
-style=3D'font-size:11.0pt'>Misc. Commands<o:p></o:p></span></b></p>
-
-<p class=3DMsoNormal><span style=3D'mso-bidi-font-size:10.0pt'>Open the dia=
-log
-window Ctrl E then enter commands. For some commands you may need items
-selected in-game first.<o:p></o:p></span></p>
-
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>!note </b>- T=
-his adds
-a reminder note to a ship. It will trigger a popup with the message when the
-ship completes its mission.</p>
-
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>!note <span
-class=3DSpellE>nodump</span></b> - Adding <span class=3DSpellE>nodump</span=
-> to a
-note makes it so the selected mining ship will not unload its cargo when do=
-ne
-mining. Good if you want to move the resource to a specific base/planet or =
-use
-it to refuel your fleet.</p>
-
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>!<span class=
-=3DSpellE>nukem</span></b>
-&#8211; Destroys all <span class=3DSpellE>unowned</span> ships. If passed w=
-ith
-true argument (<span class=3DGramE>!<span class=3DSpellE>nukem</span></span=
-> true)
-it will keep bases. Use this when starting a story-mode game to get rid of =
-all
-the graveyards of super ships that many people find unbalancing.</p>
-
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>!clear</b> - =
-This
-will clear the currently selected ship&#8217;s mission as well as any repea=
-ting
-mission.</p>
-
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>!<span class=
-=3DSpellE>braveships</span></b>
-- This changes all ship designs flee setting from &#8216;enemy
-encountered&#8217; to &#8216;when attacked&#8217;</p>
-
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>!<span class=
-=3DSpellE>rangecircles</span></b>
-- This toggles weapon range circles on and off</p>
-
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>!<span class=
-=3DSpellE>loadtemplates</span></b>
-- Reloads ship templates.</p>
-
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>!loan [amount=
-]</b> <span
+<p class=3DMsoNormal><span class=3DGramE><b style=3D'mso-bidi-font-weight:n=
+ormal'><span
+lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'>!loan</span></b></span><b
+style=3D'mso-bidi-font-weight:normal'><span lang=3DEN-AU style=3D'mso-ansi-=
+language:
+EN-AU'> [amount]</span></b><span lang=3DEN-AU style=3D'mso-ansi-language:EN=
+-AU'> <span
 class=3DGramE>-<span style=3D'mso-spacerun:yes'>&nbsp; </span>Allows</span>=
  the
 player to take out a loan of [amount] credits paid back with interest over a
-number of years. <span class=3DGramE>Enter !</span>loan without an amount t=
+number of years. <span class=3DGramE>Enter !loan</span> without an amount t=
 o see
-current loans outstanding.</p>
+current loans outstanding.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>!stockpile [a=
-mount]</b>
-- Adds [amount] of each strategic resource to each empire&#8217;s capital.<=
-/p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>!stockpile [amount]</span></b><span lang=
+=3DEN-AU
+style=3D'mso-ansi-language:EN-AU'> - Adds [amount] of each strategic resour=
+ce to
+each empire&#8217;s capital.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>!<span class=
-=3DSpellE>stockpilebooty</span>
-[amount</b>] - Adds [amount] of each strategic resource to each pirate
-empire&#8217;s main base.</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>!<span class=3DSpellE>stockpilebooty</spa=
+n>
+[amount</span></b><span lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'>] - =
+Adds
+[amount] of each strategic resource to each pirate empire&#8217;s main base=
+.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>!spy #</b> - =
-Send spy
-with highest espionage rating on a steal tech mission (# months).</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>!spy #</span></b><span lang=3DEN-AU
+style=3D'mso-ansi-language:EN-AU'> - Send spy with highest espionage rating=
+ on a
+steal tech mission (# months).<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>!<span class=
-=3DSpellE>freetrader</span></b>
-&#8211; makes a ship a free trader.</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>!<span class=3DSpellE>freetrader</span></=
+span></b><span
+lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'> &#8211; makes a ship a free=
+ trader.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>!infrastructu=
-re
-[amount]</b> <span class=3DGramE>-<span style=3D'mso-spacerun:yes'>&nbsp;
-</span>Adds</span> [amount] money in infrastructure spending to a colony.</=
-p>
+<p class=3DMsoNormal><span class=3DGramE><b style=3D'mso-bidi-font-weight:n=
+ormal'><span
+lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'>!infrastructure</span></b></=
+span><b
+style=3D'mso-bidi-font-weight:normal'><span lang=3DEN-AU style=3D'mso-ansi-=
+language:
+EN-AU'> [amount]</span></b><span lang=3DEN-AU style=3D'mso-ansi-language:EN=
+-AU'> <span
+class=3DGramE>-<span style=3D'mso-spacerun:yes'>&nbsp; </span>Adds</span> [=
+amount]
+money in infrastructure spending to a colony.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>!<span class=
-=3DSpellE>godmode</span></b>
-- Toggles total visibility of all ships, bases, and planets on or off.</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>!<span class=3DSpellE>godmode</span></spa=
+n></b><span
+lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'> - Toggles total visibility =
+of all
+ships, bases, and planets on or off.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>!overtime [am=
-ount]</b>
-&#8211; Adds [amount] years to the start date for checking victory conditio=
-ns</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>!overtime [amount]</span></b><span lang=
+=3DEN-AU
+style=3D'mso-ansi-language:EN-AU'> &#8211; Adds [amount] years to the start=
+ date
+for checking victory conditions<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>!<span class=
-=3DSpellE>yourock</span></b>
-- Adds an asteroid orbiting the selected colony. Cost determined in <span
-class=3DSpellE>Baconsettings</span> file.</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>!<span class=3DSpellE>yourock</span></spa=
+n></b><span
+lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'> - Adds an asteroid orbiting=
+ the
+selected colony. Cost determined in <span class=3DSpellE>Baconsettings</spa=
+n>
+file.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>!<span class=
-=3DSpellE>filterresource</span>
-[<span class=3DSpellE>resourceID</span>]</b> <span class=3DGramE>-<span
+<p class=3DMsoNormal><span class=3DGramE><b style=3D'mso-bidi-font-weight:n=
+ormal'><span
+lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'>!<span class=3DSpellE>filter=
+resource</span></span></b></span><b
+style=3D'mso-bidi-font-weight:normal'><span lang=3DEN-AU style=3D'mso-ansi-=
+language:
+EN-AU'> [<span class=3DSpellE>resourceID</span>]</span></b><span lang=3DEN-=
+AU
+style=3D'mso-ansi-language:EN-AU'> <span class=3DGramE>-<span
 style=3D'mso-spacerun:yes'>&nbsp; </span>This</span> will filter the left-h=
 and
 lists of resource locations and mining stations to only show those with the
 selected resource. Input without a <span class=3DSpellE>resourceID</span> to
 revert to no filter. These menus will also be sorted by distance from the
-currently selected object if there is one.</p>
+currently selected object if there is one.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>!price [<span
-class=3DSpellE>commodityName</span>]</b> &#8211; Gives a list of prices on =
-the
-ten closest planets to the currently selected ship.<o:p></o:p></p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>!price [<span class=3DSpellE>commodityNam=
+e</span>]</span></b><span
+lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'> &#8211; Gives a list of pri=
+ces on
+the ten closest planets to the currently selected ship.<o:p></o:p></span></=
+p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>!science [all=
-]</b>
-&#8211; Turns all explorers into science ships. Adding the &#8216;all&#8217;
-parameter does it for all empires. This is a quick way to make science ships
-work if you don&#8217;t want to modify all the design template files manual=
-ly.</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'mso-ansi-language:EN-AU'>!science [all]</span></b><span lang=3DEN-=
+AU
+style=3D'mso-ansi-language:EN-AU'> &#8211; Turns all explorers into science
+ships. Adding the &#8216;all&#8217; parameter does it for all empires. This=
+ is
+a quick way to make science ships work if you don&#8217;t want to modify all
+the design template files manually.<o:p></o:p></span></p>
 
-<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+<p class=3DMsoNormal><span lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'><=
+o:p>&nbsp;</o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span
-style=3D'font-size:11.0pt'>Alt + Ctrl + Right Click menu<o:p></o:p></span><=
-/b></p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-AU
+style=3D'font-size:11.0pt;mso-ansi-language:EN-AU'>Alt + Ctrl + Right Click=
+ menu<o:p></o:p></span></b></p>
 
-<p class=3DMsoNormal>Note: you MUST hold ALT first and then add CTRL and th=
-en
-Right click. Not doing so will bring up DWU&#8217;s CTRL + right click menu=
-.</p>
+<p class=3DMsoNormal><span lang=3DEN-AU style=3D'mso-ansi-language:EN-AU'>N=
+ote: you
+MUST hold ALT first and then add CTRL and then Right click. Not doing so wi=
+ll
+bring up DWU&#8217;s CTRL + right click menu.<o:p></o:p></span></p>
 
 </div>
 
@@ -1541,7 +1726,7 @@ Right click. Not doing so will bring up DWU&#8217;s CTRL + right click menu=
 
 </html>
 
-------=_NextPart_01D6483B.7B6698C0
+------=_NextPart_01DC8E08.BABF8B30
 Content-Location: file:///C:/E5772393/GameInfo_BaconModHotkeys_files/item0006.xml
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/xml
@@ -1549,8 +1734,7 @@ Content-Type: text/xml
 <b:Sources SelectedStyle=3D"\APA.XSL" StyleName=3D"APA" xmlns:b=3D"http://s=
 chemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns=3D"http:/=
 /schemas.openxmlformats.org/officeDocument/2006/bibliography"></b:Sources>
-
-------=_NextPart_01D6483B.7B6698C0
+------=_NextPart_01DC8E08.BABF8B30
 Content-Location: file:///C:/E5772393/GameInfo_BaconModHotkeys_files/props007.xml
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/xml
@@ -1560,7 +1744,7 @@ Content-Type: text/xml
 s:ds=3D"http://schemas.openxmlformats.org/officeDocument/2006/customXml"><d=
 s:schemaRefs><ds:schemaRef ds:uri=3D"http://schemas.openxmlformats.org/offi=
 ceDocument/2006/bibliography"/></ds:schemaRefs></ds:datastoreItem>
-------=_NextPart_01D6483B.7B6698C0
+------=_NextPart_01DC8E08.BABF8B30
 Content-Location: file:///C:/E5772393/GameInfo_BaconModHotkeys_files/themedata.thmx
 Content-Transfer-Encoding: base64
 Content-Type: application/vnd.ms-officetheme
@@ -1621,7 +1805,7 @@ aGVtZS90aGVtZTEueG1sUEsBAi0AFAAGAAgAAAAhAA3RkJ+2AAAAGwEAACcAAAAAAAAAAAAAAAAA
 oAkAAHRoZW1lL3RoZW1lL19yZWxzL3RoZW1lTWFuYWdlci54bWwucmVsc1BLBQYAAAAABQAFAF0B
 AACbCgAAAAA=
 
-------=_NextPart_01D6483B.7B6698C0
+------=_NextPart_01DC8E08.BABF8B30
 Content-Location: file:///C:/E5772393/GameInfo_BaconModHotkeys_files/colorschememapping.xml
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/xml
@@ -1631,7 +1815,7 @@ Content-Type: text/xml
  bg1=3D"lt1" tx1=3D"dk1" bg2=3D"lt2" tx2=3D"dk2" accent1=3D"accent1" accent=
 2=3D"accent2" accent3=3D"accent3" accent4=3D"accent4" accent5=3D"accent5" a=
 ccent6=3D"accent6" hlink=3D"hlink" folHlink=3D"folHlink"/>
-------=_NextPart_01D6483B.7B6698C0
+------=_NextPart_01DC8E08.BABF8B30
 Content-Location: file:///C:/E5772393/GameInfo_BaconModHotkeys_files/filelist.xml
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/xml; charset="utf-8"
@@ -1644,4 +1828,4 @@ Content-Type: text/xml; charset="utf-8"
  <o:File HRef=3D"colorschememapping.xml"/>
  <o:File HRef=3D"filelist.xml"/>
 </xml>
-------=_NextPart_01D6483B.7B6698C0--
+------=_NextPart_01DC8E08.BABF8B30--
