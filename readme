@@ -31,14 +31,9 @@ v0.9.0 -- 18 May 2023 -- Initial release
 16 April 2025 -- I'm hitting component number limits with the game files. While I now have fighter/bomber combo hangars so the AI doesn't just build fighters only AND I have fighter-only hangars so players can add in those for space superiority (combo hangars force a 50/50 fighter/bomber split) right now I am NOT able to add in bomber-only hangars b/c I've run out of components to use. For now all that is in the game are combo fighter/bomber hangars and fighter-only hangars.
 
 /========== Installation ==========\
-1. Download the .zip or .7z archive for DWUR that holds all of the mod's files
-2. Unpack the downloaded DWUR archive into the CUSTOMIZATION folder of your DWU game directory.
+1. Download the .zip or .7z archive for DWUR
+2. Unpack the downloaded DWUR archive folder into the CUSTOMIZATION folder of your DWU game directory.
 3. Launch the game.
 4. Go to "Change Theme"
-5. Pick the name of the directory you created in step 2 and click Activate Theme.
-
-(The game might hang for up to a minute while everything loads)
-
-7. Exit the game and restart (even though the game loads the files after clicking "Activate Theme", it only partially loads...I don't know why DW:U is like this...I'm not a developer :D You need to exit the game and restart after activating the theme.)
-8. You'll know the mod is fully activated by seeing the custom DWUR background and hearing the music (if you have your music volume turned on)
-9. Enjoy!
+5. Pick DWUR. (The game might hang for up to a minute while everything loads)
+6. Exit the game and restart. This is important. The mod won't fully load until a game exit/restart.
