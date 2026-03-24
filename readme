@@ -1,26 +1,16 @@
 Distant Worlds Universe REFRESHED (DWUR)
-Version 1.2.0
+
+https://github.com/salemonz/DWUR
 
 Full forum post: https://www.matrixgames.com/forums/viewtopic.php?f=10492&t=395506
-
-/========== DWUR Feature summary ==========\
-
-*New race and character art for all species (22 original species PLUS the 24 additional ones from Haree78's Distant World Extended Mod)
-*New shipsets (44 playable races, 2 NPC races and 3 Pirate sets)
-*New art for planets (all but gas giants and frozen gas giants...I'm still terrible at those)
-*Scaled down ships and weapon effects for better immersion
-*New space stations for all races
-*Refreshed engine and weapon effects (hand picked and modified from various sources)
-*Refreshed galaxy symbol overlays (decluttered and more specific)
-*Refreshed UI (new role graphics and some old DWU UI mod assets)
 
 /========== About ==========\
 For years I have enjoyed Distant Worlds Universe. This mod compilation is my attempt to give back to the community by combining the best DWU gameplay and visual enhancements into one experience. It features completely redesigned aliens (all 45 races from Haree78's Extended Mod...whew!), all new shipsets, new planet graphics, new/refreshed sounds, new/refreshed UI elements and an integrated variety of the best DWU gameplay mods out there (IMO).
 -- Salemonz
 
+v1.5.0 -- 24 March 2026 -- New engine exhaust graphics. New ground-unit icons. New race pics (group shots). Component balance pass incorporated. 14 game files edited. Weapons/fighters changed. Tech research orders altered for 10 races. Refreshed all 194 components. New images (many pulled from my DW2 mods). Refreshed flags. 75 new empire flags. 75 new pirate flags. Balance pass incorporated. 2K files edited/changed. Race stats, AI policies, design templates, pirate behavior...even dialog during diplomacy have all been refreshed. 46 races in DWUR should all behave and play very differently. Updated pirate portraits.
+
 v1.2.0 -- 04 March 2026 -- Updated portraits for 25 races. Updated alert sound due to user request. Updated hyperdeny graphic for better visibility. Updated UI character icons for better visibility. Renamed/changed several races to help them fit in with the overall spread.
-
-
 v1.1.2 -- 16 April 2025 -- Fixed "spinning missile" situation. Added in fighter/bomber combo hangars for the AI.
 v1.1.1 -- 29 March 2025 -- Updated blank pirate policy files that were causing errors with Alvek's Expanded Mod
 v1.1.0 -- 16 April 2024 -- A few UI icon tweaks/replacements.
